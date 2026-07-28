@@ -86,7 +86,7 @@ All resources used in this roadmap are **100% FREE**.
 - Computer Science Fundamentals
 
 ## Phase 1
-Core Java
+Core Java 
 
 ## Phase 2
 Object-Oriented Programming
@@ -141,48 +141,6 @@ Deployment
 
 ## Phase 19
 Interview Preparation
-
----
-
-# 📂 Repository Structure
-
-```
-Java-Backend-Bootcamp/
-
-│
-├── Day01/
-├── Day02/
-├── Day03/
-│
-├── Core-Java/
-├── DSA/
-├── SQL/
-├── JDBC/
-├── Spring/
-├── Spring-Boot/
-├── Projects/
-├── Notes/
-├── Interview-Preparation/
-├── Aptitude/
-├── Communication/
-├── Resume/
-└── README.md
-```
-
----
-
-# 📅 Daily Routine (14 Hours)
-
-| Time | Activity |
-|-------|----------|
-|05:00–07:00|Java Theory|
-|07:15–08:15|Coding Practice|
-|09:00–10:30|DSA|
-|10:45–12:00|Aptitude|
-|13:00–15:00|Assignments & Mini Project|
-|15:15–16:15|GitHub & Documentation|
-|16:30–18:00|Revision|
-|19:00–20:00|Interview + Communication Practice|
 
 ---
 
@@ -243,25 +201,7 @@ Every day includes:
 
 ---
 
-# 📊 GitHub Commit Rules
-
-- Commit every day.
-- Use meaningful commit messages.
-- Push code after completing daily tasks.
-- Keep code clean and readable.
-- Update README whenever a major milestone is completed.
-
-Example:
-
-```
-Day01: Completed Variables & Data Types
-
-Day07: Completed Arrays
-
-Day25: Completed OOP
-
-Day48: Built Student Management System
-```
+48: Built Student Management System
 
 ---
 
