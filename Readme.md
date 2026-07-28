@@ -60,18 +60,13 @@ By the end of this bootcamp, I will be able to:
 
 ---
 
-# 📚 Learning Resources
+#  Learning Resources
 
 All resources used in this roadmap are **100% FREE**.
 
-- Oracle Java Documentation
-- Spring Official Documentation
 - GeeksforGeeks
 - HackerRank
 - LeetCode
-- SQLBolt
-- Bro Code
-- Kunal Kushwaha
 
 ---
 
@@ -87,6 +82,61 @@ All resources used in this roadmap are **100% FREE**.
 
 ## Phase 1
 Core Java 
+
+## Topics
+
+- ✅ Java Introduction
+- ✅ JDK, JRE & JVM
+- ✅ Java Program Structure
+- ✅ Print Statements
+- ✅ Variables
+- ✅ Data Types
+- ✅ Naming Conventions
+- ✅ Operators
+- ✅ Arithmetic Operators
+- ✅ Assignment Operators
+- ✅ Unary Operators
+- ✅ Scanner Class
+- ✅ Type Casting
+- ✅ Relational Operators
+- ✅ Logical Operators
+- Conditional Statements
+  - if
+  - if-else
+  - else-if Ladder
+  - Nested if
+  - switch
+  - Ternary Operator
+- Loops
+  - for Loop
+  - while Loop
+  - do-while Loop
+  - Nested Loops
+- Pattern Programming
+- Number Programs
+  - Prime Number
+  - Palindrome
+  - Armstrong Number
+  - Factorial
+  - Fibonacci Series
+- Methods
+- Method Overloading
+- Arrays (1D & 2D)
+- String
+- StringBuilder
+- StringBuffer
+- Wrapper Classes
+- Math Class
+- Command Line Arguments
+- Packages
+- Static Keyword
+- Final Keyword
+- this Keyword
+- super Keyword
+- Coding Practice
+- Debugging
+- Dry Run & Output Prediction
+- Mini Projects
 
 ## Phase 2
 Object-Oriented Programming
