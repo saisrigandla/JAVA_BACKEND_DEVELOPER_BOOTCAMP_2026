@@ -5,14 +5,20 @@
 ---
 
 # Timeline
-
 - **Start Date:** 22 July 2026
 - **End Date:** 16 October 2026
 - **Target Offer Date:** 17 October 2026
 
 Total Duration: **87 Days**
 Days Completed: **7 Days**
-Days To Be Complete: **80 Days**
+Days Remaining: **80 Days**
+
+---
+
+## Current Progress
+Completed Phases : 1/19
+Current Phase : Core Java
+Current Day : Day 7 / 87
 
 ---
 
@@ -33,20 +39,16 @@ By the end of this bootcamp, I will be able to:
 # Tech Stack
 
 ## Programming
-
 - Java 21 (or latest LTS)
 
 ## IDE
-
 - VS Code (present)
 - IntelliJ IDEA Community Edition (later)
 
 ## Database
-
 - MySQL (present)
 
 ## Backend (later)
-
 - Spring
 - Spring Boot
 - JDBC
@@ -54,7 +56,6 @@ By the end of this bootcamp, I will be able to:
 - JPA
 
 ## Tools
-
 - Git (later)
 - GitHub (Present)
 - Maven (later)
@@ -63,9 +64,11 @@ By the end of this bootcamp, I will be able to:
 ---
 
 # Learning Resources
-All resources used in this roadmap are **100% FREE**.
+This roadmap primarily uses free learning resources.
 ### Websites
-- GeeksforGeeks 
+- GeeksforGeeks
+- HackerRank
+- LeetCode
 ### Youtube Channels
 - BharathReddy
 - EngineeringAnimuthyam 
@@ -76,12 +79,12 @@ All resources used in this roadmap are **100% FREE**.
 # Learning Phases
 
 ## Phase 0
-- Programming Logic
-- Flowcharts
-- Algorithms
-- Pseudocode
-- Time Complexity
-- Computer Science Fundamentals
+- ✅ Programming Logic
+- ✅ Flowcharts
+- ✅ Algorithms
+- ✅ Pseudocode
+- ✅ Time Complexity
+- ✅ Computer Science Fundamentals
 
 ## Phase 1
 ### Core Java Topics :
@@ -408,7 +411,7 @@ Every day includes:
 ---
 
 # 📈 Progress Tracker
-- [ ] Phase 0
+- [✅] Phase 0
 - [ ] Phase 1
 - [ ] Phase 2
 - [ ] Phase 3
