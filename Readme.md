@@ -11,7 +11,7 @@
 
 Total Duration: **87 Days**
 Days Completed: **8 Days**
-Days Remaining: **79 Days**
+Days Remaining: **78 Days**
 
 ---
 
