@@ -1,4 +1,4 @@
-## Scanner Based Programs:
+## Scanner Based Programs
 - BankAccount.java
 - ShoppingBill.java
 - Circle.java
