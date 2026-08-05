@@ -10,15 +10,15 @@
 - **Target Offer Date:** 17 October 2026
 
 Total Duration: **87 Days**
-Days Completed: **8 Days**
-Days Remaining: **78 Days**
+Days Completed: **15 Days**
+Days Remaining: **72 Days**
 
 ---
 
 ## Current Progress
 Completed Phases : 1/19
 Current Phase : Core Java
-Current Day : Day 9 / 87
+Current Day : Day 15 / 87
 
 ---
 
@@ -107,9 +107,9 @@ This roadmap primarily uses free learning resources.
   - ✅ if
   - ✅ if-else
   - ✅ else-if Ladder
-  - Nested if
-  - switch
-  - Ternary Operator
+  - ✅ Nested if
+  - ✅ switch
+  - ✅ Ternary Operator
 - Loops
   - for Loop
   - while Loop
