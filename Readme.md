@@ -36,36 +36,31 @@ By the end of this bootcamp, I will be able to:
 
 ---
 
-
----
-
 # Tech Stack
----
+
 ## Programming
 - Java 21 (or latest LTS)
----
+  
 ## IDE
 - VS Code (present)
 - IntelliJ IDEA Community Edition (later)
----
+
 ## Database
 - MySQL (present)
----
+
 ## Backend (later)
 - Spring
 - Spring Boot
 - JDBC
 - Hibernate
 - JPA
----
+  
 ## Tools
 - Git (later)
 - GitHub (Present)
 - Maven (later)
 - Postman (later)
   
----
-
 ---
 
 # Learning Resources
@@ -78,8 +73,6 @@ This roadmap primarily uses free learning resources.
 - BharathReddy
 - EngineeringAnimuthyam 
 - lovebabbar
-
----
 
 ---
 
@@ -108,13 +101,9 @@ This roadmap primarily uses free learning resources.
 
 ---
 
----
-
 # 🚀 Java Full Stack Placement Roadmap
 
 🎯 **Target:** Offer Letter by **16/10/2026**
-
----
 
 ---
 
@@ -128,8 +117,6 @@ This roadmap primarily uses free learning resources.
 - [x] Pseudocode
 - [ ] Time Complexity
 - [x] Computer Science Fundamentals
-
----
 
 ---
 
