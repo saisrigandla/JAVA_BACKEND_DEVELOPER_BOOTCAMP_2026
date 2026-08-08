@@ -10,8 +10,8 @@
 - **Target Offer Date:** 17 October 2026
 
 Total Duration: **87 Days**
-Days Completed: **15 Days**
-Days Remaining: **72 Days**
+Days Completed: **18 Days**
+Days Remaining: **69 Days**
 
 ---
 
@@ -78,16 +78,15 @@ This roadmap primarily uses free learning resources.
 
 # Learning Phases
 
-## Phase 0
+## Phase 0 
 - ✅ Programming Logic
 - ✅ Flowcharts
 - ✅ Algorithms
 - ✅ Pseudocode
-- ✅ Time Complexity
+-  Time Complexity
 - ✅ Computer Science Fundamentals
 
-## Phase 1
-### Core Java Topics :
+## Phase 1 - Core Java Topics 🔴Deadline-22/08/2026
 - ✅ Java Introduction
 - ✅ JDK, JRE & JVM
 - ✅ Java Program Structure
@@ -110,7 +109,9 @@ This roadmap primarily uses free learning resources.
   - ✅ Nested if
   - ✅ switch
   - ✅ Ternary Operator
-- Loops
+
+### (8/8/2026)
+- Loops (8/8/2026)
   - for Loop
   - while Loop
   - do-while Loop
@@ -122,12 +123,28 @@ This roadmap primarily uses free learning resources.
   - Armstrong Number
   - Factorial
   - Fibonacci Series
+### (13/8/2026)
+
+### (15/8/2026)
 - Methods
+- Parameters / return values
 - Method Overloading
 - Arrays (1D & 2D)
+- Array traversal
+- Searching
+- Basic sorting
+### (18/08/2026)
+
+### (19/08/2026)
 - String
+- String methods
+- String immutability
 - StringBuilder
 - StringBuffer
+- Basic string programs
+### (20/08/2026)
+
+### (21/08/2026)
 - Wrapper Classes
 - Math Class
 - Command Line Arguments
@@ -140,48 +157,77 @@ This roadmap primarily uses free learning resources.
 - Debugging
 - Dry Run & Output Prediction
 - Mini Projects
+### (22/8/2026)
 
-## Phase 2
-### Object-Oriented Programming Topics:
+
+## Phase 2 - Object-Oriented Programming Topics 🔴Deadline-29/08/2026
+### (23/08/2026)
 - Introduction to OOP
 - Class & Object
 - Constructors
 - Constructor Overloading
 - this Keyword
 - Object Creation
+### (24/08/2026)
+
+### (25/08/2026)
 - Encapsulation
 - Inheritance
 - Method Overriding
 - Polymorphism
+### (26/08/2026)
+
+### (27/08/2026)
 - Abstraction
 - Interfaces
+
+### (28/08/2026)
 - Association
 - Aggregation
 - Composition
 - Object Class
 
-## Phase 3
-### Collections Framework Topics:
+### (29/08/2026)
+- OOP interview revision + coding
+- What is encapsulation?
+- Overloading vs overriding?
+- Abstract class vs interface?
+- Why do we need inheritance?
+- What is runtime polymorphism?
+
+
+## Phase 3 - Collections Framework Topics 🔴Deadline-03/09/2026
+
+### (30/08/2026)
 - Collections Framework Overview
 - List Interface
 - ArrayList
 - LinkedList
+  
+### (29/09/2026)
 - Vector
 - Stack
 - Queue
 - PriorityQueue
 - Deque
+
+### (01/09/2026)
 - Set Interface
 - HashSet
 - LinkedHashSet
 - TreeSet
+
+### (02/09/2026)
 - Map Interface
 - HashMap
 - LinkedHashMap
 - TreeMap
+
+### (03/09/2026)
 - Iterator
 - Comparable
 - Comparator
+- Collections coding practice
 
 ## Phase 4
 ### Exception Handling Topics:
