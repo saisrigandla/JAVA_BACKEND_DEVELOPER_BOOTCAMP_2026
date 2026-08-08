@@ -679,7 +679,7 @@ This roadmap primarily uses free learning resources.
 
 **Core Java → OOP → Collections → SQL → Spring Boot → JPA → REST → JWT → Project → Deployment → Interviews**
 
----
+
 
 # Success Criteria
 Before 17 October 2026, I should have:
@@ -694,7 +694,7 @@ Before 17 October 2026, I should have:
 - ✅ Interview ready
 - ✅ Applied to relevant Java Backend roles
 
----
+
 
 # 🌟 Motto
 
@@ -702,7 +702,7 @@ Before 17 October 2026, I should have:
 >
 > Learn → Practice → Build → Commit → Revise → Repeat.
 
----
+
 
 ### 👩‍💻 Author
 
