@@ -82,7 +82,7 @@ Every Sunday = 🧪 **Weekly Test + Recall Day.** Write concepts from memory, so
 # 🔴 PHASE 1 — CORE JAVA
 **Deadline: 24/08/2026**
 
-## 📅 15/08/2026 — Day 1 — Loops (👈 you are here)
+## 📅 15/08/2026 — Day 1 — Loops 
 - [ ] for / while / do-while — deepen with multi-condition loops
 - [ ] Nested loops, break, continue
 ### Problems
