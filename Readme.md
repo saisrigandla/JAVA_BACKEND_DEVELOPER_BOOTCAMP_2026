@@ -1,11 +1,17 @@
 # 🚀 Java Backend Developer — 60 Day Placement Challenge
 
 > **Mission:** Become employable as a Java Backend Developer by **16 October 2026**
+
 > **Start:** 17 August 2026
+
 > **60-Day Sprint:** 17 August → 15 October 2026
+
 > **Final Placement Day:** 16 October 2026
+
 > **Target:** ₹50,000/month take-home
+
 > **Current Stage:** Java Loops
+
 > **Status:** 🔥 ACTIVE
 
 ---
