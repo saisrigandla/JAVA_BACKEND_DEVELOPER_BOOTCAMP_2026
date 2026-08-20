@@ -122,23 +122,23 @@ By 16 October 2026, I should be able to:
 
 **Focus:** Loops
 
-* [ ] `for`
-* [ ] `while`
-* [ ] `do-while`
-* [ ] Nested loops
-* [ ] `break`
-* [ ] `continue`
+* [x] `for`
+* [x] `while`
+* [x] `do-while`
+* [x] Nested loops
+* [x] `break`
+* [x] `continue`
 
 **Coding:**
 
-* [ ] Print 1–100
-* [ ] Even numbers
-* [ ] Odd numbers
-* [ ] Sum 1–N
-* [ ] Factorial
-* [ ] Multiplication table
-* [ ] Reverse number
-* [ ] Count digits
+* [x] Print 1–100
+* [x] Even numbers
+* [x] Odd numbers
+* [x] Sum 1–N
+* [x] Factorial
+* [x] Multiplication table
+* [x] Reverse number
+* [x] Count digits
 
 **DSA:** Basic problem-solving
 
@@ -152,11 +152,11 @@ By 16 October 2026, I should be able to:
 
 **Focus:** Number Programs
 
-* [ ] Sum of digits
-* [ ] Reverse number
+* [x] Sum of digits
+* [x] Reverse number
 * [ ] Palindrome
 * [ ] Prime
-* [ ] Factorial
+* [x] Factorial
 * [ ] Fibonacci
 * [ ] Armstrong
 * [ ] Perfect number
