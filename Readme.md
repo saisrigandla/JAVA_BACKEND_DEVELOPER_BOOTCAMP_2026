@@ -154,7 +154,7 @@ By 16 October 2026, I should be able to:
 
 * [x] Sum of digits
 * [x] Reverse number
-* [ ] Palindrome
+* [x] Palindrome
 * [ ] Prime
 * [x] Factorial
 * [ ] Fibonacci
