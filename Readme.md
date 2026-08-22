@@ -1,1560 +1,166 @@
-# 🚀 Java Backend Developer — 60 Day Placement Challenge
+# 🚀 56-Day Java Backend Developer Job Challenge
 
-> **Mission:** Become employable as a Java Backend Developer by **16 October 2026**
+## 🎯 Mission
 
-> **Start:** 17 August 2026
+**Start:** 22-Aug-2026
+**Deadline:** 16-Oct-2026
+**Duration:** 56 Days
+**Target Role:** Java Backend Developer / Junior Software Developer / Java Full Stack Developer
+**Target:** ₹60,000/month take-home — **stretch target**
+**Minimum objective:** Become genuinely employable and secure the strongest legitimate offer available.
 
-> **60-Day Sprint:** 17 August → 15 October 2026
-
-> **Final Placement Day:** 16 October 2026
-
-> **Target:** ₹50,000/month take-home
-
-> **Current Stage:** Java Loops
-
-> **Status:** 🔥 ACTIVE
+> **Mission:** Become job-ready, interview-ready, project-ready and application-ready in 56 days.
 
 ---
 
-## 🎯 My Mission
+# 💰 Salary Reality
 
-I am a 2026 CSE graduate and currently a fresher.
+₹60K/month take-home is an aggressive fresher target.
 
-My goal is to become **job-ready for Java Backend Developer roles** by **16 October 2026**.
+Current Hyderabad Java fresher openings commonly ask for:
 
-### Target Compensation
+* Core Java
+* Spring Boot
+* REST APIs
+* SQL/MySQL
+* Git/GitHub
+* Data Structures & Algorithms
+* Communication
 
-**Minimum target: ₹50,000/month take-home**
+Some current listings advertise fresher ranges around ₹3–5 LPA, while some trainee/developer roles advertise up to ₹3–8 LPA. Therefore, ₹60K take-home should be treated as a **stretch outcome**, not a guaranteed fresher salary.
 
-> CTC is not the same as in-hand salary. During interviews, I will verify fixed compensation, variable pay, PF, insurance, professional tax and expected monthly take-home.
+### My strategy
 
----
+**Prepare at ₹8–10+ LPA capability level.**
 
-# 🧭 Target Technology Stack
+Apply to:
 
-```text
-Java 17+
-   ↓
-Core Java
-   ↓
-OOP
-   ↓
-Collections
-   ↓
-Exception Handling
-   ↓
-Java 8 Features
-   ↓
-SQL / MySQL
-   ↓
-Spring Core
-   ↓
-Spring Boot
-   ↓
-REST APIs
-   ↓
-JPA / Hibernate
-   ↓
-Spring Security + JWT
-   ↓
-JUnit / Mockito
-   ↓
-Git / GitHub
-   ↓
-Docker / Deployment Basics
-```
+* Service companies
+* Product companies
+* Startups
+* SaaS companies
+* Java trainee roles
+* Java backend roles
+* Java full-stack roles
+* Software Engineer / Associate Software Engineer roles
+* Graduate Engineer / Software Trainee roles
+
+**Never pay money for a job.**
 
 ---
 
-# 🏆 Final Outcome
+# 🧠 80/20 Skill Stack
 
-By 16 October 2026, I should be able to:
+## 🔴 Tier 1 — MUST MASTER
 
-* [ ] Write Java programs without depending on AI
-* [ ] Explain Core Java concepts in interviews
-* [ ] Solve common fresher DSA problems
-* [ ] Write intermediate SQL queries
-* [ ] Build REST APIs using Spring Boot
-* [ ] Build CRUD applications
-* [ ] Work with MySQL using JPA/Hibernate
-* [ ] Implement validation and exception handling
-* [ ] Understand authentication and authorization
-* [ ] Use Git and GitHub confidently
-* [ ] Write basic unit tests
-* [ ] Explain backend architecture
-* [ ] Explain my projects confidently
-* [ ] Clear aptitude/reasoning rounds
-* [ ] Handle HR and technical interviews
-* [ ] Apply to jobs consistently
-* [ ] Ask for referrals professionally
-* [ ] Be ready for Java Backend Developer interviews
+### Java
 
----
-
-# 📊 MASTER PROGRESS
-
-| Area            |        Target | Progress |
-| --------------- | ------------: | -------: |
-| Core Java       |          100% |       0% |
-| DSA             | 100+ problems |        0 |
-| SQL             |  50+ problems |        0 |
-| Spring Boot     |          100% |       0% |
-| REST API        |          100% |       0% |
-| JPA/Hibernate   |          100% |       0% |
-| Spring Security |        Basics |       0% |
-| Git/GitHub      |          100% |       0% |
-| Testing         |        Basics |       0% |
-| Projects        |             2 |        0 |
-| Aptitude        |          100% |       0% |
-| Reasoning       |          100% |       0% |
-| Verbal          |          100% |       0% |
-| Applications    |          150+ |        0 |
-| Referrals       |           50+ |        0 |
-| Mock Interviews |           10+ |        0 |
-
----
-
-# 🗓️ 60-DAY ROADMAP
-
-## PHASE 1 — CORE JAVA FOUNDATION
-
-### Day 01 — 17 Aug 2026
-
-**Focus:** Loops
-
-* [x] `for`
-* [x] `while`
-* [x] `do-while`
-* [x] Nested loops
-* [x] `break`
-* [x] `continue`
-
-**Coding:**
-
-* [x] Print 1–100
-* [x] Even numbers
-* [x] Odd numbers
-* [x] Sum 1–N
-* [x] Factorial
-* [x] Multiplication table
-* [x] Reverse number
-* [x] Count digits
-
-**DSA:** Basic problem-solving
-
-**Placement:** Start placement notebook
-
-**Applications:** 0
-
----
-
-### Day 02 — 18 Aug
-
-**Focus:** Number Programs
-
-* [x] Sum of digits
-* [x] Reverse number
-* [x] Palindrome
-* [ ] Prime
-* [x] Factorial
-* [ ] Fibonacci
-* [ ] Armstrong
-* [ ] Perfect number
-* [ ] Strong number
-* [ ] GCD
-* [ ] LCM
-
-**DSA:** 3 number problems
-
-**Interview:** Explain `while` loop vs `for` loop
-
----
-
-### Day 03 — 19 Aug
-
-**Focus:** Methods
-
-* [ ] Method syntax
-* [ ] Parameters
-* [ ] Return values
-* [ ] `void`
-* [ ] Method calling
-* [ ] Scope
-* [ ] Method overloading
-
-**Coding:** 8 method-based programs
-
-**DSA:** 3 problems
-
-**Interview:** What is a method?
-
----
-
-### Day 04 — 20 Aug
-
-**Focus:** Arrays — Basics
-
-* [ ] Array declaration
-* [ ] Initialization
-* [ ] Traversal
-* [ ] Input
-* [ ] Output
-* [ ] Array length
-
-**Problems:**
-
-* [ ] Sum
-* [ ] Average
-* [ ] Maximum
-* [ ] Minimum
-* [ ] Reverse
-
-**DSA:** 5 array problems
-
----
-
-### Day 05 — 21 Aug
-
-**Focus:** Arrays — Interview Problems
-
-* [ ] Second largest
-* [ ] Second smallest
-* [ ] Duplicate elements
-* [ ] Frequency
-* [ ] Even/odd separation
-* [ ] Search element
-* [ ] Array rotation basics
-
-**DSA:** 5 array problems
-
-**Interview:** Array vs ArrayList
-
----
-
-### Day 06 — 22 Aug
-
-**Focus:** Strings
-
-* [ ] String creation
-* [ ] String pool
-* [ ] Immutability
-* [ ] `==`
-* [ ] `.equals()`
-* [ ] `length()`
-* [ ] `charAt()`
-* [ ] `substring()`
-* [ ] `toUpperCase()`
-* [ ] `toLowerCase()`
-
-**Problems:**
-
-* [ ] Reverse string
-* [ ] Palindrome
-* [ ] Count characters
-* [ ] Count vowels
-
----
-
-### Day 07 — 23 Aug
-
-# WEEK 1 TEST
-
-* [ ] Java theory test
-* [ ] 10 coding problems
-* [ ] 5 array problems
-* [ ] 5 string problems
-* [ ] Explain loops without notes
-* [ ] Explain methods
-* [ ] Explain arrays
-* [ ] Explain String immutability
-
-**DSA:** Weekly review
-
-**Placement:** 1 mock coding test
-
----
-
-# PHASE 2 — CORE JAVA INTERVIEW FOUNDATION
-
-### Day 08 — 24 Aug
-
-**Focus:** OOP — Classes & Objects
-
-* [ ] Class
-* [ ] Object
-* [ ] Fields
+* [ ] Variables & Data Types
+* [ ] Operators
+* [ ] Conditions
+* [ ] Loops
 * [ ] Methods
-* [ ] Constructor
+* [ ] Arrays
+* [ ] Strings
+* [ ] OOP
+* [ ] Classes & Objects
+* [ ] Constructors
 * [ ] `this`
-* [ ] Instance variables
-* [ ] Static members
-
-**Project practice:** Create Employee class
-
----
-
-### Day 09 — 25 Aug
-
-**Focus:** Encapsulation
-
-* [ ] Access modifiers
-* [ ] private
-* [ ] public
-* [ ] protected
-* [ ] default
-* [ ] Getters
-* [ ] Setters
-
-**Interview:** Explain encapsulation with real example
-
----
-
-### Day 10 — 26 Aug
-
-**Focus:** Inheritance
-
-* [ ] extends
-* [ ] Parent class
-* [ ] Child class
-* [ ] Method inheritance
 * [ ] `super`
-* [ ] Constructor chaining
-
-**Coding:** 5 inheritance examples
-
----
-
-### Day 11 — 27 Aug
-
-**Focus:** Polymorphism
-
-* [ ] Compile-time polymorphism
-* [ ] Method overloading
-* [ ] Runtime polymorphism
-* [ ] Method overriding
-* [ ] Upcasting
-* [ ] Dynamic method dispatch
-
-**Interview:** Overloading vs overriding
-
----
-
-### Day 12 — 28 Aug
-
-**Focus:** Abstraction
-
-* [ ] Abstract class
-* [ ] Abstract method
-* [ ] Interface
-* [ ] implements
-* [ ] Multiple interfaces
-
-**Interview:** Interface vs abstract class
-
----
-
-### Day 13 — 29 Aug
-
-**Focus:** Exception Handling
-
-* [ ] Exception
-* [ ] Error
-* [ ] try
-* [ ] catch
-* [ ] finally
-* [ ] throw
-* [ ] throws
-* [ ] Checked exception
-* [ ] Unchecked exception
-* [ ] Custom exception
-
-**Coding:** 5 exception programs
-
----
-
-### Day 14 — 30 Aug
-
-# CORE JAVA TEST
-
-* [ ] OOP test
-* [ ] Exception test
-* [ ] String test
-* [ ] Array test
-* [ ] 10 coding problems
-* [ ] 20 interview questions
-
-**DSA:** 5 mixed problems
-
-**Placement:** First technical mock interview
-
----
-
-# PHASE 3 — COLLECTIONS + JAVA 8
-
-### Day 15 — 31 Aug
-
-**Focus:** Collections Framework
-
-* [ ] Collection hierarchy
-* [ ] List
-* [ ] Set
-* [ ] Map
-* [ ] Iterable
-* [ ] Collection
-
-**Interview:** Why Collections?
-
----
-
-### Day 16 — 01 Sep
-
-**Focus:** List
-
-* [ ] ArrayList
-* [ ] LinkedList
-* [ ] Vector concept
-* [ ] Stack concept
-* [ ] Add/remove/update/search
-* [ ] Iteration
-
-**DSA:** 5 list problems
-
----
-
-### Day 17 — 02 Sep
-
-**Focus:** Set
-
-* [ ] HashSet
-* [ ] LinkedHashSet
-* [ ] TreeSet
-* [ ] Duplicates
-* [ ] Ordering
-
-**Interview:** HashSet vs TreeSet
-
----
-
-### Day 18 — 03 Sep
-
-**Focus:** Map
-
-* [ ] HashMap
-* [ ] LinkedHashMap
-* [ ] TreeMap
-* [ ] Key/value
-* [ ] `put`
-* [ ] `get`
-* [ ] `containsKey`
-* [ ] `containsValue`
-* [ ] Iteration
-
-**DSA:** Frequency problems
-
----
-
-### Day 19 — 04 Sep
-
-**Focus:** HashMap Internals
-
-* [ ] Hashing
-* [ ] Hash function
-* [ ] Collision
-* [ ] Bucket
-* [ ] `equals()`
-* [ ] `hashCode()`
-* [ ] Load factor
-* [ ] Basic internal working
-
-**Interview:** How does HashMap work?
-
----
-
-### Day 20 — 05 Sep
-
-**Focus:** Java 8
-
-* [ ] Lambda expressions
-* [ ] Functional interfaces
-* [ ] Predicate
-* [ ] Consumer
-* [ ] Function
-* [ ] Supplier
-* [ ] Stream basics
+* [ ] Inheritance
+* [ ] Polymorphism
+* [ ] Abstraction
+* [ ] Interfaces
+* [ ] Encapsulation
+* [ ] Access Modifiers
+* [ ] Exception Handling
+* [ ] Collections
+* [ ] Generics
+* [ ] Comparable
+* [ ] Comparator
+* [ ] Java 8
+* [ ] Lambda Expressions
+* [ ] Functional Interfaces
+* [ ] Stream API
 * [ ] Optional
+* [ ] Multithreading basics
+* [ ] JVM/JDK/JRE basics
+* [ ] Stack vs Heap
+* [ ] String Pool
+* [ ] `equals()` vs `==`
+* [ ] `hashCode()`
 
 ---
 
-### Day 21 — 06 Sep
+# 🟠 Tier 2 — BACKEND CORE
 
-# WEEK 3 TEST
+## Spring Boot
 
-* [ ] Collections test
-* [ ] HashMap test
-* [ ] Java 8 test
-* [ ] 10 DSA problems
-* [ ] 20 interview questions
-* [ ] 1 mock technical interview
-
----
-
-# PHASE 4 — SQL / MYSQL
-
-### Day 22 — 07 Sep
-
-**SQL Basics**
-
-* [ ] Database
-* [ ] Table
-* [ ] Row
-* [ ] Column
-* [ ] Data types
-* [ ] CREATE
-* [ ] INSERT
-* [ ] SELECT
-
-**Practice:** 10 queries
-
----
-
-### Day 23 — 08 Sep
-
-**SQL Filtering**
-
-* [ ] WHERE
-* [ ] AND
-* [ ] OR
-* [ ] NOT
-* [ ] IN
-* [ ] BETWEEN
-* [ ] LIKE
-* [ ] IS NULL
-
-**Practice:** 15 queries
-
----
-
-### Day 24 — 09 Sep
-
-**SQL Modification**
-
-* [ ] UPDATE
-* [ ] DELETE
-* [ ] ALTER
-* [ ] DROP
-* [ ] TRUNCATE
-
-**Interview:** DELETE vs DROP vs TRUNCATE
-
----
-
-### Day 25 — 10 Sep
-
-**SQL Functions**
-
-* [ ] COUNT
-* [ ] SUM
-* [ ] AVG
-* [ ] MIN
-* [ ] MAX
-* [ ] DISTINCT
-* [ ] GROUP BY
-
-**Practice:** 15 queries
-
----
-
-### Day 26 — 11 Sep
-
-**HAVING + ORDER**
-
-* [ ] ORDER BY
-* [ ] ASC
-* [ ] DESC
-* [ ] GROUP BY
-* [ ] HAVING
-
-**Practice:** 15 queries
-
----
-
-### Day 27 — 12 Sep
-
-**SQL Joins**
-
-* [ ] INNER JOIN
-* [ ] LEFT JOIN
-* [ ] RIGHT JOIN
-* [ ] SELF JOIN concept
-* [ ] JOIN conditions
-
-**Practice:** 15 join queries
-
----
-
-### Day 28 — 13 Sep
-
-# SQL TEST
-
-* [ ] 30 SQL questions
-* [ ] 2nd highest salary
-* [ ] Nth highest salary
-* [ ] Duplicate records
-* [ ] Employees by department
-* [ ] Highest salary by department
-* [ ] JOIN problems
-* [ ] GROUP BY problems
-
-**DSA:** 5 problems
-
----
-
-# PHASE 5 — SPRING + SPRING BOOT
-
-### Day 29 — 14 Sep
-
-**Spring Core**
-
-* [ ] What is Spring?
-* [ ] IoC
+* [ ] Spring fundamentals
 * [ ] Dependency Injection
-* [ ] Bean
-* [ ] ApplicationContext
-* [ ] Component scanning
-
-**Interview:** Explain IoC
-
----
-
-### Day 30 — 15 Sep
-
-**Spring Components**
-
-* [ ] `@Component`
-* [ ] `@Service`
-* [ ] `@Repository`
-* [ ] `@Controller`
-* [ ] `@Autowired`
-* [ ] Constructor injection
-
-**Coding:** Small Spring application
-
----
-
-### Day 31 — 16 Sep
-
-**Spring Boot**
-
-* [ ] Spring Boot
-* [ ] Starters
-* [ ] Auto configuration
-* [ ] Maven
-* [ ] `pom.xml`
-* [ ] application.properties
-* [ ] Embedded server
-
----
-
-### Day 32 — 17 Sep
-
-**REST API Basics**
-
-* [ ] REST
-* [ ] HTTP
-* [ ] JSON
-* [ ] GET
-* [ ] POST
-* [ ] PUT
-* [ ] PATCH
-* [ ] DELETE
-
-**Postman:** Test APIs
-
----
-
-### Day 33 — 18 Sep
-
-**REST Controllers**
-
-* [ ] `@RestController`
-* [ ] `@GetMapping`
-* [ ] `@PostMapping`
-* [ ] `@PutMapping`
-* [ ] `@DeleteMapping`
-* [ ] `@PathVariable`
-* [ ] `@RequestParam`
-* [ ] `@RequestBody`
-
----
-
-### Day 34 — 19 Sep
-
-**HTTP Status Codes**
-
-* [ ] 200
-* [ ] 201
-* [ ] 204
-* [ ] 400
-* [ ] 401
-* [ ] 403
-* [ ] 404
-* [ ] 500
-
-**Build:** Employee CRUD API
-
----
-
-### Day 35 — 20 Sep
-
-# SPRING BOOT TEST
-
-* [ ] Explain Spring
-* [ ] Explain Spring Boot
-* [ ] Explain IoC
-* [ ] Explain DI
-* [ ] Build CRUD API
-* [ ] Test API using Postman
-* [ ] Git commit project
-
-**DSA:** 5 problems
-
----
-
-# PHASE 6 — JPA / HIBERNATE
-
-### Day 36 — 21 Sep
-
-**JPA/Hibernate**
-
-* [ ] ORM
+* [ ] IoC
+* [ ] Beans
+* [ ] Spring Boot project structure
+* [ ] REST APIs
+* [ ] Controller
+* [ ] Service
+* [ ] Repository
+* [ ] DTO
+* [ ] Entity
 * [ ] JPA
 * [ ] Hibernate
-* [ ] Entity
-* [ ] Persistence
-* [ ] `@Entity`
-* [ ] `@Id`
-* [ ] `@GeneratedValue`
-
----
-
-### Day 37 — 22 Sep
-
-**Spring Data JPA**
-
-* [ ] Repository
-* [ ] JpaRepository
-* [ ] save
-* [ ] findById
-* [ ] findAll
-* [ ] delete
-* [ ] existsById
-
----
-
-### Day 38 — 23 Sep
-
-**Entity Relationships**
-
-* [ ] OneToOne
-* [ ] OneToMany
-* [ ] ManyToOne
-* [ ] ManyToMany
-* [ ] Foreign keys
-
-**Project:** Add relationships
-
----
-
-### Day 39 — 24 Sep
-
-**Advanced JPA Basics**
-
-* [ ] JPQL
-* [ ] Custom queries
-* [ ] Derived queries
+* [ ] CRUD
+* [ ] Validation
+* [ ] Exception Handling
+* [ ] Global Exception Handler
 * [ ] Pagination
 * [ ] Sorting
-
----
-
-### Day 40 — 25 Sep
-
-**Validation**
-
-* [ ] Validation
-* [ ] `@NotNull`
-* [ ] `@NotBlank`
-* [ ] `@Email`
-* [ ] `@Size`
-* [ ] `@Min`
-* [ ] `@Max`
-
-**Project:** Add validation
-
----
-
-### Day 41 — 26 Sep
-
-**Exception Handling**
-
-* [ ] Custom exceptions
-* [ ] `@ExceptionHandler`
-* [ ] `@ControllerAdvice`
-* [ ] Global exception handling
-
-**Project:** Add global error handling
-
----
-
-### Day 42 — 27 Sep
-
-# JPA + BACKEND TEST
-
-* [ ] JPA interview test
-* [ ] Hibernate questions
-* [ ] Relationship questions
-* [ ] Build CRUD independently
-* [ ] SQL + JPA integration test
-
-**DSA:** 5 problems
-
----
-
-# PHASE 7 — PROJECT 1
-
-# Employee Management REST API
-
-### Day 43 — 28 Sep
-
-**Project Setup**
-
-* [ ] Create Spring Boot project
-* [ ] Maven
-* [ ] Dependencies
-* [ ] MySQL database
-* [ ] Git repository
-
----
-
-### Day 44 — 29 Sep
-
-**Employee Entity**
-
-* [ ] Employee entity
-* [ ] ID
-* [ ] Name
-* [ ] Email
-* [ ] Department
-* [ ] Salary
-* [ ] Created date
-
----
-
-### Day 45 — 30 Sep
-
-**CRUD**
-
-* [ ] Create employee
-* [ ] Get employee
-* [ ] Get all employees
-* [ ] Update employee
-* [ ] Delete employee
-
----
-
-### Day 46 — 01 Oct
-
-**Project Quality**
-
-* [ ] Validation
-* [ ] Exception handling
-* [ ] Search
-* [ ] Pagination
-* [ ] Sorting
-* [ ] Proper HTTP status codes
-
----
-
-### Day 47 — 02 Oct
-
-**Project Documentation**
-
-* [ ] README
-* [ ] API documentation
-* [ ] Database schema
-* [ ] Architecture diagram
-* [ ] Postman collection
-* [ ] Screenshots
-
-**GitHub:** Push complete project
-
----
-
-# PHASE 8 — PROJECT 2
-
-# Job Portal Backend
-
-### Day 48 — 03 Oct
-
-**Architecture**
-
-Entities:
-
-* [ ] User
-* [ ] Candidate
-* [ ] Company
-* [ ] Job
-* [ ] Application
-* [ ] Skill
-
-Design database relationships.
-
----
-
-### Day 49 — 04 Oct
-
-**Authentication**
-
-* [ ] Registration
-* [ ] Login concept
-* [ ] Password hashing
-* [ ] User roles
-* [ ] Authentication vs authorization
-
----
-
-### Day 50 — 05 Oct
-
-**Job APIs**
-
-* [ ] Create job
-* [ ] Update job
-* [ ] Delete job
-* [ ] Get job
-* [ ] Search jobs
-* [ ] Filter jobs
-* [ ] Pagination
-
----
-
-### Day 51 — 06 Oct
-
-**Application APIs**
-
-* [ ] Apply for job
-* [ ] View applications
-* [ ] Application status
-* [ ] Update application status
-* [ ] Candidate application history
-
----
-
-### Day 52 — 07 Oct
-
-**Spring Security Basics**
-
+* [ ] Filtering
+* [ ] JPA relationships
 * [ ] Spring Security
 * [ ] Authentication
 * [ ] Authorization
-* [ ] Roles
-* [ ] JWT concept
-* [ ] PasswordEncoder
+* [ ] JWT
+* [ ] Password hashing
+* [ ] Swagger/OpenAPI
 
 ---
 
-### Day 53 — 08 Oct
+# 🟡 Tier 3 — DATABASE
 
-**Project Completion**
-
-* [ ] Validation
-* [ ] Exception handling
-* [ ] Pagination
-* [ ] Sorting
-* [ ] Search
-* [ ] Role-based endpoints
-* [ ] Clean architecture
-
----
-
-# PHASE 9 — TESTING + GITHUB + RESUME
-
-### Day 54 — 09 Oct
-
-**Testing**
-
-* [ ] JUnit basics
-* [ ] Unit testing
-* [ ] Mockito basics
-* [ ] Service testing
-* [ ] Repository testing concept
-* [ ] API testing
-
----
-
-### Day 55 — 10 Oct
-
-**Git + GitHub**
-
-* [ ] git init
-* [ ] git clone
-* [ ] git status
-* [ ] git add
-* [ ] git commit
-* [ ] git push
-* [ ] git pull
-* [ ] git branch
-* [ ] git merge
-
-**GitHub:**
-
-* [ ] Clean repositories
-* [ ] Good README
-* [ ] Meaningful commits
-* [ ] No secrets/passwords
-* [ ] No unnecessary files
-
----
-
-### Day 56 — 11 Oct
-
-# RESUME + LINKEDIN
-
-* [ ] One-page resume
-* [ ] Java Backend headline
-* [ ] Skills section
-* [ ] Projects section
-* [ ] Education
-* [ ] GitHub
-* [ ] LinkedIn
-* [ ] Resume PDF
-* [ ] Proofread resume
-
-**Target job title:**
-
-```text
-Java Backend Developer
-Java Developer
-Junior Java Developer
-Software Engineer - Java
-Backend Developer - Java
-Associate Software Engineer
-Graduate Software Engineer
-```
-
----
-
-# PHASE 10 — PLACEMENT WAR ROOM
-
-### Day 57 — 12 Oct
-
-**Technical Interview Day**
-
-Revise:
-
-* [ ] Java
-* [ ] OOP
-* [ ] Collections
-* [ ] Exception handling
-* [ ] Java 8
-* [ ] SQL
-* [ ] Spring
-* [ ] Spring Boot
-* [ ] REST
-* [ ] JPA
-* [ ] Hibernate
-* [ ] Security
-* [ ] Git
-
-**Mock Interview:** 1
-
-**Applications:** 15+
-
-**Referrals:** 5+
-
----
-
-### Day 58 — 13 Oct
-
-**DSA + Aptitude Day**
-
-DSA:
-
-* [ ] Arrays
-* [ ] Strings
-* [ ] HashMap
-* [ ] HashSet
-* [ ] Two pointers
-* [ ] Sliding window
-* [ ] Binary search
-* [ ] Stack
-* [ ] Queue
-* [ ] Linked List
-
-Aptitude:
-
-* [ ] Percentages
-* [ ] Ratio
-* [ ] Averages
-* [ ] Profit/Loss
-* [ ] Time & Work
-* [ ] Speed & Distance
-* [ ] Number System
-* [ ] Probability
-
-**Applications:** 15+
-
-**Referrals:** 5+
-
----
-
-### Day 59 — 14 Oct
-
-# MOCK INTERVIEW DAY
-
-### Round 1 — Coding
-
-* [ ] 5 coding problems
-
-### Round 2 — Java
-
-* [ ] 20 questions
-
-### Round 3 — SQL
-
-* [ ] 10 questions
-
-### Round 4 — Spring Boot
-
-* [ ] 15 questions
-
-### Round 5 — Project
-
-* [ ] Explain architecture
-* [ ] Explain database
-* [ ] Explain APIs
-* [ ] Explain challenges
-* [ ] Explain your contribution
-
-### Round 6 — HR
-
-* [ ] Tell me about yourself
-* [ ] Why Java?
-* [ ] Why backend?
-* [ ] Why should we hire you?
-* [ ] Strengths
-* [ ] Weakness
-* [ ] Salary expectation
-* [ ] Relocation
-* [ ] Career goals
-
-**Applications:** 20+
-
----
-
-### Day 60 — 15 Oct
-
-# FINAL PREPARATION DAY
-
-### Technical
-
-* [ ] Core Java revision
-* [ ] OOP revision
-* [ ] Collections revision
-* [ ] Java 8 revision
-* [ ] SQL revision
-* [ ] Spring Boot revision
-* [ ] REST revision
-* [ ] JPA/Hibernate revision
-* [ ] Security revision
-* [ ] Git revision
-
-### Projects
-
-* [ ] Employee API working
-* [ ] Job Portal API working
-* [ ] GitHub repositories clean
-* [ ] README complete
-* [ ] Postman collection ready
-
-### Career
-
-* [ ] Resume final
-* [ ] LinkedIn final
-* [ ] GitHub final
-* [ ] Job alerts configured
-* [ ] Application tracker ready
-* [ ] Referral tracker ready
-
-### Interview
-
-* [ ] Self-introduction ready
-* [ ] Project explanation ready
-* [ ] Java questions ready
-* [ ] SQL questions ready
-* [ ] Spring questions ready
-* [ ] HR answers ready
-
----
-
-# 🔴 DAY 61 — 16 OCTOBER 2026
-
-# 🚀 PLACEMENT DAY
-
-This is not the end.
-
-This is the point where preparation becomes **execution**.
-
-## Morning
-
-* [ ] Revise self-introduction
-* [ ] Revise projects
-* [ ] Revise Java
-* [ ] Revise SQL
-* [ ] Check email
-* [ ] Check LinkedIn
-* [ ] Check job portals
-
-## Job Search
-
-* [ ] Apply to 20 targeted jobs
-* [ ] Contact 5 recruiters
-* [ ] Request 5 referrals
-* [ ] Follow up on previous applications
-* [ ] Attend interviews/tests
-* [ ] Record interview questions
-
-## Final Mission
-
-> **Get the first offer. Then optimize for the ₹50k take-home target.**
-
----
-
-# 🧠 DSA TRACKER
-
-## Arrays
-
-* [ ] Find maximum
-* [ ] Find minimum
-* [ ] Second largest
-* [ ] Reverse array
-* [ ] Remove duplicates
-* [ ] Move zeroes
-* [ ] Two Sum
-* [ ] Maximum subarray
-* [ ] Rotate array
-* [ ] Missing number
-
-## Strings
-
-* [ ] Reverse string
-* [ ] Palindrome
-* [ ] Anagram
-* [ ] Character frequency
-* [ ] First non-repeating character
-* [ ] Remove duplicates
-* [ ] Longest common prefix
-* [ ] Valid parentheses
-
-## Searching
-
-* [ ] Linear search
-* [ ] Binary search
-* [ ] First occurrence
-* [ ] Last occurrence
-
-## Sorting
-
-* [ ] Bubble sort
-* [ ] Selection sort
-* [ ] Insertion sort
-* [ ] Merge sort concept
-* [ ] Quick sort concept
-
-## Hashing
-
-* [ ] Frequency map
-* [ ] Two Sum
-* [ ] Duplicate detection
-* [ ] Intersection
-* [ ] Group anagrams
-
-## Two Pointers
-
-* [ ] Pair sum
-* [ ] Remove duplicates
-* [ ] Reverse
-* [ ] Container concept
-
-## Sliding Window
-
-* [ ] Fixed window
-* [ ] Maximum sum subarray
-* [ ] Longest substring basics
-
-## Stack / Queue
-
-* [ ] Stack implementation
-* [ ] Queue implementation
-* [ ] Balanced parentheses
-* [ ] Next greater element concept
-
-## Linked List
-
-* [ ] Traversal
-* [ ] Insert
-* [ ] Delete
-* [ ] Reverse
-* [ ] Find middle
-* [ ] Detect cycle
-
----
-
-# 🗄️ SQL TRACKER
-
-## Fundamentals
+## MySQL
 
 * [ ] CREATE DATABASE
 * [ ] CREATE TABLE
 * [ ] INSERT
-* [ ] SELECT
 * [ ] UPDATE
 * [ ] DELETE
-* [ ] ALTER
-* [ ] DROP
-* [ ] TRUNCATE
-
-## Filtering
-
+* [ ] SELECT
 * [ ] WHERE
-* [ ] AND
-* [ ] OR
-* [ ] IN
-* [ ] BETWEEN
-* [ ] LIKE
-* [ ] NULL
-
-## Functions
-
-* [ ] COUNT
-* [ ] SUM
-* [ ] AVG
-* [ ] MIN
-* [ ] MAX
-* [ ] DISTINCT
-
-## Grouping
-
+* [ ] ORDER BY
 * [ ] GROUP BY
 * [ ] HAVING
-* [ ] ORDER BY
-
-## Joins
-
+* [ ] Aggregate Functions
 * [ ] INNER JOIN
 * [ ] LEFT JOIN
 * [ ] RIGHT JOIN
-* [ ] SELF JOIN
-
-## Interview Queries
-
-* [ ] Second highest salary
-* [ ] Nth highest salary
-* [ ] Duplicate records
-* [ ] Employees by department
-* [ ] Highest salary per department
-* [ ] Count employees per department
-* [ ] Employees without department
-* [ ] Department with highest salary
-* [ ] Top N salaries
-* [ ] Duplicate emails
-
-**SQL Target: 50+ problems**
+* [ ] Self Join
+* [ ] Subqueries
+* [ ] Constraints
+* [ ] Primary Key
+* [ ] Foreign Key
+* [ ] UNIQUE
+* [ ] NOT NULL
+* [ ] Index basics
+* [ ] Normalization
+* [ ] Transactions
+* [ ] ACID basics
 
 ---
 
-# 🌱 SPRING BOOT TRACKER
+# 🟢 Tier 4 — DEVELOPMENT TOOLS
 
-## Spring Core
-
-* [ ] IoC
-* [ ] Dependency Injection
-* [ ] Bean
-* [ ] ApplicationContext
-* [ ] Component scanning
-* [ ] Constructor injection
-* [ ] `@Component`
-* [ ] `@Service`
-* [ ] `@Repository`
-* [ ] `@Controller`
-
-## Spring Boot
-
-* [ ] Spring Initializr
-* [ ] Maven
-* [ ] pom.xml
-* [ ] Starters
-* [ ] Auto configuration
-* [ ] application.properties
-* [ ] Embedded server
-* [ ] Profiles concept
-
-## REST
-
-* [ ] REST
-* [ ] JSON
-* [ ] GET
-* [ ] POST
-* [ ] PUT
-* [ ] PATCH
-* [ ] DELETE
-* [ ] Path variables
-* [ ] Request parameters
-* [ ] Request body
-* [ ] Response body
-* [ ] HTTP status codes
-
-## JPA/Hibernate
-
-* [ ] ORM
-* [ ] JPA
-* [ ] Hibernate
-* [ ] Entity
-* [ ] JpaRepository
-* [ ] CRUD
-* [ ] Derived queries
-* [ ] JPQL
-* [ ] OneToOne
-* [ ] OneToMany
-* [ ] ManyToOne
-* [ ] ManyToMany
-* [ ] Pagination
-* [ ] Sorting
-* [ ] Lazy loading concept
-* [ ] Eager loading concept
-
-## Validation
-
-* [ ] `@NotNull`
-* [ ] `@NotBlank`
-* [ ] `@Email`
-* [ ] `@Size`
-* [ ] `@Min`
-* [ ] `@Max`
-
-## Exception Handling
-
-* [ ] Custom exception
-* [ ] `@ExceptionHandler`
-* [ ] `@ControllerAdvice`
-* [ ] Global exception response
-
-## Security
-
-* [ ] Authentication
-* [ ] Authorization
-* [ ] Roles
-* [ ] Password hashing
-* [ ] Spring Security
-* [ ] JWT concept
-
----
-
-# 🏗️ PROJECT TRACKER
-
-# Project 1 — Employee Management REST API
-
-### Stack
-
-```text
-Java
-Spring Boot
-Spring Data JPA
-Hibernate
-MySQL
-REST API
-Maven
-Git
-Postman
-```
-
-### Features
-
-* [ ] Create employee
-* [ ] Get employee
-* [ ] Get all employees
-* [ ] Update employee
-* [ ] Delete employee
-* [ ] Search
-* [ ] Pagination
-* [ ] Sorting
-* [ ] Validation
-* [ ] Exception handling
-
-### Documentation
-
-* [ ] README
-* [ ] Architecture
-* [ ] Database schema
-* [ ] API endpoints
-* [ ] Postman collection
-* [ ] Screenshots
-* [ ] Setup instructions
-
----
-
-# Project 2 — Job Portal Backend
-
-### Entities
-
-* [ ] User
-* [ ] Candidate
-* [ ] Company
-* [ ] Job
-* [ ] Application
-* [ ] Skill
-
-### Features
-
-* [ ] Registration
-* [ ] Login
-* [ ] Role-based access
-* [ ] Create job
-* [ ] Update job
-* [ ] Delete job
-* [ ] Search jobs
-* [ ] Filter jobs
-* [ ] Apply for job
-* [ ] Track application
-* [ ] Pagination
-* [ ] Sorting
-* [ ] Validation
-* [ ] Exception handling
-
-### Documentation
-
-* [ ] Architecture diagram
-* [ ] ER diagram
-* [ ] API documentation
-* [ ] Database schema
-* [ ] Postman collection
-* [ ] Setup guide
-* [ ] Screenshots
-
----
-
-# 🧪 TESTING TRACKER
-
-* [ ] JUnit basics
-* [ ] Unit testing
-* [ ] Mockito basics
-* [ ] Service testing
-* [ ] Controller testing concept
-* [ ] API testing
-* [ ] Postman testing
-
----
-
-# 🐙 GIT / GITHUB TRACKER
+## Git/GitHub
 
 * [ ] git init
 * [ ] git clone
@@ -1564,694 +170,1597 @@ Postman
 * [ ] git push
 * [ ] git pull
 * [ ] git branch
+* [ ] git switch
 * [ ] git merge
+* [ ] Pull Requests
+* [ ] README
 * [ ] `.gitignore`
-* [ ] README.md
-* [ ] GitHub repository
-* [ ] Clean commit history
+* [ ] Meaningful commit messages
 
-### Commit Style
+## API Tools
 
-```text
-Day 01: Complete loops
-Day 02: Add number programs
-Day 03: Add methods practice
-Day 04: Add array problems
-Day 05: Add array interview problems
-```
-
-Avoid:
-
-```text
-final
-final2
-new
-newfinal
-last
-lastfinal
-```
+* [ ] Postman
+* [ ] HTTP methods
+* [ ] HTTP status codes
+* [ ] JSON
+* [ ] Headers
+* [ ] Request body
+* [ ] Path variables
+* [ ] Query parameters
+* [ ] Authentication headers
 
 ---
 
-# 🧠 INTERVIEW PREPARATION TRACKER
+# 🔵 Tier 5 — FRONTEND
 
-## Core Java
+Only enough to become a practical Java Full Stack candidate.
 
-* [ ] JVM
-* [ ] JDK
-* [ ] JRE
-* [ ] OOP
-* [ ] Encapsulation
-* [ ] Inheritance
-* [ ] Polymorphism
-* [ ] Abstraction
-* [ ] Interface
-* [ ] String
+## HTML
+
+* [ ] Semantic HTML
+* [ ] Forms
+* [ ] Tables
+* [ ] Inputs
+
+## CSS
+
+* [ ] Box model
+* [ ] Flexbox
+* [ ] Grid
+* [ ] Responsive basics
+
+## JavaScript
+
+* [ ] Variables
+* [ ] Functions
+* [ ] Arrays
+* [ ] Objects
+* [ ] DOM
+* [ ] Events
+* [ ] Fetch API
+* [ ] Async/Await
+* [ ] JSON
+
+## React
+
+* [ ] Components
+* [ ] Props
+* [ ] State
+* [ ] Hooks
+* [ ] Forms
+* [ ] API calls
+* [ ] Routing basics
+
+---
+
+# 🟣 Tier 6 — JOB BOOSTERS
+
+Learn after the core stack.
+
+* [ ] JUnit
+* [ ] Mockito basics
+* [ ] Swagger/OpenAPI
+* [ ] Linux commands
+* [ ] Docker basics
+* [ ] AWS basics
+* [ ] Deployment basics
+* [ ] Basic CI/CD understanding
+* [ ] Basic system design
+* [ ] Basic networking
+* [ ] Microservices concepts
+
+### NOT priority for this 56-day challenge
+
+* Kubernetes deep dive
+* Terraform
+* Advanced AWS
+* Kafka deep dive
+* Advanced Microservices
+* Advanced React
+* Advanced AI/ML
+
+**Don't collect technologies. Build competence.**
+
+---
+
+# 🧩 DSA TARGET
+
+## Total: 100+ carefully selected problems
+
+### Arrays — 15
+
+* [ ] Traversal
+* [ ] Min/Max
+* [ ] Second largest
+* [ ] Reverse
+* [ ] Frequency
+* [ ] Prefix sum
+* [ ] Kadane
+* [ ] Duplicate detection
+* [ ] Missing number
+* [ ] Rotation
+
+### Strings — 10
+
+* [ ] Reverse
+* [ ] Palindrome
+* [ ] Character frequency
+* [ ] Anagram
+* [ ] Duplicate characters
+* [ ] First non-repeating character
+* [ ] String compression
+* [ ] Valid parentheses
+* [ ] Longest substring basics
+* [ ] String manipulation
+
+### HashMap/HashSet — 10
+
+* [ ] Frequency counting
+* [ ] Two Sum
+* [ ] Duplicate detection
+* [ ] Common elements
+* [ ] Pair problems
+* [ ] Subarray sum basics
+
+### Two Pointers — 8
+
+### Sliding Window — 8
+
+### Binary Search — 8
+
+### Stack/Queue — 8
+
+### Linked List — 8
+
+### Recursion — 5
+
+### Trees — 8
+
+### Sorting — 5
+
+### Basic Dynamic Programming — 5
+
+---
+
+# ⏰ DAILY MASTER SCHEDULE
+
+## 03:00 AM — Wake Up
+
+### 03:00–03:15
+
+* [ ] Wake up
+* [ ] Water
+* [ ] Freshen up
+* [ ] No Instagram
+* [ ] No unnecessary WhatsApp
+* [ ] Phone away
+
+### 03:15–03:35
+
+**Planning + previous-day recall**
+
+* [ ] What did I learn yesterday?
+* [ ] What are today's 3 major outcomes?
+
+---
+
+## 03:35–05:35 — DEEP WORK SESSION 1
+
+### Core Java / Backend
+
+**2 hours**
+
+Rules:
+
+* Phone away
+* No passive watching
+* Code everything
+* Explain concepts aloud
+
+---
+
+## 05:35–06:00 — BREAK
+
+* [ ] Walk
+* [ ] Water
+* [ ] Refresh
+
+---
+
+## 06:00–07:00 — DSA
+
+**1 hour**
+
+Target:
+
+* 1–3 problems/day
+* Understand pattern
+* Write solution yourself
+* Analyse time complexity
+* Record mistakes
+
+---
+
+## 07:00–07:45 — BREAKFAST
+
+No coding.
+
+---
+
+# 🛕 POOJA DAYS
+
+**Tuesday / Thursday / Saturday**
+
+### 07:45–08:15
+
+* [ ] Pooja
+* [ ] Prayer
+* [ ] Mental reset
+
+### Other days
+
+07:45–08:15 → revision / walk / planning
+
+---
+
+# 08:15–10:15 — DEEP WORK SESSION 2
+
+### SQL / Spring Boot / Project
+
+Depending on phase.
+
+---
+
+# 10:15–10:30 — BREAK
+
+---
+
+# 10:30–11:30 — INTERVIEW PREPARATION
+
+Daily:
+
+* [ ] 5 Java interview questions
+* [ ] 3 SQL questions
+* [ ] 2 Spring questions
+* [ ] Speak answers aloud
+
+---
+
+# 11:30–12:00 — COMMUNICATION
+
+* [ ] 5-minute self introduction
+* [ ] Explain today's Java concept
+* [ ] Explain one project feature
+* [ ] Record voice
+* [ ] Correct grammar/filler words
+
+---
+
+# 12:00–12:45 — LUNCH
+
+---
+
+# 12:45–02:15 — PROJECT / CODING
+
+**1.5 hours**
+
+No tutorial copying.
+
+Build.
+
+---
+
+# 02:15–03:00 — DAILY REVISION
+
+* [ ] Review today's notes
+* [ ] Re-code one concept without looking
+* [ ] Write 5 interview questions
+* [ ] Update GitHub
+* [ ] Update tracker
+
+---
+
+# 03:00–05:00 — SLEEP / REST
+
+**Mandatory.**
+
+This is not wasted time.
+
+Your 3 AM wake-up schedule only works if recovery is protected.
+
+---
+
+# 05:00–05:30 — SNACK / WALK / RESET
+
+---
+
+# 05:30–07:00 — SKILL IMPROVEMENT
+
+Rotate:
+
+* Java
+* SQL
+* Spring Boot
+* Git
+* React
+* Docker
+* AWS
+* Testing
+
+---
+
+# 07:00–07:15 — BREAK
+
+---
+
+# 07:15–08:15 — REVISION / INTERVIEW
+
+* [ ] DSA revision
+* [ ] Java interview
+* [ ] SQL interview
+* [ ] Spring interview
+
+---
+
+# 08:15–08:45 — DINNER
+
+---
+
+# 08:45–09:00 — DAILY CLOSURE
+
+* [ ] GitHub updated
+* [ ] Problems solved
+* [ ] Topics completed
+* [ ] Applications sent
+* [ ] Tomorrow planned
+
+**09:00 PM → OFF.**
+
+Don't turn every day into a 16-hour punishment session.
+
+---
+
+# 📅 56-DAY MASTER ROADMAP
+
+---
+
+# PHASE 1 — CORE JAVA FOUNDATION
+
+## Day 1 — 22-Aug-2026
+
+* [ ] Loops revision
+* [ ] for / while / do-while
+* [ ] Nested loops
+* [ ] Pattern basics
+* [ ] DSA: Arrays basics — 2 problems
+* [ ] GitHub: create structured repository
+* [ ] Communication: self-introduction
+
+---
+
+## Day 2 — 23-Aug
+
+* [ ] Methods
+* [ ] Parameters
+* [ ] Return types
+* [ ] Method overloading
+* [ ] DSA: Arrays — 2 problems
+* [ ] Time complexity basics
+* [ ] Git commit practice
+
+---
+
+## Day 3 — 24-Aug
+
+* [ ] Arrays
+* [ ] 1D arrays
+* [ ] 2D arrays
+* [ ] Traversal
+* [ ] Searching
+* [ ] DSA: Arrays — 3 problems
+* [ ] SQL SELECT basics
+
+---
+
+## Day 4 — 25-Aug
+
+* [ ] Strings
+* [ ] String methods
+* [ ] String immutability
 * [ ] StringBuilder
-* [ ] StringBuffer
-* [ ] Collections
+* [ ] DSA: Strings — 2 problems
+* [ ] SQL WHERE
+
+**Pooja**
+
+---
+
+## Day 5 — 26-Aug
+
+* [ ] Classes
+* [ ] Objects
+* [ ] Constructors
+* [ ] `this`
+* [ ] DSA: Strings — 2 problems
+* [ ] SQL ORDER BY
+
+---
+
+## Day 6 — 27-Aug
+
+* [ ] Encapsulation
+* [ ] Access modifiers
+* [ ] Getters/setters
+* [ ] DSA: Strings — 2 problems
+* [ ] SQL GROUP BY
+
+**Pooja**
+
+---
+
+## Day 7 — 28-Aug
+
+### REVISION DAY 1
+
+* [ ] Loops
+* [ ] Methods
+* [ ] Arrays
+* [ ] Strings
+* [ ] Classes
+* [ ] Constructors
+* [ ] 5 Java coding problems
+* [ ] 5 SQL queries
+* [ ] DSA revision
+
+---
+
+## Day 8 — 29-Aug
+
+* [ ] Inheritance
+* [ ] `extends`
+* [ ] `super`
+* [ ] DSA: HashMap basics — 2 problems
+* [ ] SQL HAVING
+* [ ] Git branching
+
+**Pooja**
+
+---
+
+## Day 9 — 30-Aug
+
+* [ ] Polymorphism
+* [ ] Method overloading
+* [ ] Method overriding
+* [ ] DSA: HashMap — 2 problems
+* [ ] SQL aggregate functions
+
+---
+
+## Day 10 — 31-Aug
+
+* [ ] Abstraction
+* [ ] Abstract classes
+* [ ] Interfaces
+* [ ] DSA: HashSet — 2 problems
+* [ ] SQL INNER JOIN
+
+---
+
+# PHASE 2 — ADVANCED JAVA + SQL
+
+## Day 11 — 01-Sep
+
+* [ ] Exception handling
+* [ ] try/catch/finally
+* [ ] throw/throws
+* [ ] Custom exceptions
+* [ ] DSA: HashMap — 2
+* [ ] SQL LEFT JOIN
+
+**Pooja**
+
+---
+
+## Day 12 — 02-Sep
+
+* [ ] Collections overview
+* [ ] List
 * [ ] ArrayList
 * [ ] LinkedList
+* [ ] DSA: Two pointers — 2
+* [ ] SQL RIGHT JOIN
+
+---
+
+## Day 13 — 03-Sep
+
+* [ ] Set
 * [ ] HashSet
+* [ ] LinkedHashSet
+* [ ] TreeSet
+* [ ] DSA: Two pointers — 2
+* [ ] SQL subqueries
+
+**Pooja**
+
+---
+
+## Day 14 — 04-Sep
+
+* [ ] Map
 * [ ] HashMap
-* [ ] HashMap internals
+* [ ] LinkedHashMap
+* [ ] TreeMap
+* [ ] DSA: Sliding window — 2
+* [ ] SQL constraints
+
+---
+
+## Day 15 — 05-Sep
+
+### JAVA + JOB SEARCH START
+
+* [ ] Generics
+* [ ] Comparable
+* [ ] Comparator
+* [ ] DSA: Sliding window — 2
+* [ ] SQL normalization
+* [ ] Resume v1
+* [ ] LinkedIn profile
+* [ ] GitHub profile
+* [ ] Apply to 5 jobs
+
+**Pooja**
+
+---
+
+## Day 16 — 06-Sep
+
+* [ ] Java 8 overview
+* [ ] Functional interfaces
+* [ ] Lambda
+* [ ] DSA: Binary search — 2
+* [ ] SQL transactions
+* [ ] Apply to 5 jobs
+
+---
+
+## Day 17 — 07-Sep
+
+* [ ] Stream API
+* [ ] filter
+* [ ] map
+* [ ] reduce
+* [ ] collect
+* [ ] DSA: Binary search — 2
+* [ ] SQL indexes
+* [ ] Apply to 5 jobs
+
+---
+
+## Day 18 — 08-Sep
+
+### SPRING BOOT START
+
+* [ ] Spring vs Spring Boot
+* [ ] Project structure
+* [ ] Maven
+* [ ] Dependency Injection
+* [ ] IoC
+* [ ] DSA: Stack — 2
+* [ ] Apply to 5 jobs
+
+**Pooja**
+
+---
+
+## Day 19 — 09-Sep
+
+* [ ] Spring Beans
+* [ ] Component
+* [ ] Service
+* [ ] Repository
+* [ ] Controller
+* [ ] DSA: Stack — 2
+* [ ] Build first REST endpoint
+* [ ] Apply to 5 jobs
+
+---
+
+## Day 20 — 10-Sep
+
+* [ ] REST architecture
+* [ ] GET
+* [ ] POST
+* [ ] PUT
+* [ ] DELETE
+* [ ] HTTP status codes
+* [ ] DSA: Queue — 2
+* [ ] Postman
+* [ ] Apply to 5 jobs
+
+---
+
+## Day 21 — 11-Sep
+
+### REVISION DAY 2
+
+* [ ] Core Java revision
+* [ ] Collections revision
+* [ ] Java 8 revision
+* [ ] SQL revision
+* [ ] Spring fundamentals
+* [ ] 10 interview questions
+* [ ] 5 DSA problems
+* [ ] 10 SQL queries
+* [ ] Apply to 10 jobs
+
+---
+
+# PHASE 3 — SPRING BOOT + PROJECT 1
+
+## Day 22 — 12-Sep
+
+* [ ] Spring Data JPA
+* [ ] Entity
+* [ ] Repository
+* [ ] MySQL connection
+* [ ] DSA: Linked List — 2
+* [ ] Employee Management project setup
+
+**Pooja**
+
+---
+
+## Day 23 — 13-Sep
+
+* [ ] CRUD API
+* [ ] Create employee
+* [ ] Get employee
+* [ ] DSA: Linked List — 2
+* [ ] Project coding
+* [ ] Apply 5 jobs
+
+---
+
+## Day 24 — 14-Sep
+
+* [ ] Update employee
+* [ ] Delete employee
+* [ ] DSA: Linked List — 2
+* [ ] Project coding
+* [ ] Apply 5 jobs
+
+---
+
+## Day 25 — 15-Sep
+
+* [ ] DTO
+* [ ] Request/Response DTO
+* [ ] Validation
+* [ ] DSA: Binary search — 2
+* [ ] Project coding
+
+**Pooja**
+
+---
+
+## Day 26 — 16-Sep
+
+* [ ] Exception handling
+* [ ] Global Exception Handler
+* [ ] Custom API errors
+* [ ] DSA: Trees basics — 2
+* [ ] Project coding
+* [ ] Apply 5 jobs
+
+---
+
+## Day 27 — 17-Sep
+
+* [ ] Pagination
+* [ ] Sorting
+* [ ] Filtering
+* [ ] DSA: Trees — 2
+* [ ] Project coding
+* [ ] Apply 5 jobs
+
+**Pooja**
+
+---
+
+## Day 28 — 18-Sep
+
+### PROJECT 1 + REVISION
+
+* [ ] Complete Employee Management API
+* [ ] Test all endpoints
+* [ ] Postman collection
+* [ ] README
+* [ ] GitHub push
+* [ ] 5 Java interview questions
+* [ ] 5 SQL interview questions
+* [ ] Apply 10 jobs
+
+---
+
+# PHASE 4 — SECURITY + FULL BACKEND
+
+## Day 29 — 19-Sep
+
+* [ ] JPA relationships
+* [ ] One-to-One
+* [ ] One-to-Many
+* [ ] Many-to-One
+* [ ] DSA: Trees — 2
+* [ ] Apply 5 jobs
+
+**Pooja**
+
+---
+
+## Day 30 — 20-Sep
+
+* [ ] Spring Security basics
+* [ ] Authentication
+* [ ] Authorization
+* [ ] DSA: Recursion — 2
+* [ ] Apply 5 jobs
+
+---
+
+## Day 31 — 21-Sep
+
+* [ ] Password hashing
+* [ ] BCrypt
+* [ ] User entity
+* [ ] DSA: Recursion — 2
+* [ ] Apply 5 jobs
+
+---
+
+## Day 32 — 22-Sep
+
+* [ ] JWT
+* [ ] JWT structure
+* [ ] Token generation
+* [ ] Token validation
+* [ ] DSA: Stack/Queue — 2
+* [ ] Apply 5 jobs
+
+**Pooja**
+
+---
+
+## Day 33 — 23-Sep
+
+* [ ] Role-based authorization
+* [ ] USER
+* [ ] ADMIN
+* [ ] Protected endpoints
+* [ ] DSA: Mixed — 2
+* [ ] Apply 5 jobs
+
+---
+
+## Day 34 — 24-Sep
+
+* [ ] Swagger/OpenAPI
+* [ ] API documentation
+* [ ] Postman advanced usage
+* [ ] DSA: Mixed — 2
+* [ ] Apply 5 jobs
+
+**Pooja**
+
+---
+
+## Day 35 — 25-Sep
+
+### REVISION DAY 3
+
+* [ ] Java
+* [ ] Collections
+* [ ] Java 8
+* [ ] SQL
+* [ ] Spring Boot
+* [ ] JPA
+* [ ] REST
+* [ ] Security
+* [ ] JWT
+* [ ] 10 DSA problems
+* [ ] Mock technical interview
+* [ ] Apply 10 jobs
+
+---
+
+# PHASE 5 — MAJOR PROJECT
+
+## Day 36 — 26-Sep
+
+### Project 2: Job Portal
+
+* [ ] Requirements
+* [ ] Database design
+* [ ] Entities
+* [ ] ER diagram
+* [ ] GitHub repository
+* [ ] DSA: Arrays/HashMap — 2
+
+**Pooja**
+
+---
+
+## Day 37 — 27-Sep
+
+* [ ] User registration
+* [ ] Login
+* [ ] JWT
+* [ ] DSA: Strings — 2
+* [ ] Apply 5 jobs
+
+---
+
+## Day 38 — 28-Sep
+
+* [ ] Recruiter module
+* [ ] Create job
+* [ ] Update job
+* [ ] Delete job
+* [ ] DSA: Two pointers — 2
+* [ ] Apply 5 jobs
+
+---
+
+## Day 39 — 29-Sep
+
+* [ ] Job seeker module
+* [ ] Search jobs
+* [ ] Filter jobs
+* [ ] Pagination
+* [ ] DSA: Sliding window — 2
+* [ ] Apply 5 jobs
+
+---
+
+## Day 40 — 30-Sep
+
+* [ ] Apply for job
+* [ ] Application entity
+* [ ] Application status
+* [ ] DSA: Binary search — 2
+* [ ] Apply 10 jobs
+
+---
+
+## Day 41 — 01-Oct
+
+* [ ] Admin module
+* [ ] User management
+* [ ] Job management
+* [ ] Application management
+* [ ] DSA: Linked List — 2
+* [ ] Apply 10 jobs
+
+**Pooja**
+
+---
+
+## Day 42 — 02-Oct
+
+* [ ] Validation
+* [ ] Exception handling
+* [ ] DTOs
+* [ ] DSA: Trees — 2
+* [ ] Apply 10 jobs
+
+---
+
+## Day 43 — 03-Oct
+
+* [ ] Swagger
+* [ ] Postman testing
+* [ ] API cleanup
+* [ ] DSA: Stack/Queue — 2
+* [ ] Apply 10 jobs
+
+**Pooja**
+
+---
+
+## Day 44 — 04-Oct
+
+### PROJECT 2 CHECKPOINT
+
+* [ ] Complete backend
+* [ ] Test all APIs
+* [ ] Fix bugs
+* [ ] GitHub README
+* [ ] Architecture diagram
+* [ ] DSA: Mixed 3
+* [ ] Apply 10 jobs
+
+---
+
+# PHASE 6 — FULL STACK + DEPLOYMENT
+
+## Day 45 — 05-Oct
+
+* [ ] HTML/CSS revision
+* [ ] JavaScript basics
+* [ ] Fetch API
+* [ ] DSA: Mixed 3
+* [ ] Apply 10 jobs
+
+---
+
+## Day 46 — 06-Oct
+
+* [ ] React basics
+* [ ] Components
+* [ ] Props
+* [ ] State
+* [ ] DSA: Mixed 3
+* [ ] Apply 10 jobs
+
+**Pooja**
+
+---
+
+## Day 47 — 07-Oct
+
+* [ ] React forms
+* [ ] API integration
+* [ ] Login page
+* [ ] Job listing page
+* [ ] DSA: Mixed 3
+* [ ] Apply 10 jobs
+
+---
+
+# PHASE 7 — INTERVIEW WAR
+
+## Day 48 — 08-Oct
+
+### Java Interview Day
+
+* [ ] OOP
+* [ ] Collections
+* [ ] String
 * [ ] Exception handling
 * [ ] Java 8
-* [ ] Stream API
-* [ ] Lambda
-* [ ] Optional
+* [ ] JVM
+* [ ] 30 Java questions
+* [ ] DSA: 3
+* [ ] Apply 10 jobs
 
-## SQL
+**Pooja**
+
+---
+
+## Day 49 — 09-Oct
+
+### SQL Interview Day
 
 * [ ] Joins
 * [ ] Group By
 * [ ] Having
 * [ ] Subqueries
-* [ ] Aggregate functions
-* [ ] Primary key
-* [ ] Foreign key
 * [ ] Index
-* [ ] Normalization
-* [ ] Transactions basics
+* [ ] Transactions
+* [ ] 30 SQL questions
+* [ ] DSA: 3
+* [ ] Apply 10 jobs
 
-## Spring Boot
+---
 
-* [ ] Spring vs Spring Boot
-* [ ] IoC
-* [ ] DI
-* [ ] Bean
-* [ ] Component
-* [ ] Service
-* [ ] Repository
+## Day 50 — 10-Oct
+
+### Spring Boot Interview Day
+
+* [ ] Dependency Injection
 * [ ] REST
-* [ ] HTTP methods
-* [ ] Status codes
 * [ ] JPA
 * [ ] Hibernate
-* [ ] JpaRepository
-* [ ] Relationships
-* [ ] Validation
+* [ ] DTO
 * [ ] Exception handling
 * [ ] Security
+* [ ] JWT
+* [ ] 30 Spring questions
+* [ ] Apply 10 jobs
+
+**Pooja**
 
 ---
 
-# 🎤 HR INTERVIEW TRACKER
+## Day 51 — 11-Oct
 
-* [ ] Tell me about yourself
-* [ ] Why Java?
-* [ ] Why backend development?
-* [ ] Why should we hire you?
-* [ ] What are your strengths?
-* [ ] What is your weakness?
-* [ ] Tell me about your project
-* [ ] What was your role?
-* [ ] What challenges did you face?
-* [ ] How did you solve them?
-* [ ] Why should we choose you as a fresher?
-* [ ] Where do you see yourself in 3 years?
-* [ ] Are you willing to relocate?
+### PROJECT INTERVIEW DAY
+
+Explain without looking:
+
+* [ ] Project architecture
+
+* [ ] Database design
+
+* [ ] API flow
+
+* [ ] Authentication
+
+* [ ] Authorization
+
+* [ ] JPA
+
+* [ ] Exception handling
+
+* [ ] Deployment
+
+* [ ] Why this technology?
+
+* [ ] Biggest bug
+
+* [ ] Biggest challenge
+
+* [ ] What would you improve?
+
+* [ ] Mock interview
+
+* [ ] Apply 10 jobs
+
+---
+
+## Day 52 — 12-Oct
+
+### DSA MOCK DAY
+
+* [ ] 5 Easy
+* [ ] 3 Medium
+* [ ] Time complexity
+* [ ] Space complexity
+* [ ] Explain every solution aloud
+* [ ] Apply 10 jobs
+
+---
+
+## Day 53 — 13-Oct
+
+### FULL MOCK INTERVIEW
+
+* [ ] Java mock
+* [ ] SQL mock
+* [ ] Spring Boot mock
+* [ ] DSA mock
+* [ ] Project explanation
+* [ ] HR round
+* [ ] Self introduction
 * [ ] Salary expectation
-* [ ] Why do you want this company?
+* [ ] Relocation question
+* [ ] Notice period question
+
+**Pooja**
 
 ---
 
-# 💼 JOB APPLICATION TRACKER
+## Day 54 — 14-Oct
 
-| Date | Company | Role | Source | Applied | Assessment | Interview | Result | Follow-up |
-| ---- | ------- | ---- | ------ | ------- | ---------- | --------- | ------ | --------- |
-|      |         |      |        |         |            |           |        |           |
-|      |         |      |        |         |            |           |        |           |
-|      |         |      |        |         |            |           |        |           |
-|      |         |      |        |         |            |           |        |           |
-|      |         |      |        |         |            |           |        |           |
+### FINAL REVISION
 
-### Daily Target
+* [ ] Core Java
 
-**Minimum:**
+* [ ] Collections
 
-* [ ] 10 targeted applications
-* [ ] 5 recruiter contacts
-* [ ] 5 referral attempts
+* [ ] Java 8
 
-### Stretch Target
+* [ ] SQL
 
-* [ ] 20 applications
-* [ ] 10 recruiter contacts
-* [ ] 10 referral attempts
+* [ ] Spring Boot
 
----
+* [ ] JPA
 
-# 🤝 REFERRAL TRACKER
+* [ ] REST
 
-| Date | Person | Company | Role | Contacted | Response | Referral | Status |
-| ---- | ------ | ------- | ---- | --------- | -------- | -------- | ------ |
-|      |        |         |      |           |          |          |        |
-|      |        |         |      |           |          |          |        |
-|      |        |         |      |           |          |          |        |
-|      |        |         |      |           |          |          |        |
+* [ ] Security
 
-### Referral Rules
+* [ ] JWT
 
-* [ ] Read job description first
-* [ ] Check skill match
-* [ ] Personalize message
-* [ ] Don't spam
-* [ ] Attach resume only when appropriate
-* [ ] Follow up professionally
-* [ ] Track every contact
+* [ ] Git
+
+* [ ] DSA patterns
+
+* [ ] Projects
+
+* [ ] Resume
+
+* [ ] Apply to 15 jobs
 
 ---
 
-# 📈 WEEKLY SCORECARD
+## Day 55 — 15-Oct
 
-| Week   | Java | DSA | SQL | Spring | Project | Aptitude | Applications | Referrals |
-| ------ | ---- | --- | --- | ------ | ------- | -------- | ------------ | --------- |
-| Week 1 |      |     |     |        |         |          |              |           |
-| Week 2 |      |     |     |        |         |          |              |           |
-| Week 3 |      |     |     |        |         |          |              |           |
-| Week 4 |      |     |     |        |         |          |              |           |
-| Week 5 |      |     |     |        |         |          |              |           |
-| Week 6 |      |     |     |        |         |          |              |           |
-| Week 7 |      |     |     |        |         |          |              |           |
-| Week 8 |      |     |     |        |         |          |              |           |
-| Week 9 |      |     |     |        |         |          |              |           |
+### FINAL INTERVIEW SIMULATION
+
+* [ ] 60-minute technical interview
+* [ ] 30-minute DSA
+* [ ] 20-minute SQL
+* [ ] 20-minute Java
+* [ ] 20-minute Spring Boot
+* [ ] 10-minute project explanation
+* [ ] HR round
+* [ ] Salary negotiation
+* [ ] GitHub final cleanup
+* [ ] Resume final cleanup
+* [ ] Apply to 15 jobs
 
 ---
 
-# ⏰ DAILY ROUTINE
+# 🏁 DAY 56 — 16-Oct-2026
+
+# TARGET DAY
 
 ## Morning
 
-**8:00 – 10:00**
+* [ ] Wake up
+* [ ] No panic
+* [ ] Review resume
+* [ ] Review projects
+* [ ] Review self-introduction
+* [ ] Review Java cheat sheet
+* [ ] Review SQL cheat sheet
+* [ ] Review Spring Boot cheat sheet
 
-Java / Spring
+## Applications
 
-**10:15 – 12:15**
+* [ ] Apply to 15 high-quality roles
+* [ ] Follow up with recruiters
+* [ ] Contact referrals
+* [ ] Check interview emails
+* [ ] Check LinkedIn
+* [ ] Check job portals
 
-Coding + DSA
+## Final status
 
-**12:15 – 1:00**
-
-Lunch / break
-
----
-
-## Afternoon
-
-**1:00 – 3:00**
-
-Development / Project
-
-**3:00 – 3:45**
-
-Aptitude
-
-**4:00 – 5:00**
-
-SQL / DSA
-
----
-
-## Evening
-
-**5:30 – 6:30**
-
-Interview preparation
-
-**6:30 – 7:30**
-
-Applications + referrals
+* [ ] Resume ready
+* [ ] GitHub ready
+* [ ] LinkedIn ready
+* [ ] Project 1 ready
+* [ ] Project 2 ready
+* [ ] DSA ready
+* [ ] Java ready
+* [ ] SQL ready
+* [ ] Spring Boot ready
+* [ ] Interview ready
 
 ---
 
-## Night
+# 📊 WEEKLY TARGETS
 
-**8:30 – 9:30**
-
-Revision
-
-**9:30 – 10:00**
-
-Daily log + tomorrow's plan
-
----
-
-# 📓 DAILY LOG
-
-## Day 01 — 17 Aug 2026
-
-### What I learned
-
-*
-
-### Coding problems solved
-
-*
-
-### DSA
-
-*
-
-### SQL
-
-*
-
-### Development
-
-*
-
-### Applications
-
-*
-
-### Referrals
-
-*
-
-### Interview questions
-
-*
-
-### What I struggled with
-
-*
-
-### What I understood today
-
-*
-
-### Tomorrow's priority
-
-*
+| Week   |       Java | DSA | SQL |       Spring | Project    | Applications |
+| ------ | ---------: | --: | --: | -----------: | ---------- | -----------: |
+| Week 1 | Foundation |  12 |  10 |            — | —          |            — |
+| Week 2 |   Advanced |  15 |  15 |        Start | —          |           15 |
+| Week 3 |   Revision |  15 |  15 |         Core | Project 1  |           30 |
+| Week 4 |    Backend |  15 |  10 |     Advanced | Project 1  |           35 |
+| Week 5 |   Security |  12 |  10 |     Security | Project 2  |           40 |
+| Week 6 |    Project |  15 |  10 | Full Backend | Project 2  |           50 |
+| Week 7 |  Interview |  15 |  10 |     Revision | Deployment |           60 |
+| Week 8 |  Interview |  15 |  10 |    Interview | Final      |          70+ |
 
 ---
 
-# 🔥 DAILY RULES
+# 💻 PROJECT PORTFOLIO
 
-1. **Understand before memorizing.**
-2. **Code before watching solutions.**
-3. **Attempt before asking AI.**
-4. **Never copy-paste a solution without understanding it.**
-5. **Every major concept must have coding practice.**
-6. **Every project feature must be explainable.**
-7. **Apply before feeling completely ready.**
-8. **Track everything.**
-9. **Don't change the roadmap every 3 days.**
-10. **Consistency > motivation.**
+## Project 1 — Employee Management System
 
----
+### Stack
 
-# 🚫 THINGS I WILL NOT DO
+* Java
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* MySQL
+* REST API
+* Postman
+* Git/GitHub
 
-* [ ] Random technology hopping
-* [ ] Learn Python deeply during this sprint
-* [ ] Learn Node.js deeply
-* [ ] Learn multiple frontend frameworks
-* [ ] Spend weeks on advanced AWS
-* [ ] Spend weeks on Kubernetes
-* [ ] Collect tutorials without coding
-* [ ] Copy GitHub projects
-* [ ] Depend on AI for every coding problem
-* [ ] Wait until October to start applying
-* [ ] Compare my progress with other developers
+### Features
+
+* [ ] Employee CRUD
+* [ ] Search
+* [ ] Pagination
+* [ ] Sorting
+* [ ] Validation
+* [ ] Exception handling
+* [ ] Database relationships
+* [ ] Swagger
 
 ---
 
-# 🤖 AI USAGE RULE
+# 🏆 Project 2 — Job Portal
 
-AI is my **mentor**, not my **keyboard**.
+### Backend
 
-### For coding problems:
+* Java
+* Spring Boot
+* Spring Security
+* JWT
+* JPA
+* Hibernate
+* MySQL
+* REST API
 
-```text
-1. Understand problem
-        ↓
-2. Write approach
-        ↓
-3. Code myself
-        ↓
-4. Test
-        ↓
-5. Debug
-        ↓
-6. Ask AI only when genuinely stuck
-        ↓
-7. Understand correction
-        ↓
-8. Rewrite without looking
-```
+### Frontend
 
-### For projects:
+* HTML
+* CSS
+* JavaScript
+* React
 
-AI can help me:
+### Features
 
-* Understand concepts
-* Debug errors
-* Review code
-* Explain documentation
-* Suggest improvements
-* Challenge my understanding
-
-AI should NOT become:
-
-> "Write the whole project for me."
-
----
-
-# 📊 EMPLOYABILITY CHECKPOINTS
-
-## 🟢 Checkpoint 1 — 30 Aug
-
-I should know:
-
-* [ ] Core Java
-* [ ] OOP
-* [ ] Exceptions
-* [ ] Arrays
-* [ ] Strings
-* [ ] Collections basics
+* [ ] User registration
+* [ ] Login
+* [ ] JWT
+* [ ] Role-based authorization
+* [ ] Recruiter
+* [ ] Job seeker
+* [ ] Job posting
+* [ ] Job search
+* [ ] Job filtering
+* [ ] Job application
+* [ ] Application tracking
+* [ ] Admin
+* [ ] Pagination
+* [ ] Validation
+* [ ] Exception handling
+* [ ] Swagger
 
 ---
 
-## 🟢 Checkpoint 2 — 13 Sep
+# 🧪 TESTING
 
-I should know:
-
-* [ ] Core Java
-* [ ] Collections
-* [ ] Java 8
-* [ ] SQL
-* [ ] Basic DSA
-
----
-
-## 🟢 Checkpoint 3 — 27 Sep
-
-I should be able to:
-
-* [ ] Build Spring Boot CRUD API
-* [ ] Connect MySQL
-* [ ] Use JPA
-* [ ] Handle exceptions
-* [ ] Validate requests
-* [ ] Explain REST
+* [ ] JUnit basics
+* [ ] Unit testing
+* [ ] Mockito basics
+* [ ] Controller testing
+* [ ] Service testing
+* [ ] API testing
+* [ ] Postman collections
 
 ---
 
-## 🟢 Checkpoint 4 — 08 Oct
+# ☁️ DEPLOYMENT
 
-I should have:
-
-* [ ] 2 projects
 * [ ] GitHub
-* [ ] Spring Security basics
-* [ ] Testing basics
-* [ ] Resume
-* [ ] LinkedIn
+* [ ] Environment variables
+* [ ] Build JAR
+* [ ] Deploy backend
+* [ ] Deploy frontend
+* [ ] Configure database
+* [ ] Test production API
+* [ ] Add live project URL to resume
 
 ---
 
-## 🔴 Checkpoint 5 — 15 Oct
+# 🧠 INTERVIEW MASTER LIST
 
-I should be:
+## Java
 
-* [ ] Interview-ready
-* [ ] Application-ready
-* [ ] Referral-ready
-* [ ] Project-ready
-* [ ] DSA-ready
-* [ ] Aptitude-ready
-* [ ] HR-ready
+* [ ] Why Java?
+* [ ] JDK vs JRE vs JVM
+* [ ] OOP principles
+* [ ] Overloading vs overriding
+* [ ] Interface vs abstract class
+* [ ] String vs StringBuilder
+* [ ] `==` vs `equals()`
+* [ ] `equals()` and `hashCode()`
+* [ ] ArrayList vs LinkedList
+* [ ] HashMap internal working
+* [ ] HashSet
+* [ ] Comparable vs Comparator
+* [ ] Exception hierarchy
+* [ ] Checked vs unchecked exception
+* [ ] Java 8
+* [ ] Stream API
+* [ ] Lambda
+* [ ] Stack vs Heap
+
+## Spring Boot
+
+* [ ] What is Spring?
+* [ ] What is Spring Boot?
+* [ ] IoC
+* [ ] Dependency Injection
+* [ ] Bean
+* [ ] Controller
+* [ ] Service
+* [ ] Repository
+* [ ] DTO
+* [ ] Entity
+* [ ] JPA
+* [ ] Hibernate
+* [ ] REST
+* [ ] JWT
+* [ ] Authentication
+* [ ] Authorization
+* [ ] Exception handling
+
+## SQL
+
+* [ ] Primary key
+* [ ] Foreign key
+* [ ] JOIN
+* [ ] GROUP BY
+* [ ] HAVING
+* [ ] Subquery
+* [ ] Index
+* [ ] Normalization
+* [ ] Transactions
+* [ ] ACID
 
 ---
 
-# 💰 SALARY TARGET
+# 📈 APPLICATION TRACKER
 
-## Primary Target
+| Date | Company | Role | Salary | Applied | OA | Interview | Result |
+| ---- | ------- | ---- | -----: | ------- | -- | --------- | ------ |
+|      |         |      |        | ☐       | ☐  | ☐         |        |
+|      |         |      |        | ☐       | ☐  | ☐         |        |
+|      |         |      |        | ☐       | ☐  | ☐         |        |
+|      |         |      |        | ☐       | ☐  | ☐         |        |
+|      |         |      |        | ☐       | ☐  | ☐         |        |
 
-**₹50,000/month take-home**
+### Daily application target
 
-### During offer discussions, verify:
+**5 → 10 → 15 applications/day**
 
-* [ ] Total CTC
-* [ ] Fixed CTC
-* [ ] Variable pay
-* [ ] Joining bonus
-* [ ] Retention bonus
-* [ ] PF deduction
-* [ ] Insurance deduction
-* [ ] Professional tax
-* [ ] Expected monthly take-home
-* [ ] Probation salary
-* [ ] Bond/service agreement
-* [ ] Notice period
-
-### Rule
-
-> **Never judge an offer only by CTC.**
+Quality matters, but volume matters too.
 
 ---
 
-# 🏁 FINAL DEFINITION OF DONE
-
-I will consider myself **Java Backend Interview Ready** when I can independently:
+# 📁 GITHUB STRUCTURE
 
 ```text
-Build
-   ↓
-REST API
-   ↓
-Spring Boot
-   ↓
-Service Layer
-   ↓
-Repository Layer
-   ↓
-JPA/Hibernate
-   ↓
-MySQL
-```
-
-and explain:
-
-```text
-WHY
-WHAT
-HOW
-TRADE-OFFS
-EDGE CASES
-```
-
-for every major decision.
-
----
-
-# 🧠 FINAL INTERVIEW TEST
-
-Before 16 October, I should be able to answer:
-
-### Java
-
-> What is JVM?
-
-> Why is String immutable?
-
-> Difference between `==` and `.equals()`?
-
-> ArrayList vs LinkedList?
-
-> HashMap internal working?
-
-> HashMap vs Hashtable?
-
-> Interface vs abstract class?
-
-> Overloading vs overriding?
-
-> Checked vs unchecked exceptions?
-
-> What are Java 8 features?
-
----
-
-### SQL
-
-> What is a JOIN?
-
-> INNER JOIN vs LEFT JOIN?
-
-> GROUP BY vs HAVING?
-
-> Primary key vs foreign key?
-
-> What is an index?
-
-> Find second highest salary.
-
----
-
-### Spring Boot
-
-> Spring vs Spring Boot?
-
-> What is IoC?
-
-> What is Dependency Injection?
-
-> What is a Bean?
-
-> What is `@RestController`?
-
-> What is `@Service`?
-
-> What is `@Repository`?
-
-> What is REST?
-
-> GET vs POST?
-
-> PUT vs PATCH?
-
----
-
-### JPA
-
-> What is ORM?
-
-> JPA vs Hibernate?
-
-> What is JpaRepository?
-
-> What is lazy loading?
-
-> What is eager loading?
-
-> Explain OneToMany.
-
----
-
-### Project
-
-> Explain your architecture.
-
-> Why did you choose Spring Boot?
-
-> How does a request travel through your application?
-
-> How is data stored?
-
-> How did you handle exceptions?
-
-> How did you validate input?
-
-> How did you handle authentication?
-
-> What was the hardest bug?
-
-> What would you improve?
-
----
-
-# 🏆 MY 60-DAY PROMISE TO MYSELF
-
-I don't need to become an expert in everything.
-
-I need to become **dangerously competent at the right things.**
-
-```text
-Java
-+
-SQL
-+
-Spring Boot
-+
-REST
-+
-JPA
-+
-DSA
-+
-Projects
-+
-Communication
-+
-Applications
-+
-Referrals
-=
-EMPLOYABILITY
+java-backend-56-day-challenge/
+│
+├── README.md
+│
+├── Core-Java/
+│   ├── Day01-Loops/
+│   ├── Day02-Methods/
+│   ├── Day03-Arrays/
+│   ├── Day04-Strings/
+│   └── ...
+│
+├── DSA/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── Hashing/
+│   ├── Two-Pointers/
+│   ├── Sliding-Window/
+│   ├── Binary-Search/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Linked-List/
+│   └── Trees/
+│
+├── SQL/
+│   ├── Basics/
+│   ├── Joins/
+│   ├── Subqueries/
+│   └── Advanced/
+│
+├── Spring-Boot/
+│
+├── Project-1-Employee-Management/
+│
+├── Project-2-Job-Portal/
+│
+├── React/
+│
+└── Interview-Preparation/
 ```
 
 ---
 
-# 🔥 THE RULE FOR THIS JOURNEY
+# 🔥 DAILY NON-NEGOTIABLES
 
-> **Don't chase the feeling of being ready.**
->
-> **Build evidence that you are ready.**
+Every day:
 
-Every solved problem is evidence.
-
-Every GitHub commit is evidence.
-
-Every project feature is evidence.
-
-Every SQL query is evidence.
-
-Every mock interview is evidence.
-
-Every application is an opportunity.
-
-Every rejection is feedback.
-
----
-
-# 🕉️ DAILY MINDSET
-
-> **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।**
->
-> *Karmanye vadhikaraste ma phaleshu kadachana.*
->
-> **Bhagavad Gita — 2.47**
-
-I control my **actions**, not the final result.
-
-Today I control:
-
-* [ ] Study
 * [ ] Code
-* [ ] Build
-* [ ] Practice
-* [ ] Apply
-* [ ] Ask for referrals
-* [ ] Improve
-* [ ] Repeat
+* [ ] DSA
+* [ ] SQL
+* [ ] Interview questions
+* [ ] Project
+* [ ] GitHub commit
+* [ ] Communication practice
+* [ ] Job applications after Day 15
+* [ ] Review mistakes
+* [ ] Sleep/rest
 
 ---
 
-# 🚀 START DATE
+# 🚫 RULES
 
-**17 August 2026**
+## Rule 1
 
-# 🎯 60-DAY SPRINT END
+**No tutorial hell.**
 
-**15 October 2026**
+If you watch 1 hour of tutorial:
 
-# 🔴 FINAL PLACEMENT DAY
+→ code for at least 1 hour.
 
-**16 October 2026**
+## Rule 2
 
-# 💰 TARGET
+**No blind AI coding.**
 
-**₹50,000/month take-home**
+AI can explain.
 
-# 💻 TARGET ROLE
+AI can review.
 
-**Java Backend Developer**
+AI can give hints.
 
-# 🔥 STATUS
+But YOU must be able to write and explain the code.
 
-**BUILDING. LEARNING. APPLYING.**
+## Rule 3
 
-> **One stack. One mission. 60 days. No random wandering.**
+**Every project feature must be explainable.**
+
+If interviewer asks:
+
+> "Why did you use DTO?"
+
+You answer.
+
+If interviewer asks:
+
+> "How does JWT authentication work?"
+
+You answer.
+
+If interviewer asks:
+
+> "Why did you use HashMap?"
+
+You answer.
+
+## Rule 4
+
+**GitHub every day.**
+
+Minimum:
+
+```text
+1 meaningful commit/day
+```
+
+## Rule 5
+
+**Applications don't wait for perfection.**
+
+Start applying from:
+
+**05-Sep-2026**
+
+---
+
+# 🏠 FINANCIAL GOAL AFTER JOB
+
+Live-in should start **after savings**, not immediately after receiving offer.
+
+### First target
+
+Build:
+
+**Emergency Fund = minimum 3 months of essential expenses**
+
+Then consider:
+
+* [ ] Job stable
+* [ ] Salary credited consistently
+* [ ] Emergency fund
+* [ ] Rental deposit available
+* [ ] Monthly budget calculated
+* [ ] Family support budget fixed
+* [ ] Partner's financial contribution discussed
+* [ ] Location selected
+* [ ] 1RK/1BHK researched
+* [ ] No high-interest debt
+* [ ] Savings continuing every month
+
+---
+
+# ❤️ PERSONAL PRINCIPLE
+
+I want a career that gives me freedom.
+
+I want financial stability.
+
+I want to support my family.
+
+I want to build a life with the person I love.
+
+But I will not destroy my career or finances trying to achieve everything at once.
+
+**First become employable.**
+
+**Then become financially stable.**
+
+**Then build the life.**
+
+---
+
+# 🕉️ DAILY GITA PRINCIPLE
+
+## भगवद्गीता 2.47
+
+> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+
+### Meaning
+
+My responsibility is to perform the work properly.
+
+I cannot control the exact result.
+
+Therefore:
+
+**Today's task → Today's focus.**
+
+Not:
+
+> "₹60K job vachesthada?"
+
+But:
+
+> "Today I completed my Java topic, DSA problems, project feature and applications."
+
+---
+
+# 🏁 FINAL TARGET
+
+## 16 OCTOBER 2026
+
+I should be able to say:
+
+> **I can build a Java backend application from scratch.**
+
+> **I can write SQL without depending on Google.**
+
+> **I can build REST APIs using Spring Boot.**
+
+> **I understand JPA/Hibernate.**
+
+> **I can implement JWT authentication.**
+
+> **I can solve common DSA patterns.**
+
+> **I can explain my projects confidently.**
+
+> **I can use Git/GitHub professionally.**
+
+> **I can face Java + SQL + Spring Boot interviews.**
+
+> **I have actively applied to jobs.**
+
+> **I am employable.**
+
+---
+
+# 🚀 56 DAYS. ONE MISSION.
+
+**22-Aug-2026 → 16-Oct-2026**
+
+### Learn → Code → Build → Revise → Apply → Interview → Offer
+
+**No perfection.**
+
+**No excuses.**
+
+**No tutorial addiction.**
+
+**No blind AI copying.**
+
+**Just consistent execution.**
+
+# `#Java #SpringBoot #SQL #DSA #Git #Backend #FullStack #JobSearch #2026Graduate`
+
