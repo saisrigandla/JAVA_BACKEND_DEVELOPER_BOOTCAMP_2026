@@ -3,10 +3,15 @@
 ## 🎯 Mission
 
 **Start:** 22-Aug-2026
+
 **Deadline:** 16-Oct-2026
+
 **Duration:** 56 Days
+
 **Target Role:** Java Backend Developer / Junior Software Developer / Java Full Stack Developer
+
 **Target:** ₹60,000/month take-home — **stretch target**
+
 **Minimum objective:** Become genuinely employable and secure the strongest legitimate offer available.
 
 > **Mission:** Become job-ready, interview-ready, project-ready and application-ready in 56 days.
