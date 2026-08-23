@@ -1,501 +1,535 @@
-# 🗣️ Verbal Ability — Placement Preparation
+# 🗣️ Verbal Ability
 
-> **Goal:** Become placement-test and interview communication ready by **16 October 2026**
-> **Start:** 17 August 2026
-> **Target:** 30–45 minutes daily
-> **Focus:** Grammar + Vocabulary + Reading + Communication
+> **Goal:** Build strong English grammar, vocabulary, reading comprehension, sentence construction, and communication skills required for placement aptitude tests and interviews.
 
----
-
-# 🎯 Objective
-
-Build enough English proficiency to confidently handle:
-
-* Verbal ability tests
-* Grammar questions
-* Reading comprehension
-* Sentence correction
-* Vocabulary questions
-* Written communication
-* HR interviews
-* Technical interviews
+**Primary Practice:** GeeksforGeeks + Placement Mock Tests  
+**Method:** Learn → Practice → Analyze Errors → Timed Test → Revise
 
 ---
 
-# 📊 MASTER TRACKER
+# 📊 Overall Progress
 
-| Area                  |         Target | Completed |
-| --------------------- | -------------: | --------: |
-| Grammar               | 100+ questions |         0 |
-| Vocabulary            |     150+ words |         0 |
-| Reading Comprehension |   30+ passages |         0 |
-| Sentence Correction   |            50+ |         0 |
-| Para Jumbles          |            30+ |         0 |
-| Fill in the Blanks    |            30+ |         0 |
-| Error Detection       |            50+ |         0 |
-| Speaking Practice     |   50+ sessions |         0 |
-| Mock Tests            |            10+ |         0 |
-| Interview Answers     |            20+ |         0 |
-
----
-
-# 🗓️ 60-DAY ROADMAP
-
-## PHASE 1 — GRAMMAR FOUNDATION
-
-### Day 01 — 17 Aug
-
-* [ ] Parts of speech
-* [ ] Nouns
-* [ ] Pronouns
-* [ ] Verbs
-* [ ] Adjectives
-* [ ] Adverbs
-
-### Day 02 — 18 Aug
-
-* [ ] Subject
-* [ ] Predicate
-* [ ] Sentence structure
-* [ ] Basic sentence formation
-
-### Day 03 — 19 Aug
-
-* [ ] Present tense
-* [ ] Simple present
-* [ ] Present continuous
-
-### Day 04 — 20 Aug
-
-* [ ] Past tense
-* [ ] Simple past
-* [ ] Past continuous
-
-### Day 05 — 21 Aug
-
-* [ ] Future tense
-* [ ] Future forms
-
-### Day 06 — 22 Aug
-
-* [ ] Tense mixed practice
-* [ ] 20 questions
-
-### Day 07 — 23 Aug
-
-# WEEK 1 TEST
-
-* [ ] Grammar test
-* [ ] Speaking practice
-* [ ] Record mistakes
+- [ ] Spotting Errors
+- [ ] Synonyms
+- [ ] Antonyms
+- [ ] Selecting Words
+- [ ] Spellings
+- [ ] Sentence Formation
+- [ ] Ordering of Words
+- [ ] Sentence Correction
+- [ ] Sentence Improvement
+- [ ] Completing Statements
+- [ ] Para Jumbles
+- [ ] Paragraph Formation
+- [ ] Cloze Test
+- [ ] Reading Comprehension
+- [ ] One Word Substitutes
+- [ ] Idioms & Phrases
+- [ ] Active & Passive Voice
+- [ ] Direct & Indirect Speech
+- [ ] Verbal Analogies
+- [ ] Articles
+- [ ] Prepositions
+- [ ] Adjectives
 
 ---
 
-# PHASE 2 — CORE GRAMMAR
+# 1. Spotting Errors
 
-### Day 08 — 24 Aug
-
-* [ ] Articles
-* [ ] A
-* [ ] An
-* [ ] The
-
-### Day 09 — 25 Aug
-
-* [ ] Prepositions
-* [ ] Time
-* [ ] Place
-* [ ] Direction
-
-### Day 10 — 26 Aug
-
-* [ ] Conjunctions
-* [ ] Coordinating conjunctions
-* [ ] Subordinating conjunctions
-
-### Day 11 — 27 Aug
-
-* [ ] Subject-verb agreement
-
-### Day 12 — 28 Aug
-
-* [ ] Active voice
-* [ ] Passive voice
-
-### Day 13 — 29 Aug
-
-* [ ] Direct speech
-* [ ] Indirect speech
-
-### Day 14 — 30 Aug
-
-# WEEK 2 TEST
-
-* [ ] 30 grammar questions
-* [ ] Speaking recording
-* [ ] Error review
+- [ ] Understand sentence structure
+- [ ] Subject-verb agreement
+- [ ] Tense errors
+- [ ] Pronoun errors
+- [ ] Article errors
+- [ ] Preposition errors
+- [ ] Conjunction errors
+- [ ] Adjective/adverb errors
+- [ ] Identify grammatical errors
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Record common mistakes
+- [ ] Revision
 
 ---
 
-# PHASE 3 — VOCABULARY
+# 2. Synonyms
 
-### Day 15 — 31 Aug
-
-* [ ] Synonyms
-* [ ] 10 words
-
-### Day 16 — 01 Sep
-
-* [ ] Antonyms
-* [ ] 10 words
-
-### Day 17 — 02 Sep
-
-* [ ] Homophones
-* [ ] Common confusing words
-
-### Day 18 — 03 Sep
-
-* [ ] One-word substitutions
-
-### Day 19 — 04 Sep
-
-* [ ] Idioms
-* [ ] Phrases
-
-### Day 20 — 05 Sep
-
-* [ ] Contextual vocabulary
-* [ ] 20 questions
-
-### Day 21 — 06 Sep
-
-# WEEK 3 TEST
-
-* [ ] Vocabulary test
-* [ ] 30 questions
-* [ ] Review mistakes
+- [ ] Understand synonyms
+- [ ] Learn common synonyms
+- [ ] Context-based synonyms
+- [ ] Vocabulary building
+- [ ] Learn 10 new words
+- [ ] Practice word usage
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# PHASE 4 — VERBAL ABILITY
+# 3. Antonyms
 
-### Day 22 — 07 Sep
-
-* [ ] Error detection
-* [ ] Grammar errors
-
-### Day 23 — 08 Sep
-
-* [ ] Sentence correction
-
-### Day 24 — 09 Sep
-
-* [ ] Fill in the blanks
-
-### Day 25 — 10 Sep
-
-* [ ] Cloze test
-
-### Day 26 — 11 Sep
-
-* [ ] Para jumbles
-
-### Day 27 — 12 Sep
-
-* [ ] Sentence arrangement
-
-### Day 28 — 13 Sep
-
-# WEEK 4 TEST
-
-* [ ] 40 verbal questions
-* [ ] Timed test
-* [ ] Error analysis
+- [ ] Understand antonyms
+- [ ] Learn common antonyms
+- [ ] Context-based antonyms
+- [ ] Vocabulary building
+- [ ] Learn 10 new words
+- [ ] Practice word usage
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# PHASE 5 — READING
+# 4. Selecting Words
 
-### Day 29 — 14 Sep
-
-* [ ] Reading comprehension basics
-* [ ] 1 passage
-
-### Day 30 — 15 Sep
-
-* [ ] Main idea
-* [ ] 1 passage
-
-### Day 31 — 16 Sep
-
-* [ ] Inference questions
-* [ ] 1 passage
-
-### Day 32 — 17 Sep
-
-* [ ] Tone
-* [ ] Author's intention
-
-### Day 33 — 18 Sep
-
-* [ ] Vocabulary in context
-
-### Day 34 — 19 Sep
-
-* [ ] Timed comprehension
-
-### Day 35 — 20 Sep
-
-# WEEK 5 TEST
-
-* [ ] 3 passages
-* [ ] Timed test
+- [ ] Understand context
+- [ ] Identify suitable words
+- [ ] Vocabulary-based questions
+- [ ] Grammar-based word selection
+- [ ] Contextual meaning
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# PHASE 6 — COMMUNICATION
+# 5. Spellings
 
-### Day 36 — 21 Sep
-
-Speak for 3 minutes:
-
-* [ ] My education
-* [ ] My background
-* [ ] My career goal
-
-### Day 37 — 22 Sep
-
-Speak for 3 minutes:
-
-* [ ] Why Java?
-* [ ] Why backend?
-
-### Day 38 — 23 Sep
-
-Speak for 3 minutes:
-
-* [ ] Explain OOP
-* [ ] Explain one Java concept
-
-### Day 39 — 24 Sep
-
-Speak for 3 minutes:
-
-* [ ] Explain SQL
-* [ ] Explain REST API
-
-### Day 40 — 25 Sep
-
-Speak for 3 minutes:
-
-* [ ] Explain my project
-
-### Day 41 — 26 Sep
-
-Speak for 3 minutes:
-
-* [ ] Technical challenge
-* [ ] How I solved it
-
-### Day 42 — 27 Sep
-
-# COMMUNICATION TEST
-
-* [ ] 5-minute recording
-* [ ] Listen to recording
-* [ ] Identify filler words
-* [ ] Identify grammar mistakes
-* [ ] Repeat improved version
+- [ ] Commonly misspelled words
+- [ ] Confusing spellings
+- [ ] Double letters
+- [ ] Silent letters
+- [ ] British/American spelling awareness
+- [ ] Build personal spelling list
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# PHASE 7 — INTERVIEW ENGLISH
+# 6. Sentence Formation
 
-### Day 43 — 28 Sep
-
-* [ ] Tell me about yourself
-
-### Day 44 — 29 Sep
-
-* [ ] Why should we hire you?
-
-### Day 45 — 30 Sep
-
-* [ ] What are your strengths?
-
-### Day 46 — 01 Oct
-
-* [ ] What is your weakness?
-
-### Day 47 — 02 Oct
-
-* [ ] Why Java backend?
-
-### Day 48 — 03 Oct
-
-* [ ] Tell me about your project
-
-### Day 49 — 04 Oct
-
-# HR MOCK
-
-* [ ] 10 questions
-* [ ] Record answers
-* [ ] Review
+- [ ] Subject
+- [ ] Verb
+- [ ] Object
+- [ ] Basic sentence structure
+- [ ] Simple sentences
+- [ ] Compound sentences
+- [ ] Complex sentences
+- [ ] Correct word order
+- [ ] Construct grammatically correct sentences
+- [ ] Practice questions
+- [ ] Revision
 
 ---
 
-# PHASE 8 — PLACEMENT VERBAL
+# 7. Ordering of Words
 
-### Day 50 — 05 Oct
-
-* [ ] Grammar mock
-
-### Day 51 — 06 Oct
-
-* [ ] Vocabulary mock
-
-### Day 52 — 07 Oct
-
-* [ ] Sentence correction
-* [ ] Error detection
-
-### Day 53 — 08 Oct
-
-* [ ] Para jumbles
-* [ ] Cloze test
-
-### Day 54 — 09 Oct
-
-* [ ] Reading comprehension
-
-### Day 55 — 10 Oct
-
-* [ ] Mixed verbal test
-
-### Day 56 — 11 Oct
-
-# MOCK TEST 1
-
-* [ ] Full verbal test
-* [ ] Score
-* [ ] Accuracy
-* [ ] Error analysis
-
-### Day 57 — 12 Oct
-
-* [ ] Weak grammar topics
-* [ ] Vocabulary revision
-
-### Day 58 — 13 Oct
-
-* [ ] Mixed verbal practice
-* [ ] Speaking practice
-
-### Day 59 — 14 Oct
-
-# MOCK TEST 2
-
-* [ ] Full test
-* [ ] Speaking
-* [ ] HR questions
-
-### Day 60 — 15 Oct
-
-# FINAL VERBAL REVISION
-
-* [ ] Grammar
-* [ ] Vocabulary
-* [ ] Reading
-* [ ] Sentence correction
-* [ ] Speaking
-* [ ] Self introduction
-* [ ] Project explanation
-* [ ] HR answers
+- [ ] Understand word ordering
+- [ ] Identify sentence structure
+- [ ] Arrange words correctly
+- [ ] Identify subject and predicate
+- [ ] Identify logical sequence
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# 🎤 DAILY SPEAKING TRACKER
+# 8. Sentence Correction
 
-| Day | Topic           | Duration | Recorded | Reviewed |
-| --- | --------------- | -------: | -------- | -------- |
-| 01  | My introduction |    3 min | [ ]      | [ ]      |
-| 02  | My education    |    3 min | [ ]      | [ ]      |
-| 03  | My career goal  |    3 min | [ ]      | [ ]      |
-| 04  | Java            |    3 min | [ ]      | [ ]      |
-| 05  | OOP             |    3 min | [ ]      | [ ]      |
-| 06  | SQL             |    3 min | [ ]      | [ ]      |
-| 07  | My project      |    3 min | [ ]      | [ ]      |
-
----
-
-# 🧑‍💼 HR ANSWER TRACKER
-
-* [ ] Tell me about yourself
-* [ ] Why Java?
-* [ ] Why backend?
-* [ ] Why should we hire you?
-* [ ] What are your strengths?
-* [ ] What is your weakness?
-* [ ] Tell me about your project
-* [ ] What challenges did you face?
-* [ ] How did you solve them?
-* [ ] Why should we hire a fresher?
-* [ ] Where do you see yourself in 3 years?
-* [ ] Are you willing to relocate?
-* [ ] What are your salary expectations?
-* [ ] Why this company?
-* [ ] What are your career goals?
+- [ ] Subject-verb agreement
+- [ ] Tenses
+- [ ] Pronouns
+- [ ] Articles
+- [ ] Prepositions
+- [ ] Conjunctions
+- [ ] Modifiers
+- [ ] Parallelism
+- [ ] Identify grammatical errors
+- [ ] Correct sentences
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# 📒 ERROR LOG
+# 9. Sentence Improvement
 
-| Date | Topic | Mistake | Correct Answer | Lesson |
-| ---- | ----- | ------- | -------------- | ------ |
-|      |       |         |                |        |
-|      |       |         |                |        |
-|      |       |         |                |        |
-
----
-
-# 📈 MOCK TEST TRACKER
-
-| Test    | Date | Questions | Score | Accuracy | Time |
-| ------- | ---- | --------: | ----: | -------: | ---: |
-| Mock 1  |      |           |       |          |      |
-| Mock 2  |      |           |       |          |      |
-| Mock 3  |      |           |       |          |      |
-| Mock 4  |      |           |       |          |      |
-| Mock 5  |      |           |       |          |      |
-| Mock 6  |      |           |       |          |      |
-| Mock 7  |      |           |       |          |      |
-| Mock 8  |      |           |       |          |      |
-| Mock 9  |      |           |       |          |      |
-| Mock 10 |      |           |       |          |      |
+- [ ] Identify awkward construction
+- [ ] Improve grammar
+- [ ] Improve sentence clarity
+- [ ] Improve word choice
+- [ ] Eliminate redundancy
+- [ ] Compare answer choices
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# 🎯 FINAL TARGET
+# 10. Completing Statements
 
-* [ ] 150+ vocabulary words
-* [ ] 100+ grammar questions
-* [ ] 30+ reading passages
-* [ ] 50+ speaking sessions
-* [ ] 10+ mock tests
-* [ ] Confident self-introduction
-* [ ] Confident project explanation
-* [ ] Clear technical communication
-* [ ] HR interview ready
-* [ ] Placement verbal-test ready
+- [ ] Understand sentence context
+- [ ] Identify logical continuation
+- [ ] Grammar-based completion
+- [ ] Vocabulary-based completion
+- [ ] Contextual completion
+- [ ] Eliminate incorrect options
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
 ---
 
-# 🏁 STATUS
+# 11. Para Jumbles
 
-**Start:** 17 Aug 2026
-**Final Preparation:** 15 Oct 2026
-**Placement Day:** 16 Oct 2026
+- [ ] Understand paragraph structure
+- [ ] Identify opening sentence
+- [ ] Identify closing sentence
+- [ ] Identify mandatory pairs
+- [ ] Identify pronoun references
+- [ ] Identify transition words
+- [ ] Identify logical sequence
+- [ ] Arrange sentences
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
 
-> **Don't aim for perfect English. Aim for clear, confident communication.**
+---
+
+# 12. Paragraph Formation
+
+- [ ] Identify main idea
+- [ ] Identify supporting ideas
+- [ ] Logical sequencing
+- [ ] Introduction
+- [ ] Body
+- [ ] Conclusion
+- [ ] Coherence
+- [ ] Sentence linking
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 13. Cloze Test
+
+- [ ] Understand passage context
+- [ ] Vocabulary-based blanks
+- [ ] Grammar-based blanks
+- [ ] Preposition-based blanks
+- [ ] Article-based blanks
+- [ ] Tense-based blanks
+- [ ] Contextual elimination
+- [ ] Solve complete passages
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 14. Reading Comprehension
+
+- [ ] Read passages efficiently
+- [ ] Identify main idea
+- [ ] Identify supporting details
+- [ ] Find factual information
+- [ ] Make logical inferences
+- [ ] Understand author's tone
+- [ ] Understand author's purpose
+- [ ] Vocabulary in context
+- [ ] Eliminate incorrect options
+- [ ] Solve practice passages
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 15. One Word Substitutes
+
+- [ ] Learn common one-word substitutions
+- [ ] People/person-related terms
+- [ ] Places-related terms
+- [ ] Behaviour-related terms
+- [ ] Study-related terms
+- [ ] Profession-related terms
+- [ ] Maintain vocabulary notebook
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 16. Idioms & Phrases
+
+- [ ] Understand idioms
+- [ ] Learn common idioms
+- [ ] Understand contextual meaning
+- [ ] Identify figurative meaning
+- [ ] Learn common phrases
+- [ ] Use idioms in sentences
+- [ ] Maintain idiom list
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 17. Active & Passive Voice
+
+- [ ] Understand active voice
+- [ ] Understand passive voice
+- [ ] Identify subject/object
+- [ ] Tense conversion
+- [ ] Modal conversion
+- [ ] Question conversion
+- [ ] Imperative sentences
+- [ ] Convert Active → Passive
+- [ ] Convert Passive → Active
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 18. Direct & Indirect Speech
+
+- [ ] Understand direct speech
+- [ ] Understand indirect speech
+- [ ] Reporting verbs
+- [ ] Tense changes
+- [ ] Pronoun changes
+- [ ] Time/place changes
+- [ ] Statements
+- [ ] Questions
+- [ ] Commands
+- [ ] Requests
+- [ ] Convert Direct → Indirect
+- [ ] Convert Indirect → Direct
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 19. Verbal Analogies
+
+- [ ] Understand analogy
+- [ ] Identify word relationships
+- [ ] Meaning-based analogy
+- [ ] Function-based analogy
+- [ ] Part-to-whole analogy
+- [ ] Cause-effect analogy
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 20. Articles
+
+- [ ] Understand A
+- [ ] Understand An
+- [ ] Understand The
+- [ ] Definite article
+- [ ] Indefinite articles
+- [ ] Zero article
+- [ ] Common article errors
+- [ ] Special cases
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 21. Prepositions
+
+- [ ] Prepositions of time
+- [ ] Prepositions of place
+- [ ] Prepositions of direction
+- [ ] Prepositions of movement
+- [ ] Common preposition combinations
+- [ ] Common preposition errors
+- [ ] Context-based usage
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 22. Adjectives
+
+- [ ] Understand adjectives
+- [ ] Types of adjectives
+- [ ] Degrees of comparison
+- [ ] Positive degree
+- [ ] Comparative degree
+- [ ] Superlative degree
+- [ ] Correct adjective placement
+- [ ] Common adjective errors
+- [ ] Solve practice questions
+- [ ] Attempt topic quiz
+- [ ] Timed practice
+- [ ] Revision
+
+---
+
+# 📚 Vocabulary Building System
+
+## Daily Vocabulary
+
+- [ ] Learn 10 new words
+- [ ] Write meaning
+- [ ] Write synonym
+- [ ] Write antonym
+- [ ] Write one example sentence
+- [ ] Practice pronunciation
+- [ ] Revise previous words
+
+### Weekly Target
+
+**10 words × 6 days = 60 words/week**
+
+### Monthly Target
+
+**60 words × 4 weeks = 240 words/month**
+
+---
+
+# ✍️ Grammar Error Log
+
+Maintain a personal error log.
+
+| Date | Topic | Mistake | Correct Rule | Reattempted |
+|---|---|---|---|---|
+| YYYY-MM-DD | Tenses | Example mistake | Correct rule | [ ] |
+| YYYY-MM-DD | Articles | Example mistake | Correct rule | [ ] |
+| YYYY-MM-DD | Prepositions | Example mistake | Correct rule | [ ] |
+
+---
+
+# ⚡ Daily Verbal Practice
+
+### 30–45 Minutes
+
+- [ ] 10 min — Vocabulary
+- [ ] 10 min — Grammar
+- [ ] 10 min — Practice questions
+- [ ] 10 min — Reading
+- [ ] 5 min — Error review
+
+---
+
+# 📈 Verbal Ability Metrics
+
+| Metric | Target |
+|---|---:|
+| Accuracy | ≥ 85% |
+| Daily Vocabulary | 10 words |
+| Daily Questions | 20–30 |
+| Reading | 15–20 min/day |
+| Weekly Mock Tests | 2 |
+| Monthly Full Mocks | 4+ |
+
+---
+
+# 🧪 Weekly Verbal Mock
+
+- [ ] Verbal Mock Test 1
+- [ ] Verbal Mock Test 2
+- [ ] Analyze incorrect answers
+- [ ] Update grammar error log
+- [ ] Revise vocabulary
+- [ ] Reattempt incorrect questions
+- [ ] Track accuracy
+- [ ] Track average time/question
+
+---
+
+# 🏆 Placement Readiness
+
+- [ ] Strong command of basic grammar
+- [ ] Identify common grammatical errors quickly
+- [ ] Understand sentence structure
+- [ ] Build functional vocabulary
+- [ ] Solve sentence correction questions
+- [ ] Solve para jumbles
+- [ ] Solve cloze tests
+- [ ] Read passages efficiently
+- [ ] Answer comprehension questions accurately
+- [ ] Understand common idioms and phrases
+- [ ] Maintain ≥85% accuracy
+- [ ] Complete timed verbal tests
+- [ ] Analyze every mock test
+
+---
+
+# 🚀 Communication Parallel Track
+
+Verbal aptitude ≠ spoken English.
+
+Both should be developed separately.
+
+### Speaking Practice
+
+- [ ] Speak English for 5 minutes daily
+- [ ] Explain one technical topic
+- [ ] Explain one non-technical topic
+- [ ] Record yourself
+- [ ] Identify grammar mistakes
+- [ ] Improve pronunciation
+- [ ] Improve sentence construction
+- [ ] Practice interview answers
+
+### Technical Speaking
+
+- [ ] Explain Java concepts
+- [ ] Explain SQL concepts
+- [ ] Explain DSA problems
+- [ ] Explain projects
+- [ ] Practice "Tell me about yourself"
+- [ ] Practice project explanation
+- [ ] Practice strengths/weaknesses
+- [ ] Practice HR questions
+
+---
+
+# 🔄 Revision System
+
+For every completed topic:
+
+- [ ] Revision — Day 1
+- [ ] Revision — Day 7
+- [ ] Revision — Day 21
+- [ ] Reattempt wrong questions
+- [ ] Take mixed-topic test
+- [ ] Update error log
+
+---
+
+## 🔥 Golden Rule
+
+> **Verbal ability is not about memorizing English. It is about understanding context, recognizing grammar patterns, choosing precise words, and communicating clearly.**
+
+> **Target: Accuracy first → Speed second → Fluency third.**
