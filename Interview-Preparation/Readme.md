@@ -745,7 +745,7 @@ Before attending an interview:
 
 ---
 
-🏆 Final Goal
+## 🏆 Final Goal
 ```
                     JAVA BACKEND DEVELOPER
                               │
@@ -771,11 +771,13 @@ Before attending an interview:
               PREPARATION           OFFER
 ```
 
-> 🔥 Golden Rule
+## 🔥 Golden Rule
 
 > Don't just learn concepts.
 
 > Learn → Code → Practice → Explain → Revise → Interview
+
+---
 
 ## Daily Minimum
 | Area          | Daily Target |
