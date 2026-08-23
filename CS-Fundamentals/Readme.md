@@ -711,73 +711,67 @@ MySQL
 For my target role, I will NOT spend equal time on every CS subject.
 
 🔴 Tier 1 — Critical
-
 These must be strong.
-
- Java
- OOP
- Collections
- Exception Handling
- Java 8+
- SQL
- DBMS
- JDBC
- Spring
- Spring Boot
- REST APIs
- JPA / Hibernate
- Computer Networks Basics
- Operating Systems Basics
- Git / GitHub
+- [ ] Java
+- [ ] OOP
+- [ ] Collections
+- [ ] Exception Handling
+- [ ] Java 8+
+- [ ] SQL
+- [ ] DBMS
+- [ ] JDBC
+- [ ] Spring
+- [ ] Spring Boot
+- [ ] REST APIs
+- [ ] JPA / Hibernate
+- [ ] Computer Networks Basics
+- [ ] Operating Systems Basics
+- [ ] Git / GitHub
 
 🟠 Tier 2 — Important
-
 Understand the fundamentals.
-
- Linux
- Software Engineering
- Software Testing
- Computer Architecture
- Computer Security
- Distributed Systems
- Web Technology
+- [ ] Linux
+- [ ] Software Engineering
+- [ ] Software Testing
+- [ ] Computer Architecture
+- [ ] Computer Security
+- [ ] Distributed Systems
+- [ ] Web Technology
 
 🟢 Tier 3 — Low Priority
-
 Learn only after the core job-ready stack is strong.
+- [ ] Compiler Design
+- [ ] Theory of Computation
+- [ ] Data Warehousing
+- [ ] Artificial Intelligence
+- [ ] Machine Learning
+- [ ] Data Science
+- [ ] Advanced Computer Architecture
 
- Compiler Design
- Theory of Computation
- Data Warehousing
- Artificial Intelligence
- Machine Learning
- Data Science
- Advanced Computer Architecture
-📚 Final Completion Checklist
 
+## 📚 Final Completion Checklist
 I will mark Computer Science Core as complete only when I can:
-
- Explain OS fundamentals
- Explain processes and threads
- Explain deadlocks
- Write intermediate SQL queries
- Explain DBMS concepts
- Explain normalization
- Explain ACID transactions
- Explain database indexing
- Explain HTTP/HTTPS
- Explain TCP/UDP
- Explain DNS
- Use basic Linux commands
- Explain SDLC
- Understand Agile/Scrum
- Use Git/GitHub
- Understand software testing
- Explain REST APIs
- Understand authentication and authorization
- Connect Java → JDBC → Database
- Connect Spring Boot → JPA → MySQL
- Explain my project architecture in an interview
+- [ ] Explain OS fundamentals
+- [ ] Explain processes and threads
+- [ ] Explain deadlocks
+- [ ] Write intermediate SQL queries
+- [ ] Explain DBMS concepts
+- [ ] Explain normalization
+- [ ] Explain ACID transactions
+- [ ] Explain database indexing
+- [ ] Explain HTTP/HTTPS
+- [ ] Explain TCP/UDP
+- [ ] Explain DNS
+- [ ] Use basic Linux commands
+- [ ] Explain SDLC
+- [ ] Understand Agile/Scrum
+- [ ] Use Git/GitHub
+- [ ] Understand software testing
+- [ ] Explain REST APIs
+- [ ] Understand authentication and authorization
+- [ ] Connect Java → JDBC → Database
+- [ ] Connect Spring Boot → JPA → MySQL
+- [ ] Explain my project architecture in an interview
 
 
 🚀 Target Skill Stack
