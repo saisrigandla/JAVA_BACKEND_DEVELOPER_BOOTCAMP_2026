@@ -1,504 +1,515 @@
-# 🧠 Aptitude — Placement Preparation
+# 🧮 Quantitative Aptitude
 
-> **Goal:** Become placement-test ready by **16 October 2026**
-> **Start:** 17 August 2026
-> **Target:** 45–60 minutes daily
-> **Primary Focus:** Accuracy + Speed + Problem Solving
+> **Goal:** Build placement-ready quantitative aptitude skills from fundamentals to timed problem solving.
 
----
-
-# 🎯 Objective
-
-Prepare for quantitative aptitude rounds conducted by:
-
-* IT companies
-* Product companies
-* Service-based companies
-* Campus/off-campus hiring
-* Online assessment platforms
-
-### Final Targets
-
-* [ ] 90%+ accuracy on familiar topics
-* [ ] Improve calculation speed
-* [ ] Solve questions under time pressure
-* [ ] Complete 150+ aptitude questions
-* [ ] Take 10+ timed mock tests
-* [ ] Maintain an error log
+**Primary Practice:** GeeksforGeeks + placement aptitude tests
+**Method:** Learn concept → formulas → solved examples → timed practice → revision
 
 ---
 
-# 📊 Progress
+## 📊 Overall Progress
 
-| Category                  | Target | Completed |
-| ------------------------- | -----: | --------: |
-| Number System             |    20+ |         0 |
-| Percentages               |    15+ |         0 |
-| Ratio & Proportion        |    15+ |         0 |
-| Averages                  |    15+ |         0 |
-| Profit & Loss             |    15+ |         0 |
-| Simple Interest           |    10+ |         0 |
-| Compound Interest         |    10+ |         0 |
-| Time & Work               |    15+ |         0 |
-| Speed & Distance          |    15+ |         0 |
-| Probability               |    10+ |         0 |
-| Permutation & Combination |    10+ |         0 |
-| Data Interpretation       |    15+ |         0 |
-| Mock Tests                |    10+ |         0 |
-
----
-
-# 🗓️ 60-DAY APTITUDE ROADMAP
-
-## PHASE 1 — FOUNDATION
-
-### Day 01 — 17 Aug
-
-* [ ] Number System basics
-* [ ] Natural numbers
-* [ ] Whole numbers
-* [ ] Integers
-* [ ] Prime numbers
-* [ ] Factors
-* [ ] Multiples
-
-### Day 02 — 18 Aug
-
-* [ ] Divisibility rules
-* [ ] Factors
-* [ ] Multiples
-* [ ] HCF
-* [ ] LCM
-* [ ] 10 problems
-
-### Day 03 — 19 Aug
-
-* [ ] Remainders
-* [ ] Unit digit
-* [ ] Last two digits
-* [ ] 10 problems
-
-### Day 04 — 20 Aug
-
-* [ ] Number system mixed practice
-* [ ] 15 problems
-* [ ] Timed test
-
-### Day 05 — 21 Aug
-
-* [ ] Percentages basics
-* [ ] Percentage conversion
-* [ ] Increase/decrease
-
-### Day 06 — 22 Aug
-
-* [ ] Percentage applications
-* [ ] Successive percentage
-* [ ] 15 problems
-
-### Day 07 — 23 Aug
-
-# WEEK 1 TEST
-
-* [ ] 25 questions
-* [ ] Timed test
-* [ ] Record mistakes
-* [ ] Revise weak areas
+* [ ] Numbers
+* [ ] LCM & HCF
+* [ ] Ratio & Proportion
+* [ ] Average
+* [ ] Problems on Ages
+* [ ] Percentages
+* [ ] Profit & Loss
+* [ ] Mixture & Alligation
+* [ ] Simple Interest
+* [ ] Compound Interest
+* [ ] Time, Speed & Distance
+* [ ] Trains, Boats & Streams
+* [ ] Race
+* [ ] Time, Work & Wages
+* [ ] Pipes & Cisterns
+* [ ] Algebra
+* [ ] Mensuration 2D
+* [ ] Mensuration 3D
+* [ ] Geometry
+* [ ] Trigonometry & Height/Distance
+* [ ] Progressions
+* [ ] Logarithms
+* [ ] Permutation & Combination
+* [ ] Probability
+* [ ] Clocks
+* [ ] Calendars
+* [ ] Simplification & Approximation
+* [ ] Data Interpretation
 
 ---
 
-# PHASE 2 — ARITHMETIC
+# 1. Numbers
 
-### Day 08 — 24 Aug
+* [ ] Number fundamentals
+* [ ] Divisibility
+* [ ] Number properties
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
-* [ ] Ratio basics
+---
+
+# 2. LCM & HCF
+
+* [ ] LCM concepts
+* [ ] HCF concepts
+* [ ] Relationship between LCM & HCF
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 3. Ratio & Proportion
+
+* [ ] Ratio fundamentals
 * [ ] Proportion
 * [ ] Direct proportion
 * [ ] Inverse proportion
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
-### Day 09 — 25 Aug
+---
 
-* [ ] Ratio applications
-* [ ] Partnership basics
-* [ ] 15 problems
+# 4. Average
 
-### Day 10 — 26 Aug
-
-* [ ] Averages
+* [ ] Average fundamentals
 * [ ] Weighted average
-* [ ] 15 problems
+* [ ] Average-based problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
-### Day 11 — 27 Aug
+---
 
+# 5. Problems on Ages
+
+* [ ] Age fundamentals
+* [ ] Present age problems
+* [ ] Past age problems
+* [ ] Future age problems
+* [ ] Ratio-based age problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 6. Percentages
+
+* [ ] Percentage fundamentals
+* [ ] Percentage increase
+* [ ] Percentage decrease
+* [ ] Successive percentage change
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 7. Profit & Loss
+
+* [ ] Cost Price
+* [ ] Selling Price
 * [ ] Profit
 * [ ] Loss
-* [ ] Cost price
-* [ ] Selling price
-* [ ] 15 problems
-
-### Day 12 — 28 Aug
-
+* [ ] Profit percentage
+* [ ] Loss percentage
 * [ ] Discount
-* [ ] Marked price
 * [ ] Successive discounts
-* [ ] 15 problems
-
-### Day 13 — 29 Aug
-
-* [ ] Simple Interest
-* [ ] Compound Interest
-* [ ] 15 problems
-
-### Day 14 — 30 Aug
-
-# WEEK 2 TEST
-
-* [ ] 30 questions
-* [ ] 30-minute test
-* [ ] Error analysis
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
 ---
 
-# PHASE 3 — TIME / WORK / MOTION
+# 8. Mixture & Alligation
 
-### Day 15 — 31 Aug
+* [ ] Mixture fundamentals
+* [ ] Alligation
+* [ ] Ratio-based mixtures
+* [ ] Replacement problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
-* [ ] Time & Work basics
-* [ ] Work efficiency
-* [ ] Individual work
+---
 
-### Day 16 — 01 Sep
+# 9. Simple Interest
 
-* [ ] Combined work
-* [ ] Pipes & Cisterns basics
-* [ ] 15 problems
+* [ ] Principal
+* [ ] Rate
+* [ ] Time
+* [ ] Simple Interest formula
+* [ ] Amount
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
-### Day 17 — 02 Sep
+---
+
+# 10. Compound Interest
+
+* [ ] Compound Interest fundamentals
+* [ ] Amount calculation
+* [ ] Annual compounding
+* [ ] Half-yearly compounding
+* [ ] Difference between SI & CI
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 11. Time, Speed & Distance
 
 * [ ] Speed
-* [ ] Distance
 * [ ] Time
-
-### Day 18 — 03 Sep
-
+* [ ] Distance
+* [ ] Basic formula relationships
 * [ ] Relative speed
 * [ ] Average speed
-* [ ] 15 problems
-
-### Day 19 — 04 Sep
-
-* [ ] Trains
-* [ ] Boats & Streams
-* [ ] 15 problems
-
-### Day 20 — 05 Sep
-
-* [ ] Time/work mixed practice
-* [ ] Speed/distance mixed practice
-
-### Day 21 — 06 Sep
-
-# WEEK 3 TEST
-
-* [ ] 40 questions
-* [ ] Timed test
-* [ ] Error analysis
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
 ---
 
-# PHASE 4 — ADVANCED ARITHMETIC
+# 12. Trains, Boats & Streams
 
-### Day 22 — 07 Sep
+## Trains
 
-* [ ] Probability basics
-* [ ] Events
-* [ ] Simple probability
+* [ ] Train crossing pole
+* [ ] Train crossing platform
+* [ ] Two trains
+* [ ] Relative speed
 
-### Day 23 — 08 Sep
+## Boats & Streams
 
-* [ ] Probability problems
-* [ ] 15 questions
+* [ ] Upstream
+* [ ] Downstream
+* [ ] Still-water speed
+* [ ] Stream speed
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
-### Day 24 — 09 Sep
+---
 
+# 13. Race
+
+* [ ] Race fundamentals
+* [ ] Relative speed
+* [ ] Winning distance
+* [ ] Winning time
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 14. Time, Work & Wages
+
+* [ ] Work fundamentals
+* [ ] Work efficiency
+* [ ] Individual work
+* [ ] Combined work
+* [ ] Work and wages
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 15. Pipes & Cisterns
+
+* [ ] Filling pipes
+* [ ] Emptying pipes
+* [ ] Combined pipes
+* [ ] Leak problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 16. Algebra
+
+* [ ] Algebra fundamentals
+* [ ] Algebraic expressions
+* [ ] Linear equations
+* [ ] Basic algebraic manipulation
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 17. Mensuration — 2D
+
+* [ ] Square
+* [ ] Rectangle
+* [ ] Triangle
+* [ ] Circle
+* [ ] Perimeter
+* [ ] Area
+* [ ] Composite figures
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 18. Mensuration — 3D
+
+* [ ] Cube
+* [ ] Cuboid
+* [ ] Cylinder
+* [ ] Cone
+* [ ] Sphere
+* [ ] Surface area
+* [ ] Volume
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 19. Geometry
+
+* [ ] Basic geometry
+* [ ] Lines & angles
+* [ ] Triangles
+* [ ] Quadrilaterals
+* [ ] Circles
+* [ ] Geometry formulas
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 20. Trigonometry & Height/Distance
+
+* [ ] Trigonometry fundamentals
+* [ ] Trigonometric ratios
+* [ ] Basic identities
+* [ ] Height & distance
+* [ ] Angle-based problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 21. Progressions
+
+* [ ] Progression fundamentals
+* [ ] Arithmetic Progression
+* [ ] Geometric Progression
+* [ ] Progression formulas
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 22. Logarithms
+
+* [ ] Logarithm fundamentals
+* [ ] Logarithm properties
+* [ ] Basic logarithmic equations
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 23. Permutation & Combination
+
+* [ ] Fundamental counting principle
 * [ ] Permutations
 * [ ] Combinations
 * [ ] Factorials
-
-### Day 25 — 10 Sep
-
-* [ ] Permutation problems
-* [ ] Combination problems
-
-### Day 26 — 11 Sep
-
-* [ ] Algebra basics
-* [ ] Linear equations
-* [ ] Quadratic basics
-
-### Day 27 — 12 Sep
-
-* [ ] Ages
-* [ ] Mixtures
-* [ ] Alligation basics
-
-### Day 28 — 13 Sep
-
-# WEEK 4 TEST
-
-* [ ] 40 questions
-* [ ] Probability
-* [ ] P&C
-* [ ] Algebra
-* [ ] Ages
-* [ ] Mixtures
+* [ ] Arrangement problems
+* [ ] Selection problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
 
 ---
 
-# PHASE 5 — DATA INTERPRETATION
+# 24. Probability
 
-### Day 29 — 14 Sep
+* [ ] Probability fundamentals
+* [ ] Sample space
+* [ ] Events
+* [ ] Basic probability
+* [ ] Conditional-style problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 25. Clocks
+
+* [ ] Clock fundamentals
+* [ ] Angle between hands
+* [ ] Coinciding hands
+* [ ] Opposite hands
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 26. Calendars
+
+* [ ] Calendar fundamentals
+* [ ] Odd days
+* [ ] Leap years
+* [ ] Day calculation
+* [ ] Date-based problems
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 27. Simplification & Approximation
+
+* [ ] BODMAS
+* [ ] Fractions
+* [ ] Decimals
+* [ ] Approximation
+* [ ] Calculation shortcuts
+* [ ] Solve practice questions
+* [ ] Attempt topic quiz
+* [ ] Timed practice
+* [ ] Revision
+
+---
+
+# 28. Data Interpretation
 
 * [ ] Tables
-* [ ] Percentages
-* [ ] Ratios
-
-### Day 30 — 15 Sep
-
 * [ ] Bar graphs
-* [ ] 10 problems
-
-### Day 31 — 16 Sep
-
-* [ ] Pie charts
-* [ ] 10 problems
-
-### Day 32 — 17 Sep
-
 * [ ] Line graphs
-* [ ] 10 problems
-
-### Day 33 — 18 Sep
-
-* [ ] Caselet DI
-* [ ] 10 problems
-
-### Day 34 — 19 Sep
-
-* [ ] Mixed DI
+* [ ] Pie charts
+* [ ] Percentage-based DI
+* [ ] Ratio-based DI
+* [ ] Average-based DI
+* [ ] Solve practice sets
+* [ ] Attempt topic quiz
 * [ ] Timed practice
-
-### Day 35 — 20 Sep
-
-# WEEK 5 TEST
-
-* [ ] 40 questions
-* [ ] Timed DI test
+* [ ] Revision
 
 ---
 
-# PHASE 6 — MIXED PRACTICE
+# ⚡ Aptitude Practice System
 
-### Day 36 — 21 Sep
+For **every topic**, follow this sequence:
 
-* [ ] Number System
-* [ ] Percentages
-* [ ] Ratio
-* [ ] Average
+### Phase 1 — Learn
 
-### Day 37 — 22 Sep
+* [ ] Understand the concept
+* [ ] Learn important formulas
+* [ ] Understand shortcuts
+* [ ] Solve 5 basic examples
 
-* [ ] Profit/Loss
-* [ ] Interest
-* [ ] Discount
+### Phase 2 — Practice
 
-### Day 38 — 23 Sep
+* [ ] 10 Easy questions
+* [ ] 10 Medium questions
+* [ ] 5 Difficult questions
+* [ ] Record mistakes
 
-* [ ] Time & Work
-* [ ] Speed & Distance
+### Phase 3 — Timed Practice
 
-### Day 39 — 24 Sep
+* [ ] Solve 10 questions under time limit
+* [ ] Track accuracy
+* [ ] Track average time/question
+* [ ] Identify weak subtopics
 
-* [ ] Probability
-* [ ] P&C
-* [ ] Algebra
+### Phase 4 — Revision
 
-### Day 40 — 25 Sep
-
-* [ ] Data Interpretation
-* [ ] Mixed arithmetic
-
-### Day 41 — 26 Sep
-
-* [ ] Company-style aptitude questions
-* [ ] Timed test
-
-### Day 42 — 27 Sep
-
-# WEEK 6 MOCK
-
-* [ ] 50 questions
-* [ ] Time limit
-* [ ] Accuracy calculation
-* [ ] Error analysis
+* [ ] Revision after 1 day
+* [ ] Revision after 7 days
+* [ ] Revision after 21 days
+* [ ] Reattempt previously wrong questions
 
 ---
 
-# PHASE 7 — PLACEMENT MODE
+# 📈 Aptitude Metrics
 
-### Day 43 — 28 Sep
-
-* [ ] Placement-level Number System
-* [ ] 20 questions
-
-### Day 44 — 29 Sep
-
-* [ ] Placement-level Arithmetic
-* [ ] 20 questions
-
-### Day 45 — 30 Sep
-
-* [ ] Time & Work
-* [ ] Speed & Distance
-* [ ] 20 questions
-
-### Day 46 — 01 Oct
-
-* [ ] Probability
-* [ ] P&C
-* [ ] 20 questions
-
-### Day 47 — 02 Oct
-
-* [ ] DI
-* [ ] 20 questions
-
-### Day 48 — 03 Oct
-
-* [ ] Mixed aptitude
-* [ ] 30 questions
-
-### Day 49 — 04 Oct
-
-# MOCK TEST 1
-
-* [ ] Full timed test
-* [ ] Score
-* [ ] Accuracy
-* [ ] Mistake analysis
+| Metric                  |    Target |
+| ----------------------- | --------: |
+| Accuracy                |     ≥ 85% |
+| Easy Question Time      |  ≤ 45 sec |
+| Medium Question Time    |  ≤ 90 sec |
+| Difficult Question Time | ≤ 2–3 min |
+| Daily Questions         |     20–30 |
+| Weekly Mock Tests       |         2 |
+| Monthly Full Mocks      |        4+ |
 
 ---
 
-# PHASE 8 — SPEED + ACCURACY
+# 🧪 Weekly Mock Test
 
-### Day 50 — 05 Oct
-
-* [ ] Calculation shortcuts
-* [ ] Squares
-* [ ] Cubes
-* [ ] Fractions
-* [ ] Percentage conversions
-
-### Day 51 — 06 Oct
-
-* [ ] Speed drills
-* [ ] 30 questions
-
-### Day 52 — 07 Oct
-
-* [ ] Weak topic revision
-
-### Day 53 — 08 Oct
-
-* [ ] Mixed test
-
-### Day 54 — 09 Oct
-
-* [ ] Company-style test
-
-### Day 55 — 10 Oct
-
-* [ ] Full mock test
-
-### Day 56 — 11 Oct
-
-# MOCK TEST 2
-
-* [ ] Full test
-* [ ] Error analysis
-
-### Day 57 — 12 Oct
-
-* [ ] Weak topic revision
-* [ ] 30 questions
-
-### Day 58 — 13 Oct
-
-* [ ] Mixed test
-* [ ] Speed practice
-
-### Day 59 — 14 Oct
-
-# MOCK TEST 3
-
-* [ ] Full timed test
-* [ ] Score
-* [ ] Accuracy
-
-### Day 60 — 15 Oct
-
-# FINAL APTITUDE REVISION
-
-* [ ] Formulas
-* [ ] Shortcuts
-* [ ] Error log
-* [ ] Weak topics
-* [ ] Final mock
+* [ ] Quantitative Aptitude Mock 1
+* [ ] Quantitative Aptitude Mock 2
+* [ ] Analyze mistakes
+* [ ] Identify weak topics
+* [ ] Revise formulas
+* [ ] Reattempt incorrect questions
 
 ---
 
-# 📒 ERROR LOG
+# 🏆 Placement Readiness
 
-| Date | Topic | Question | Mistake | Correct Method |
-| ---- | ----- | -------- | ------- | -------------- |
-|      |       |          |         |                |
-|      |       |          |         |                |
-|      |       |          |         |                |
-
----
-
-# 📈 MOCK TEST TRACKER
-
-| Test    | Date | Questions | Score | Accuracy | Time |
-| ------- | ---- | --------: | ----: | -------: | ---: |
-| Mock 1  |      |           |       |          |      |
-| Mock 2  |      |           |       |          |      |
-| Mock 3  |      |           |       |          |      |
-| Mock 4  |      |           |       |          |      |
-| Mock 5  |      |           |       |          |      |
-| Mock 6  |      |           |       |          |      |
-| Mock 7  |      |           |       |          |      |
-| Mock 8  |      |           |       |          |      |
-| Mock 9  |      |           |       |          |      |
-| Mock 10 |      |           |       |          |      |
+* [ ] Solve aptitude questions without calculator
+* [ ] Recognize the question pattern quickly
+* [ ] Recall formulas without looking
+* [ ] Use shortcuts where appropriate
+* [ ] Avoid spending too long on one question
+* [ ] Maintain ≥85% accuracy
+* [ ] Complete timed aptitude tests
+* [ ] Analyze every mock test
+* [ ] Reattempt all incorrect questions
 
 ---
 
-# 🎯 FINAL TARGET
+## 🔥 Golden Rule
 
-* [ ] 150+ questions
-* [ ] 10+ mock tests
-* [ ] 90%+ accuracy on known topics
-* [ ] Strong calculation speed
-* [ ] Complete error log
-* [ ] Placement-test ready
+> **Aptitude is not about knowing every formula. It is about recognizing the pattern quickly, choosing the right method, and solving accurately under time pressure.**
 
----
-
-# 🏁 STATUS
-
-**Start:** 17 Aug 2026
-**Final Preparation:** 15 Oct 2026
-**Placement Day:** 16 Oct 2026
-
-> **Accuracy first. Speed second. Pressure last.**
