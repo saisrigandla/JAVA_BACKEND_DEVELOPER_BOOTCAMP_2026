@@ -53,8 +53,9 @@ Java Application
        |
        v
 Java Application
+```
 
-3. Types of JDBC Drivers
+## 3. Types of JDBC Drivers
 
 JDBC drivers act as mediators between Java applications and databases.
 
@@ -73,7 +74,9 @@ Type 1 Driver
 Type 2 Driver
 Type 3 Driver
 Type 4 Driver
-4. JDBC Classes and Interfaces
+
+## 4. JDBC Classes and Interfaces
+
 Important Interfaces
 Interface	Purpose
 Driver	Represents a database driver
@@ -103,7 +106,8 @@ ResultSet
 ResultSetMetaData
 DatabaseMetaData
 RowSet
-5. Establishing JDBC Connection
+
+## 5. Establishing JDBC Connection
 
 Standard steps for connecting Java with a database:
 
@@ -115,6 +119,7 @@ Execute SQL query.
 Process the ResultSet.
 Close database resources.
 
+```
 Import JDBC
      ↓
 Load Driver
@@ -128,13 +133,15 @@ Execute SQL
 Process ResultSet
      ↓
 Close Resources
+```
 
 📚 Learn:
 
 Establishing JDBC Connection
-6. JDBC Example
-SQL Setup
 
+## 6. JDBC Example
+SQL Setup
+```
 CREATE DATABASE school;
 
 USE school;
@@ -196,10 +203,10 @@ public class JDBCDemo {
         }
     }
 }
-
+```
 Note: Explicit Class.forName() is generally unnecessary with modern JDBC drivers because JDBC 4+ supports automatic driver loading.
 
-7. CRUD Operations with JDBC
+## 7. CRUD Operations with JDBC
 
 CRUD represents the four fundamental database operations.
 
@@ -213,7 +220,7 @@ Delete	DELETE	Remove records
 
 CRUD Operations with JDBC
 
-8. JDBC Exception Handling
+## 8. JDBC Exception Handling
 
 JDBC operations can fail because of:
 
@@ -225,19 +232,20 @@ Authentication errors
 Constraint violations
 
 Use SQLException to handle database-related exceptions.
+```
 catch (SQLException e) {
 
     System.out.println("Error: " + e.getMessage());
     System.out.println("SQL State: " + e.getSQLState());
     System.out.println("Error Code: " + e.getErrorCode());
 }
-
+```
 📚 Learn:
 
 JDBC Exception Handling
 
 
-9. Transactions in JDBC
+## 9. Transactions in JDBC
 
 A transaction is a sequence of SQL operations treated as a single unit of work.
 
@@ -248,7 +256,7 @@ commit()	Permanently saves changes
 rollback()	Reverts changes
 Example
 con.setAutoCommit(false);
-
+```
 try {
 
     PreparedStatement ps1 =
@@ -271,9 +279,9 @@ try {
     con.rollback();
 
 }
+```
 
 📚 Learn:
-
 Transactions in JDBC
 JDBC Learning Checklist
  Understand JDBC architecture
@@ -303,8 +311,7 @@ JDBC Learning Checklist
 JDBC Practice Project
 Student Management System using JDBC
 
-Technologies:
-
+## Technologies:
 Java
 JDBC
 MySQL
@@ -321,7 +328,7 @@ Features
  Store SQL scripts in GitHub
 Suggested Project Structure
 
-
+```
 JDBC-Student-Management-System/
 │
 ├── src/
@@ -340,10 +347,9 @@ JDBC-Student-Management-System/
 │   └── student_database.sql
 │
 └── README.md
+```
 
-
-JDBC Interview Focus
-
+## JDBC Interview Focus
 Before moving to Spring JDBC / Spring Data JPA, make sure you can explain:
 
 What is JDBC?
@@ -365,6 +371,7 @@ Why should JDBC resources be closed?
 How would you implement CRUD using JDBC?
 JDBC → Spring JDBC → Spring Data JPA
 
+```
 JDBC
  ↓
 Manual database connection
@@ -386,7 +393,7 @@ Repository abstraction
 Hibernate/JPA
  ↓
 Production-level database development
-
+``` 
 Goal: Understand JDBC fundamentals first, then use Spring JDBC and Spring Data JPA to build maintainable Spring Boot applications.
 
 
