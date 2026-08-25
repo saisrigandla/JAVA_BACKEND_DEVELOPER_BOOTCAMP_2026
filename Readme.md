@@ -103,10 +103,10 @@ By **16 October 2026**, I should be able to:
 
 ### SQL
 
-* [ ] CREATE DATABASE
-* [ ] CREATE TABLE
-* [ ] INSERT
-* [ ] SELECT
+* [x] CREATE DATABASE
+* [x] CREATE TABLE
+* [x] INSERT
+* [x] SELECT
 
 ### Aptitude
 
