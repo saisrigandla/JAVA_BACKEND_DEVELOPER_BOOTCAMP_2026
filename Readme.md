@@ -80,19 +80,19 @@ By **16 October 2026**, I should be able to:
 
 ### Java
 
-* [ ] Variables and data types
+* [x] Variables and data types
 * [ ] Type casting
-* [ ] Operators
-* [ ] Input using Scanner
-* [ ] Write 5 basic programs
+* [x] Operators
+* [x] Input using Scanner
+* [x] Write 5 basic programs
 
 ### Problems
 
-* [ ] Sum of two numbers
-* [ ] Simple interest
-* [ ] Swap two numbers
-* [ ] Largest of two numbers
-* [ ] Celsius → Fahrenheit
+* [x] Sum of two numbers
+* [x] Simple interest
+* [x] Swap two numbers
+* [x] Largest of two numbers
+* [x] Celsius → Fahrenheit
 
 ### DSA
 
@@ -122,9 +122,9 @@ By **16 October 2026**, I should be able to:
 
 ### GitHub
 
-* [ ] Create Day01 folder
-* [ ] Push all programs
-* [ ] Commit code
+* [x] Create Day01 folder
+* [x] Push all programs
+* [x] Commit code
 
 ---
 
@@ -132,20 +132,20 @@ By **16 October 2026**, I should be able to:
 
 ### Java
 
-* [ ] if
-* [ ] if-else
-* [ ] else-if
-* [ ] nested if
-* [ ] switch
+* [x] if
+* [x] if-else
+* [x] else-if
+* [x] nested if
+* [x] switch
 
 ### Problems
 
-* [ ] Even/Odd
-* [ ] Positive/Negative
-* [ ] Largest of 3
-* [ ] Leap year
-* [ ] Grade calculator
-* [ ] Calculator using switch
+* [x] Even/Odd
+* [x] Positive/Negative
+* [x] Largest of 3
+* [x] Leap year
+* [x] Grade calculator
+* [x] Calculator using switch
 
 ### DSA
 
@@ -173,7 +173,7 @@ By **16 October 2026**, I should be able to:
 
 ### GitHub
 
-* [ ] Push Day02
+* [x] Push Day02
 
 ---
 
@@ -181,20 +181,20 @@ By **16 October 2026**, I should be able to:
 
 ### Java
 
-* [ ] for loop
-* [ ] while loop
-* [ ] do-while
-* [ ] break
-* [ ] continue
+* [x] for loop
+* [x] while loop
+* [x] do-while
+* [x] break
+* [x] continue
 
 ### Problems
 
-* [ ] Print 1–100
-* [ ] Print even numbers
-* [ ] Print odd numbers
-* [ ] Sum 1–N
-* [ ] Multiplication table
-* [ ] Factorial
+* [x] Print 1–100
+* [x] Print even numbers
+* [x] Print odd numbers
+* [x] Sum 1–N
+* [x] Multiplication table
+* [] Factorial
 
 ### DSA
 
@@ -230,10 +230,10 @@ By **16 October 2026**, I should be able to:
 
 ### Problems
 
-* [ ] Count digits
-* [ ] Sum digits
-* [ ] Reverse number
-* [ ] Palindrome number
+* [x] Count digits
+* [x] Sum digits
+* [x] Reverse number
+* [x] Palindrome number
 * [ ] Armstrong number
 * [ ] Strong number
 
@@ -262,15 +262,15 @@ By **16 October 2026**, I should be able to:
 
 ### Java
 
-* [ ] Prime numbers
+* [x] Prime numbers
 * [ ] Factors
 * [ ] GCD
 * [ ] LCM
 
 ### Problems
 
-* [ ] Prime check
-* [ ] Print primes
+* [x] Prime check
+* [x] Print primes
 * [ ] Prime factors
 * [ ] GCD
 * [ ] LCM
