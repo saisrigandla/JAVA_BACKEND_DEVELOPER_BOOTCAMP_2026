@@ -50,11 +50,11 @@ By completing this roadmap, I should be able to:
 
 ## Topics
 
-* [ ] Introduction to SQL
-* [ ] SQL vs Database
+* [x] Introduction to SQL
+* [x] SQL vs Database
 * [ ] DBMS vs RDBMS
-* [ ] SQL Data Types
-* [ ] SQL Operators
+* [x] SQL Data Types
+* [x] SQL Operators
 * [ ] SQL Commands
 * [ ] SQL Comments
 * [ ] Wildcards
@@ -88,7 +88,7 @@ TCL → COMMIT, ROLLBACK, SAVEPOINT
 
 ### 🛠️ Practice
 
-* [ ] Create a database
+* [x] Create a database
 * [ ] Create 3 tables
 * [ ] Insert 20+ records
 * [ ] Update records
@@ -101,10 +101,10 @@ TCL → COMMIT, ROLLBACK, SAVEPOINT
 
 ## Topics
 
-* [ ] CREATE DATABASE
-* [ ] SELECT DATABASE
+* [x] CREATE DATABASE
+* [x] SELECT DATABASE
 * [ ] RENAME DATABASE awareness
-* [ ] DROP DATABASE
+* [x] DROP DATABASE
 * [ ] `USE database_name`
 
 ### Resources
@@ -136,8 +136,8 @@ projects
 
 ## Topics
 
-* [ ] CREATE TABLE
-* [ ] DROP TABLE
+* [x] CREATE TABLE
+* [x] DROP TABLE
 * [ ] ALTER TABLE
 * [ ] RENAME TABLE
 * [ ] TRUNCATE TABLE
@@ -180,9 +180,9 @@ DROP
 
 ## CRUD
 
-* [ ] SELECT
-* [ ] INSERT
-* [ ] INSERT Multiple Rows
+* [x] SELECT
+* [x] INSERT
+* [x] INSERT Multiple Rows
 * [ ] UPDATE
 * [ ] DELETE
 * [ ] Delete Duplicate Rows
