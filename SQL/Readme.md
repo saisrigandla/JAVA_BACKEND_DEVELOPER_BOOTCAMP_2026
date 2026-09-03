@@ -202,8 +202,8 @@ DROP
 
 Write queries for:
 
-* [ ] Find all employees
-* [ ] Find employees with salary > 50,000
+* [x] Find all employees
+* [x] Find employees with salary > 50,000
 * [ ] Update employee salary
 * [ ] Delete employee
 * [ ] Insert 10 employees
@@ -216,10 +216,10 @@ Write queries for:
 
 ## Topics
 
-* [ ] WHERE
+* [x] WHERE
 * [ ] GROUP BY
 * [ ] HAVING
-* [ ] ORDER BY
+* [x] ORDER BY
 * [ ] LIMIT
 * [ ] DISTINCT
 * [ ] WITH
@@ -268,7 +268,7 @@ This is a **high-value interview concept**.
 
 ## Topics
 
-* [ ] AND
+* [x] AND
 * [ ] OR
 * [ ] NOT
 * [ ] LIKE
@@ -284,7 +284,7 @@ This is a **high-value interview concept**.
 * [ ] UNION ALL
 * [ ] INTERSECT — awareness
 * [ ] EXCEPT — awareness
-* [ ] ALL
+* [x] ALL
 * [ ] ANY
 
 ### Resources
@@ -324,8 +324,8 @@ Write queries using:
 ## Aggregate Functions
 
 * [ ] COUNT()
-* [ ] SUM()
-* [ ] AVG()
+* [x] SUM()
+* [x] AVG()
 * [ ] MIN()
 * [ ] MAX()
 
