@@ -34,34 +34,34 @@
 
 Understand core Java concepts such as syntax, variables, data types, loops, and decision-making.
 
-- [ ] [Introduction](https://www.geeksforgeeks.org/java/introduction-to-java/)
-- [ ] [Download and Install Java](https://www.geeksforgeeks.org/linux-unix/download-install-java-windows-linux-macos/)
-- [ ] [Install IntelliJ IDEA](https://www.geeksforgeeks.org/installation-guide/how-to-install-intellij-idea-on-windows/)
-- [ ] [Install Eclipse](https://www.geeksforgeeks.org/techtips/how-to-download-and-install-eclipse-on-windows/)
-- [ ] [Creating First Java Application](https://www.geeksforgeeks.org/java/creating-first-java-application-in-intellij-idea/)
-- [ ] [JDK vs JRE vs JVM](https://www.geeksforgeeks.org/java/differences-jdk-jre-jvm/)
-- [ ] [Print Output](https://www.geeksforgeeks.org/java/system-out-println-in-java/)
-- [ ] [Taking Input](https://www.geeksforgeeks.org/java/java-user-input-scanner-class/)
+- [x] [Introduction](https://www.geeksforgeeks.org/java/introduction-to-java/)
+- [x] [Download and Install Java](https://www.geeksforgeeks.org/linux-unix/download-install-java-windows-linux-macos/)
+- [x] [Install IntelliJ IDEA](https://www.geeksforgeeks.org/installation-guide/how-to-install-intellij-idea-on-windows/)
+- [x] [Install Eclipse](https://www.geeksforgeeks.org/techtips/how-to-download-and-install-eclipse-on-windows/)
+- [x] [Creating First Java Application](https://www.geeksforgeeks.org/java/creating-first-java-application-in-intellij-idea/)
+- [x] [JDK vs JRE vs JVM](https://www.geeksforgeeks.org/java/differences-jdk-jre-jvm/)
+- [x] [Print Output](https://www.geeksforgeeks.org/java/system-out-println-in-java/)
+- [x] [Taking Input](https://www.geeksforgeeks.org/java/java-user-input-scanner-class/)
 - [ ] [Identifiers](https://www.geeksforgeeks.org/java/java-identifiers/)
 - [ ] [Keywords](https://www.geeksforgeeks.org/java/java-keywords/)
-- [ ] [Variables](https://www.geeksforgeeks.org/java/variables-in-java/)
-- [ ] [Data Types](https://www.geeksforgeeks.org/java/java-data-types/)
+- [x] [Variables](https://www.geeksforgeeks.org/java/variables-in-java/)
+- [x] [Data Types](https://www.geeksforgeeks.org/java/java-data-types/)
 - [ ] [Literals](https://www.geeksforgeeks.org/java/literals-in-java/)
 - [ ] [Wrapper Classes](https://www.geeksforgeeks.org/java/wrapper-classes-java/)
-- [ ] [Operators](https://www.geeksforgeeks.org/java/operators-in-java/)
-- [ ] [Decision Making](https://www.geeksforgeeks.org/java/decision-making-javaif-else-switch-break-continue-jump/)
+- [x] [Operators](https://www.geeksforgeeks.org/java/operators-in-java/)
+- [x] [Decision Making](https://www.geeksforgeeks.org/java/decision-making-javaif-else-switch-break-continue-jump/)
 - [ ] [Loops](https://www.geeksforgeeks.org/java/loops-in-java/)
 - [ ] [Jump Statements](https://www.geeksforgeeks.org/java/jump-statements-in-java/)
 - [ ] **Project:** [Number Guessing Game](https://www.geeksforgeeks.org/dsa/number-guessing-game-in-java/)
 
 ### Practice
 
-- [ ] Print 1 to N
-- [ ] Print even numbers
-- [ ] Print odd numbers
+- [x] Print 1 to N
+- [x] Print even numbers
+- [x] Print odd numbers
 - [ ] Sum of N numbers
 - [ ] Factorial
-- [ ] Multiplication table
+- [x] Multiplication table
 - [ ] Reverse number
 - [ ] Count digits
 - [ ] Palindrome
