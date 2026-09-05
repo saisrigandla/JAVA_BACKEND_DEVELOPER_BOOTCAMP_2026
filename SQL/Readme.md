@@ -55,8 +55,8 @@ By completing this roadmap, I should be able to:
 * [ ] DBMS vs RDBMS
 * [x] SQL Data Types
 * [x] SQL Operators
-* [ ] SQL Commands
-* [ ] SQL Comments
+* [x] SQL Commands
+* [x] SQL Comments
 * [ ] Wildcards
 * [ ] Applications of SQL
 * [ ] SQL Career Path
