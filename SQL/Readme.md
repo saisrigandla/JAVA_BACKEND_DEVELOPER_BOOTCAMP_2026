@@ -14,7 +14,7 @@ By completing this roadmap, I should be able to:
 
 * [ ] Create and manage databases
 * [ ] Create and modify tables
-* [ ] Insert, update and delete data
+* [x] Insert, update and delete data
 * [ ] Write complex SELECT queries
 * [ ] Use filtering and grouping
 * [ ] Use aggregate functions
@@ -89,7 +89,7 @@ TCL → COMMIT, ROLLBACK, SAVEPOINT
 ### 🛠️ Practice
 
 * [x] Create a database
-* [ ] Create 3 tables
+* [x] Create 3 tables
 * [ ] Insert 20+ records
 * [ ] Update records
 * [ ] Delete records
