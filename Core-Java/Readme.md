@@ -50,7 +50,7 @@ Understand core Java concepts such as syntax, variables, data types, loops, and 
 - [ ] [Wrapper Classes](https://www.geeksforgeeks.org/java/wrapper-classes-java/)
 - [x] [Operators](https://www.geeksforgeeks.org/java/operators-in-java/)
 - [x] [Decision Making](https://www.geeksforgeeks.org/java/decision-making-javaif-else-switch-break-continue-jump/)
-- [ ] [Loops](https://www.geeksforgeeks.org/java/loops-in-java/)
+- [x] [Loops](https://www.geeksforgeeks.org/java/loops-in-java/)
 - [ ] [Jump Statements](https://www.geeksforgeeks.org/java/jump-statements-in-java/)
 - [ ] **Project:** [Number Guessing Game](https://www.geeksforgeeks.org/dsa/number-guessing-game-in-java/)
 
