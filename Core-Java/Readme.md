@@ -8,11 +8,11 @@
 
 | Module | Status |
 |---|---|
-| Basics | ⬜ Not Started |
+| Basics | ✔️ Started |
 | Methods | ⬜ Not Started |
 | Arrays | ⬜ Not Started |
 | Strings | ⬜ Not Started |
-| OOP Concepts | ⬜ Not Started |
+| OOP Concepts | ✔️ Started |
 | Interfaces | ⬜ Not Started |
 | Exception Handling | ⬜ Not Started |
 | Regex | ⬜ Not Started |
