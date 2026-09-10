@@ -2,7 +2,26 @@
 
 **Sai's 2026 Java Backend → Full-Stack placement journey**
 
-> **Timeline:** 03 September 2026 → 31 December 2026  
+> **Timeline:** 03 September 2026 → 31 December 2026
+
+>**JDBC**- Sept 12, 2026
+
+>**Spring & SpringBoot** - Sept 15, 2026
+
+>**Reasoning** - Sept 19, 2026
+
+>**CoreJava** - Sept 20, 2026
+
+>**CS Fundamentals** - Sept 21, 2026
+
+>**SQL** - Sept 24, 2026
+
+>**Verbal** - Sept 25, 2026
+
+>**DSA** - Sept 28, 2026
+
+>**Aptitude** - Oct 1, 2026
+   
 > **Mission:** Become interview-ready, build proof-of-work, apply consistently, and secure a Java Backend / Java Full-Stack / Software Engineer fresher role in 2026.
 
 ## 🎯 North-Star Skill Stack
