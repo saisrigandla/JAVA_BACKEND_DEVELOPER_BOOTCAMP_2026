@@ -9,7 +9,7 @@
 | Module | Status |
 |---|---|
 | Basics | ✔️ Started |
-| Methods | ⬜ Not Started |
+| Methods | ✔️ Started |
 | Arrays | ⬜ Not Started |
 | Strings | ⬜ Not Started |
 | OOP Concepts | ✔️ Started |
@@ -59,7 +59,7 @@ Understand core Java concepts such as syntax, variables, data types, loops, and 
 - [x] Print 1 to N
 - [x] Print even numbers
 - [x] Print odd numbers
-- [ ] Sum of N numbers
+- [x] Sum of N numbers
 - [ ] Factorial
 - [x] Multiplication table
 - [ ] Reverse number
