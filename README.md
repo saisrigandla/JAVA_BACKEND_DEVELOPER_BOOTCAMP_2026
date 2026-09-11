@@ -46,7 +46,7 @@ By September 30:
 
 ## Collections + Linked List + SQL Normalization
 
-### 🗓️ SEPTEMBER 12 — DAY 10
+### 🗓️ SEPTEMBER 12
 
 ### Java
 
@@ -102,7 +102,7 @@ By September 30:
 
 ---
 
-### 🗓️ SEPTEMBER 13 — DAY 11
+### 🗓️ SEPTEMBER 13 
 
 ### Java
 
