@@ -140,13 +140,13 @@ Solve without help:
 * [x] Print numbers 1–100
 * [x] Even/odd
 * [x] Sum of numbers
-* [ ] Reverse number
-* [ ] Palindrome number
-* [ ] Factorial
-* [ ] Prime number
-* [ ] Fibonacci
+* [x] Reverse number
+* [x] Palindrome number
+* [x] Factorial
+* [x] Prime number
+* [x] Fibonacci
 
-**Baseline result:** `____ / 8`
+**Baseline result:** `8 / 8`
 
 ---
 
@@ -156,13 +156,13 @@ Solve without help:
 
 ### Concepts
 
-* [ ] for loop
-* [ ] while loop
-* [ ] do-while loop
-* [ ] break
-* [ ] continue
-* [ ] nested loops
-* [ ] loop tracing
+* [x] for loop
+* [x] while loop
+* [x] do-while loop
+* [x] break
+* [x] continue
+* [x] nested loops
+* [x] loop tracing
 * [ ] time complexity basics
 
 ### Practice
@@ -174,23 +174,23 @@ Solve without help:
 
 **GFG / self-practice**
 
-* [ ] Print 1–N
-* [ ] Sum of N numbers
-* [ ] Count digits
-* [ ] Sum of digits
-* [ ] Reverse number
-* [ ] Palindrome number
-* [ ] Prime number
-* [ ] Factorial
-* [ ] Fibonacci
+* [x] Print 1–N
+* [x] Sum of N numbers
+* [x] Count digits
+* [x] Sum of digits
+* [x] Reverse number
+* [x] Palindrome number
+* [x] Prime number
+* [x] Factorial
+* [x] Fibonacci
 
 ### Interview Questions
 
-* [ ] Difference between while and do-while
-* [ ] When do we use for loop?
-* [ ] break vs continue
-* [ ] What is nested loop?
-* [ ] What is infinite loop?
+* [x] Difference between while and do-while
+* [x] When do we use for loop?
+* [x] break vs continue
+* [x] What is nested loop?
+* [x] What is infinite loop?
 
 **Commit:** `Day-01: Java loops and basic problems`
 
