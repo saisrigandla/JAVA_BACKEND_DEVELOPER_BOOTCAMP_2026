@@ -139,7 +139,7 @@ Solve without help:
 
 * [x] Print numbers 1–100
 * [x] Even/odd
-* [ ] Sum of numbers
+* [x] Sum of numbers
 * [ ] Reverse number
 * [ ] Palindrome number
 * [ ] Factorial
