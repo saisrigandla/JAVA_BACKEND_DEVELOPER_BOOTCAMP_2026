@@ -120,25 +120,25 @@ HackerRank / LeetCode / GFG / InterviewBit
 
 ## Baseline / Setup
 
-* [ ] Create Java Backend GitHub repository
-* [ ] Install/configure JDK
-* [ ] Configure IntelliJ IDEA / VS Code
-* [ ] Configure Git
-* [ ] Create daily-progress folder
-* [ ] Create `Core-Java`
-* [ ] Create `SQL`
-* [ ] Create `JDBC`
-* [ ] Create `Spring`
-* [ ] Create `Spring-Boot`
-* [ ] Create `DSA`
-* [ ] Create `Projects`
+* [x] Create Java Backend GitHub repository
+* [x] Install/configure JDK
+* [x] Configure IntelliJ IDEA / VS Code
+* [x] Configure Git
+* [x] Create daily-progress folder
+* [x] Create `Core-Java`
+* [x] Create `SQL`
+* [x] Create `JDBC`
+* [x] Create `Spring`
+* [x] Create `Spring-Boot`
+* [x] Create `DSA`
+* [x] Create `Projects`
 
 ### Baseline Test
 
 Solve without help:
 
-* [ ] Print numbers 1–100
-* [ ] Even/odd
+* [x] Print numbers 1–100
+* [x] Even/odd
 * [ ] Sum of numbers
 * [ ] Reverse number
 * [ ] Palindrome number
