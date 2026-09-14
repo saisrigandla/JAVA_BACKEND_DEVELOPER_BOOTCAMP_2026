@@ -169,7 +169,7 @@ Solve without help:
 
 **HackerRank**
 
-* [ ] Java Loops I
+* [x] Java Loops I
 * [ ] Java Loops II
 
 **GFG / self-practice**
