@@ -1,1695 +1,873 @@
-# 🚀 Java Backend Developer — Interview Readiness Sprint
+# 🚀 JAVA BACKEND DEVELOPER BOOTCAMP 2026
 
-> **Mission:** Become interview-ready for Junior Java Backend Developer roles before the 2027 batch graduates.
-
-**Sprint:** `13 September 2026 → 16 October 2026`
-**Starting Level:** Core Java → Loops
-**Target:** Junior Java Backend Developer — Interview Ready
-**Daily Aptitude:** Morning — IndiaBix
-**Main Technical Subject:** One subject at a time
-**Primary Language:** Java
-**Main Project:** Smart Campus Buddy
+> **Goal:** Become a Job-Ready Java Backend Developer
+> **Start:** 15 September 2026
+> **End:** 31 December 2026
+> **Duration:** 108 Days
+> **Target:** Entry-Level Java Backend / Full-Stack Developer
 
 ---
 
-## 🎯 Final Target
+## 🎯 Final Goal
 
-By **16 October 2026**, I should be able to:
+By **31 December 2026**, I should be able to:
 
-* [ ] Explain Core Java concepts clearly
-* [ ] Write Java programs without copying
-* [ ] Solve beginner/intermediate coding problems
-* [ ] Write SQL queries involving joins, grouping and subqueries
-* [ ] Connect Java applications to databases using JDBC
-* [ ] Explain Spring and Spring Boot fundamentals
+* [ ] Write Core Java programs independently
+* [ ] Explain OOP confidently
+* [ ] Use Java Collections
+* [ ] Solve Easy DSA problems independently
+* [ ] Solve selected Medium DSA problems
+* [ ] Write SQL queries and JOINs
+* [ ] Build JDBC CRUD applications
+* [ ] Understand Spring and Dependency Injection
 * [ ] Build REST APIs using Spring Boot
-* [ ] Use JPA/Hibernate for database operations
-* [ ] Explain authentication, authorization and JWT
-* [ ] Solve common DSA interview problems
-* [ ] Explain DBMS, OS, Computer Networks and OOP basics
+* [ ] Use Spring Data JPA/Hibernate
+* [ ] Build and explain a real backend project
+* [ ] Debug application issues
 * [ ] Use Git/GitHub professionally
-* [ ] Write basic unit/integration tests
-* [ ] Explain my projects line-by-line
-* [ ] Face technical + coding + HR interviews
-* [ ] Start applying and attending interviews
+* [ ] Write basic tests
+* [ ] Explain my project in interviews
+* [ ] Handle Java/SQL/Spring/DSA technical interviews
+* [ ] Handle HR/behavioral interviews
+* [ ] Be ready to apply for Java Backend Developer roles
 
 ---
 
-# 🧭 DAILY SYSTEM
+# 📚 Platforms
 
-### 🌅 Morning — Aptitude
+| Platform          | Purpose                                 |
+| ----------------- | --------------------------------------- |
+| **GeeksforGeeks** | Concepts + topic-wise coding            |
+| **HackerRank**    | Java fundamentals + structured practice |
+| **InterviewBit**  | Interview-oriented problem solving      |
+| **LeetCode**      | DSA + interview patterns                |
+| **Scaler Free**   | Concepts + interview preparation        |
 
-**1.5–2 hours**
+### Rule
 
-IndiaBix → concept → timed practice → error analysis
+> **Do NOT solve every problem on every platform.**
 
-### ☀️ Afternoon — Main Technical Subject
-
-**3–4 hours**
-
-Learn concept → write code → understand output → interview questions
-
-### 🌆 Evening — Practice
-
-**2–3 hours**
-
-HackerRank / LeetCode / GFG / InterviewBit
-
-### 🌙 Night — Interview + GitHub
-
-**1–1.5 hours**
-
-* Revise today's concepts
-* Answer interview questions
-* Update README
-* Commit code
-* Record mistakes
-
-> **Rule:** Don't mark a topic DONE just because you watched/read it.
->
-> **DONE = Understand + Code + Practice + Explain.**
+Use the platforms according to the current phase.
 
 ---
 
-# 📊 MASTER PROGRESS
+# ⏰ Daily Study Target
 
-| Area                | Status   | Progress |
-| ------------------- | -------- | -------: |
-| Aptitude            | 🔄 Daily |       0% |
-| Core Java           | ⬜        |       0% |
-| SQL                 | ⬜        |       0% |
-| JDBC                | ⬜        |       0% |
-| Spring              | ⬜        |       0% |
-| Spring Boot         | ⬜        |       0% |
-| REST API            | ⬜        |       0% |
-| JPA/Hibernate       | ⬜        |       0% |
-| Spring Security/JWT | ⬜        |       0% |
-| DSA                 | ⬜        |       0% |
-| CS Fundamentals     | ⬜        |       0% |
-| Git/GitHub          | ⬜        |       0% |
-| Testing             | ⬜        |       0% |
-| Projects            | ⬜        |       0% |
-| Mock Interviews     | ⬜        |       0% |
-| Resume              | ⬜        |       0% |
-| Applications        | ⬜        |       0% |
+| Activity             |         Target |
+| -------------------- | -------------: |
+| Main topic           |          2 hrs |
+| Coding practice      |      1–1.5 hrs |
+| DSA                  |           1 hr |
+| Interview revision   |         30 min |
+| GitHub/documentation |         15 min |
+| **Total**            | **~5–5.5 hrs** |
 
 ---
 
-# 📅 PHASE ROADMAP
+# 📊 Weekly Progress Formula
 
-| Dates     | Main Focus            | Output                 |
-| --------- | --------------------- | ---------------------- |
-| Sep 13–17 | Core Java             | Strong Java foundation |
-| Sep 18–20 | SQL                   | Interview-level SQL    |
-| Sep 21    | JDBC                  | Java ↔ DB connection   |
-| Sep 22–23 | Spring                | IoC, DI, Beans         |
-| Sep 24–28 | Spring Boot + REST    | REST API               |
-| Sep 29–30 | JPA/Hibernate         | Database-backed API    |
-| Oct 1–2   | Spring Security + JWT | Authentication         |
-| Oct 3–6   | DSA                   | Interview coding       |
-| Oct 7–8   | CS Fundamentals       | DBMS + OS + CN         |
-| Oct 9     | Git + Maven + Testing | Development workflow   |
-| Oct 10–13 | Projects              | Portfolio proof        |
-| Oct 14    | Mock Interview        | Technical simulation   |
-| Oct 15    | Resume + Applications | Job-ready profile      |
-| Oct 16    | Final Assessment      | Interview-ready        |
+At the end of every week:
+
+**Weekly Progress % = Completed Tasks ÷ Total Tasks × 100**
+
+### Weekly status
+
+* 🟢 **90–100%** → Excellent
+* 🟢 **75–89%** → On Track
+* 🟡 **60–74%** → Needs Recovery
+* 🔴 **Below 60%** → Immediate Catch-up Required
 
 ---
 
-# 🟢 DAY 0 — SEPTEMBER 12
-
-## Baseline / Setup
-
-* [x] Create Java Backend GitHub repository
-* [x] Install/configure JDK
-* [x] Configure IntelliJ IDEA / VS Code
-* [x] Configure Git
-* [x] Create daily-progress folder
-* [x] Create `Core-Java`
-* [x] Create `SQL`
-* [x] Create `JDBC`
-* [x] Create `Spring`
-* [x] Create `Spring-Boot`
-* [x] Create `DSA`
-* [x] Create `Projects`
-
-### Baseline Test
-
-Solve without help:
-
-* [x] Print numbers 1–100
-* [x] Even/odd
-* [x] Sum of numbers
-* [x] Reverse number
-* [x] Palindrome number
-* [x] Factorial
-* [x] Prime number
-* [x] Fibonacci
-
-**Baseline result:** `8 / 8`
+# 🗓️ 108-DAY MASTER TRACKER
 
 ---
 
-# ☕ PHASE 1 — CORE JAVA
+# 🟦 PHASE 1 — CORE JAVA FOUNDATION
 
-## SEPTEMBER 13 — Loops + Basic Problem Solving
+## Week 1 — Java Logic & Fundamentals
 
-### Concepts
+**15 Sep – 21 Sep 2026**
 
-* [x] for loop
-* [x] while loop
-* [x] do-while loop
-* [x] break
-* [x] continue
-* [x] nested loops
-* [x] loop tracing
-* [ ] time complexity basics
+**Weekly Progress: `__%`**
 
-### Practice
+| Day | Date   | Topic        | Daily Tasks                                                                | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ------------ | -------------------------------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 1   | Sep 15 | Loops        | [x] for [x] while [x] do-while [x] nested loops [x] break/continue         | [x] 5    | [x] 2      | [ ] —        | [ ] —    |
+| 2   | Sep 16 | Number Logic | [ ] Prime [ ] Palindrome [ ] Factorial [ ] Fibonacci [ ] digit count       | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 3   | Sep 17 | Patterns     | [ ] Star patterns [ ] Number patterns [ ] 10 programs                      | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 4   | Sep 18 | Methods      | [ ] Parameters [ ] Return [ ] void [ ] static [ ] instance [ ] overloading | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 5   | Sep 19 | Arrays       | [ ] Traversal [ ] min/max [ ] reverse [ ] second largest [ ] frequency     | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 6   | Sep 20 | Strings      | [ ] String [ ] StringBuilder [ ] StringBuffer [ ] palindrome [ ] frequency | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 7   | Sep 21 | Revision     | [ ] 20 MCQs [ ] 5 coding [ ] interview revision [ ] Git push               | [ ] Test | [ ] Test   | [ ] —        | [ ] —    |
 
-**HackerRank**
+### Week 1 Checklist
 
-* [x] Java Loops I
-* [x] Java Loops II
+* [ ] All 7 days completed
+* [ ] At least 30 GFG problems
+* [ ] At least 12 HackerRank problems
+* [ ] 30+ programs written
+* [ ] Weekly test completed
+* [ ] GitHub updated
 
-**GFG / self-practice**
-
-* [x] Print 1–N
-* [x] Sum of N numbers
-* [x] Count digits
-* [x] Sum of digits
-* [x] Reverse number
-* [x] Palindrome number
-* [x] Prime number
-* [x] Factorial
-* [x] Fibonacci
-
-### Interview Questions
-
-* [x] Difference between while and do-while
-* [x] When do we use for loop?
-* [x] break vs continue
-* [x] What is nested loop?
-* [x] What is infinite loop?
-
-**Commit:** `Day-01: Java loops and basic problems`
+**Weekly Progress: `__ / __ = __%`**
 
 ---
 
-# SEPTEMBER 14 — Methods + Arrays
+# 🟦 Week 2 — OOP
 
-### Concepts
+**22 Sep – 28 Sep 2026**
 
-* [ ] Methods
-* [ ] Parameters
-* [ ] Arguments
-* [ ] Return type
-* [ ] void
-* [ ] Method calling
-* [ ] Method overloading
-* [ ] Arrays
-* [ ] Array indexing
-* [ ] Array length
-* [ ] Traversing arrays
-* [ ] for-each loop
+**Weekly Progress: `__%`**
 
-### HackerRank
+| Day | Date   | Topic          | Daily Tasks                                                   | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | -------------- | ------------------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 8   | Sep 22 | Class & Object | [ ] Class [ ] Object [ ] Constructor [ ] this [ ] overloading | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 9   | Sep 23 | Encapsulation  | [ ] private [ ] getter [ ] setter [ ] BankAccount             | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 10  | Sep 24 | Inheritance    | [ ] extends [ ] super [ ] overriding [ ] Vehicle example      | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 11  | Sep 25 | Polymorphism   | [ ] overloading [ ] overriding [ ] runtime polymorphism       | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 12  | Sep 26 | Abstraction    | [ ] abstract class [ ] abstract method [ ] interface          | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 13  | Sep 27 | Interface      | [ ] interface [ ] default [ ] static [ ] multiple inheritance | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 14  | Sep 28 | OOP Revision   | [ ] 30 interview Qs [ ] 5 coding [ ] mini OOP app             | [ ] Test | [ ] Test   | [ ] —        | [ ] —    |
 
-* [ ] Java Datatypes
-* [ ] Java End-of-file
-* [ ] Java Int to String
-
-### Coding
-
-* [ ] Find maximum element
-* [ ] Find minimum element
-* [ ] Sum array
-* [ ] Average array
-* [ ] Reverse array
-* [ ] Search element
-* [ ] Count even/odd
-* [ ] Second largest element
-
-### Interview
-
-* [ ] Parameter vs argument
-* [ ] Method vs function
-* [ ] Why Java is pass-by-value?
-* [ ] What is array?
-* [ ] Why array index starts at 0?
-
-**Commit:** `Day-02: Methods and arrays`
+**Weekly Progress: `__ / __ = __%`**
 
 ---
 
-# SEPTEMBER 15 — OOP
+# 🟦 Week 3 — Important Core Java
 
-### Concepts
+**29 Sep – 5 Oct 2026**
 
-* [ ] Class
-* [ ] Object
-* [ ] Instance
-* [ ] Constructor
-* [ ] this keyword
-* [ ] Encapsulation
-* [ ] Inheritance
-* [ ] Polymorphism
-* [ ] Method overloading
-* [ ] Method overriding
-* [ ] Abstraction
-* [ ] Interface
+**Weekly Progress: `__%`**
 
-### Coding
+| Day | Date   | Topic             | Daily Tasks                                                      | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ----------------- | ---------------------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 15  | Sep 29 | Access Modifiers  | [ ] public [ ] private [ ] protected [ ] default [ ] packages    | [ ] 4    | [ ] 2      | [ ] —        | [ ] —    |
+| 16  | Sep 30 | static/final      | [ ] static [ ] final [ ] this [ ] super                          | [ ] 4    | [ ] 2      | [ ] —        | [ ] —    |
+| 17  | Oct 1  | Wrapper Classes   | [ ] Boxing [ ] unboxing [ ] parsing [ ] Integer                  | [ ] 4    | [ ] 2      | [ ] —        | [ ] —    |
+| 18  | Oct 2  | Exceptions        | [ ] try [ ] catch [ ] finally [ ] throw [ ] throws               | [ ] 4    | [ ] 2      | [ ] —        | [ ] —    |
+| 19  | Oct 3  | Custom Exceptions | [ ] checked [ ] unchecked [ ] custom exception [ ] real examples | [ ] 4    | [ ] 2      | [ ] —        | [ ] —    |
+| 20  | Oct 4  | Regex             | [ ] Pattern [ ] Matcher [ ] Character classes [ ] quantifiers    | [ ] 4    | [ ] 2      | [ ] —        | [ ] —    |
+| 21  | Oct 5  | Core Java Test    | [ ] 50 MCQs [ ] 10 coding [ ] interview revision                 | [ ] Test | [ ] Test   | [ ] —        | [ ] —    |
 
-Build:
-
-**Student Management System — V1**
-
-Features:
-
-* [ ] Student class
-* [ ] name
-* [ ] id
-* [ ] marks
-* [ ] constructor
-* [ ] getters/setters
-* [ ] displayStudent()
-* [ ] calculateGrade()
-
-### HackerRank
-
-* [ ] Java Inheritance I
-* [ ] Java Inheritance II
-* [ ] Java Method Overriding
-* [ ] Java Abstract Class
-
-### Interview
-
-* [ ] Class vs object
-* [ ] Constructor vs method
-* [ ] this keyword
-* [ ] 4 pillars of OOP
-* [ ] Overloading vs overriding
-* [ ] Interface vs class
-* [ ] Abstract class vs interface
-
-**Commit:** `Day-03: OOP fundamentals`
+**Weekly Progress: `__ / __ = __%`**
 
 ---
 
-# SEPTEMBER 16 — Strings + Exceptions + Collections
+# 🟪 PHASE 2 — COLLECTIONS + DSA
 
-### Strings
+# Week 4 — Java Collections
 
-* [ ] String
-* [ ] String pool
-* [ ] String immutability
-* [ ] StringBuilder
-* [ ] StringBuffer
-* [ ] equals()
-* [ ] ==
+**6 Oct – 12 Oct 2026**
 
-### Exceptions
+**Weekly Progress: `__%`**
 
-* [ ] Exception
-* [ ] try
-* [ ] catch
-* [ ] finally
-* [ ] throw
-* [ ] throws
-* [ ] checked exception
-* [ ] unchecked exception
+| Day | Date   | Topic       | Daily Tasks                                           | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ----------- | ----------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 22  | Oct 6  | List        | [ ] Collection [ ] List [ ] ArrayList [ ] LinkedList  | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 23  | Oct 7  | Set         | [ ] HashSet [ ] LinkedHashSet [ ] TreeSet             | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 24  | Oct 8  | Map         | [ ] HashMap [ ] LinkedHashMap [ ] TreeMap             | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 25  | Oct 9  | Queue       | [ ] Queue [ ] Deque [ ] PriorityQueue                 | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 26  | Oct 10 | Iterator    | [ ] Iterator [ ] Comparable [ ] Comparator            | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 27  | Oct 11 | Collections | [ ] sort [ ] search [ ] frequency [ ] utility methods | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 28  | Oct 12 | Revision    | [ ] 10 coding [ ] 30 interview Qs [ ] test            | [ ] Test | [ ] Test   | [ ] —        | [ ] —    |
 
-### Collections
-
-* [ ] Collection framework overview
-* [ ] ArrayList
-* [ ] LinkedList
-* [ ] HashSet
-* [ ] HashMap
-* [ ] Iterator
-
-### HackerRank
-
-* [ ] Java String Reverse
-* [ ] Java Anagrams
-* [ ] Java ArrayList
-* [ ] Java List
-* [ ] Java Map
-* [ ] Java Stack
-
-### Coding
-
-* [ ] Reverse String
-* [ ] Palindrome String
-* [ ] Count characters
-* [ ] Character frequency
-* [ ] Remove duplicates
-* [ ] Find duplicate elements
-
-**Commit:** `Day-04: Strings exceptions collections`
+**Weekly Progress: `__ / __ = __%`**
 
 ---
 
-# SEPTEMBER 17 — Core Java Test + Mini Project
+# 🟪 Week 5 — Arrays DSA
 
-### Revision
+**13 Oct – 19 Oct 2026**
 
-* [ ] Variables
-* [ ] Data types
-* [ ] Operators
-* [ ] Conditions
+**Weekly Progress: `__%`**
+
+| Day | Date   | Topic              | Daily Tasks                                         | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ------------------ | --------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 29  | Oct 13 | Array Basics       | [ ] traversal [ ] max [ ] min [ ] sum               | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 1    |
+| 30  | Oct 14 | Two Sum            | [ ] brute force [ ] HashMap approach [ ] complexity | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 31  | Oct 15 | Array Manipulation | [ ] reverse [ ] rotate [ ] move zeroes              | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 32  | Oct 16 | Frequency          | [ ] HashMap [ ] duplicates [ ] frequency            | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 33  | Oct 17 | Two Pointer        | [ ] sorted array [ ] pair problems                  | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 34  | Oct 18 | Kadane             | [ ] maximum subarray [ ] dry run [ ] complexity     | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 35  | Oct 19 | Array Test         | [ ] 5 coding [ ] timed test [ ] revision            | [ ] Test | [ ] Test   | [ ] Test     | [ ] Test |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟪 Week 6 — Strings + Searching + Sorting
+
+**20 Oct – 26 Oct 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Topic            | Daily Tasks                                       | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ---------------- | ------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 36  | Oct 20 | Strings          | [ ] palindrome [ ] anagram [ ] frequency          | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 37  | Oct 21 | String Patterns  | [ ] substring [ ] character logic [ ] compression | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 38  | Oct 22 | Sliding Window   | [ ] fixed window [ ] variable window              | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 39  | Oct 23 | Linear Search    | [ ] implementation [ ] complexity [ ] problems    | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 40  | Oct 24 | Binary Search    | [ ] implementation [ ] search space [ ] problems  | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 41  | Oct 25 | Sorting          | [ ] bubble [ ] selection [ ] insertion            | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 42  | Oct 26 | Merge/Quick Sort | [ ] concepts [ ] complexity [ ] test              | [ ] Test | [ ] Test   | [ ] Test     | [ ] Test |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟪 Week 7 — Linked List + Stack + Queue
+
+**27 Oct – 2 Nov 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Topic          | Daily Tasks                                                   | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | -------------- | ------------------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 43  | Oct 27 | Linked List    | [ ] Node [ ] traversal [ ] insert [ ] delete                  | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 1    |
+| 44  | Oct 28 | Linked List    | [ ] reverse [ ] middle [ ] cycle                              | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 45  | Oct 29 | Stack          | [ ] implementation [ ] parentheses [ ] applications           | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 46  | Oct 30 | Queue          | [ ] implementation [ ] circular queue [ ] deque               | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 47  | Oct 31 | Stack Problems | [ ] next greater [ ] monotonic stack concept                  | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 48  | Nov 1  | Recursion      | [ ] base case [ ] factorial [ ] Fibonacci [ ] array recursion | [ ] 3    | [ ] 1      | [ ] 1        | [ ] 2    |
+| 49  | Nov 2  | DSA Test       | [ ] timed test [ ] review mistakes                            | [ ] Test | [ ] Test   | [ ] Test     | [ ] Test |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟧 PHASE 3 — SQL + JDBC
+
+# Week 8 — SQL Fundamentals
+
+**3 Nov – 9 Nov 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date  | Topic           | Daily Tasks                                               | GFG      | HackerRank | InterviewBit | LeetCode |
+| --- | ----- | --------------- | --------------------------------------------------------- | -------- | ---------- | ------------ | -------- |
+| 50  | Nov 3 | Database Basics | [ ] DB [ ] table [ ] row [ ] column [ ] CREATE [ ] INSERT | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 51  | Nov 4 | SELECT          | [ ] SELECT [ ] WHERE [ ] AND [ ] OR [ ] BETWEEN [ ] IN    | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 52  | Nov 5 | CRUD            | [ ] INSERT [ ] UPDATE [ ] DELETE [ ] ORDER BY [ ] LIMIT   | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 53  | Nov 6 | Aggregates      | [ ] COUNT [ ] SUM [ ] AVG [ ] MIN [ ] MAX                 | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 54  | Nov 7 | GROUP BY        | [ ] GROUP BY [ ] HAVING [ ] aggregate problems            | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 55  | Nov 8 | Constraints     | [ ] PK [ ] FK [ ] UNIQUE [ ] NOT NULL [ ] CHECK           | [ ] 5    | [ ] 2      | [ ] —        | [ ] —    |
+| 56  | Nov 9 | SQL Test        | [ ] 30 queries [ ] timed test [ ] mistakes                | [ ] Test | [ ] Test   | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟧 Week 9 — Advanced SQL + JDBC
+
+**10 Nov – 16 Nov 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Topic             | Daily Tasks                                           | GFG         | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ----------------- | ----------------------------------------------------- | ----------- | ---------- | ------------ | -------- |
+| 57  | Nov 10 | INNER JOIN        | [ ] JOIN syntax [ ] relationships [ ] 10 queries      | [ ] 5       | [ ] 2      | [ ] —        | [ ] —    |
+| 58  | Nov 11 | LEFT/RIGHT JOIN   | [ ] LEFT [ ] RIGHT [ ] JOIN problems                  | [ ] 5       | [ ] 2      | [ ] —        | [ ] —    |
+| 59  | Nov 12 | Subqueries        | [ ] subquery [ ] EXISTS [ ] CASE                      | [ ] 5       | [ ] 2      | [ ] —        | [ ] —    |
+| 60  | Nov 13 | DB Design         | [ ] normalization [ ] indexes [ ] relationships       | [ ] 5       | [ ] 2      | [ ] —        | [ ] —    |
+| 61  | Nov 14 | JDBC              | [ ] Driver [ ] Connection [ ] Statement [ ] ResultSet | [ ] 3       | [ ] 1      | [ ] —        | [ ] —    |
+| 62  | Nov 15 | PreparedStatement | [ ] INSERT [ ] UPDATE [ ] DELETE [ ] SELECT           | [ ] 3       | [ ] 1      | [ ] —        | [ ] —    |
+| 63  | Nov 16 | JDBC CRUD         | [ ] DAO [ ] CRUD [ ] exception handling [ ] Git push  | [ ] Project | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟩 PHASE 4 — SPRING + SPRING BOOT
+
+# Week 10 — Spring Fundamentals
+
+**17 Nov – 23 Nov 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Topic              | Daily Tasks                                               | GFG         | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ------------------ | --------------------------------------------------------- | ----------- | ---------- | ------------ | -------- |
+| 64  | Nov 17 | Spring Intro       | [ ] Spring [ ] advantages [ ] architecture                | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 65  | Nov 18 | IoC                | [ ] IoC [ ] DI [ ] Bean                                   | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 66  | Nov 19 | Spring Beans       | [ ] Component [ ] Service [ ] Repository                  | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 67  | Nov 20 | ApplicationContext | [ ] context [ ] configuration [ ] bean lifecycle basics   | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 68  | Nov 21 | Maven              | [ ] pom.xml [ ] dependencies [ ] lifecycle                | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 69  | Nov 22 | Spring Boot        | [ ] Boot [ ] project structure [ ] application.properties | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 70  | Nov 23 | Mini App           | [ ] Spring Boot app [ ] Git [ ] README                    | [ ] Project | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟩 Week 11 — REST API + Spring Data JPA
+
+**24 Nov – 30 Nov 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Topic         | Daily Tasks                                           | GFG         | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ------------- | ----------------------------------------------------- | ----------- | ---------- | ------------ | -------- |
+| 71  | Nov 24 | REST          | [ ] REST [ ] HTTP [ ] GET [ ] POST [ ] PUT [ ] DELETE | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 72  | Nov 25 | Controller    | [ ] @RestController [ ] mappings [ ] request/response | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 73  | Nov 26 | Service Layer | [ ] Controller → Service → Repository                 | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 74  | Nov 27 | JPA           | [ ] Entity [ ] ID [ ] Repository [ ] CRUD             | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 75  | Nov 28 | Hibernate     | [ ] ORM [ ] persistence [ ] relationships             | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 76  | Nov 29 | Validation    | [ ] validation [ ] DTO [ ] error response             | [ ] Learn   | [ ] —      | [ ] —        | [ ] —    |
+| 77  | Nov 30 | API Project   | [ ] Employee CRUD [ ] MySQL [ ] Postman [ ] Git       | [ ] Project | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟥 PHASE 5 — REAL BACKEND PROJECT
+
+# Week 12 — Smart Campus Buddy 2.0: Requirements + Design
+
+**1 Dec – 7 Dec 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date  | Project Task    | Deliverable                                             | GFG   | HackerRank | InterviewBit | LeetCode |
+| --- | ----- | --------------- | ------------------------------------------------------- | ----- | ---------- | ------------ | -------- |
+| 78  | Dec 1 | Requirements    | [ ] Student [ ] Admin [ ] Notices [ ] Complaints        | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 79  | Dec 2 | User Module     | [ ] Registration [ ] Login [ ] Profile requirements     | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 80  | Dec 3 | Database Design | [ ] ER diagram [ ] tables [ ] PK/FK                     | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 81  | Dec 4 | API Design      | [ ] endpoints [ ] request [ ] response [ ] status codes | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 82  | Dec 5 | Project Setup   | [ ] Spring Boot [ ] Maven [ ] MySQL [ ] Git             | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 83  | Dec 6 | Architecture    | [ ] Controller [ ] Service [ ] Repository [ ] DTO       | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 84  | Dec 7 | Sprint Review   | [ ] Review requirements [ ] GitHub Issues [ ] README    | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟥 Week 13 — Smart Campus Buddy 2.0: Development
+
+**8 Dec – 14 Dec 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Development    | Deliverable                                             | GFG   | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | -------------- | ------------------------------------------------------- | ----- | ---------- | ------------ | -------- |
+| 85  | Dec 8  | User Module    | [ ] Student entity [ ] CRUD [ ] validation              | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 86  | Dec 9  | Authentication | [ ] Login [ ] password handling [ ] roles               | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 87  | Dec 10 | Notices        | [ ] Admin CRUD [ ] student view                         | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 88  | Dec 11 | Complaints     | [ ] Create [ ] update status [ ] admin view             | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 89  | Dec 12 | Events         | [ ] Create [ ] update [ ] delete [ ] view               | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 90  | Dec 13 | Error Handling | [ ] Global exception [ ] validation [ ] clean responses | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 91  | Dec 14 | Integration    | [ ] Complete API flow [ ] Postman collection [ ] Git    | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟨 PHASE 6 — CORPORATE WORK SIMULATION
+
+# Week 14 — Testing + Debugging + Git
+
+**15 Dec – 21 Dec 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Simulation         | Task                                                     | GFG   | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ------------------ | -------------------------------------------------------- | ----- | ---------- | ------------ | -------- |
+| 92  | Dec 15 | Requirement Change | [ ] Add student deactivation [ ] DB [ ] API [ ] test     | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 93  | Dec 16 | Bug Ticket         | [ ] Reproduce [ ] debug [ ] root cause [ ] fix           | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 94  | Dec 17 | Code Review        | [ ] naming [ ] duplication [ ] exceptions [ ] validation | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 95  | Dec 18 | Git Workflow       | [ ] branch [ ] commit [ ] merge [ ] conflict resolution  | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 96  | Dec 19 | Documentation      | [ ] README [ ] API docs [ ] setup [ ] screenshots        | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 97  | Dec 20 | Deployment Prep    | [ ] env variables [ ] production config [ ] build        | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+| 98  | Dec 21 | Project Demo       | [ ] 5-min demo [ ] architecture [ ] DB [ ] APIs          | [ ] — | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟪 PHASE 7 — INTERVIEW PREPARATION
+
+# Week 15 — Technical Interview
+
+**22 Dec – 28 Dec 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Interview Area    | Tasks                                                            | GFG       | HackerRank | InterviewBit | LeetCode |
+| --- | ------ | ----------------- | ---------------------------------------------------------------- | --------- | ---------- | ------------ | -------- |
+| 99  | Dec 22 | Core Java         | [ ] 50 Qs [ ] OOP [ ] Collections [ ] Exceptions                 | [ ] 10    | [ ] 5      | [ ] 2        | [ ] —    |
+| 100 | Dec 23 | DSA               | [ ] Two Sum [ ] Array [ ] Binary Search [ ] Stack [ ] LinkedList | [ ] 3     | [ ] 1      | [ ] 1        | [ ] 3    |
+| 101 | Dec 24 | SQL               | [ ] 30 SQL Qs [ ] JOIN [ ] GROUP BY [ ] subquery                 | [ ] 10    | [ ] 5      | [ ] 2        | [ ] —    |
+| 102 | Dec 25 | Spring Boot       | [ ] IoC [ ] DI [ ] REST [ ] JPA [ ] architecture                 | [ ] Learn | [ ] —      | [ ] —        | [ ] —    |
+| 103 | Dec 26 | Project Interview | [ ] 2-min explanation [ ] architecture [ ] bugs [ ] challenges   | [ ] —     | [ ] —      | [ ] —        | [ ] —    |
+| 104 | Dec 27 | Aptitude          | [ ] Percentages [ ] Ratio [ ] Profit/Loss [ ] Time/Work          | [ ] —     | [ ] —      | [ ] —        | [ ] —    |
+| 105 | Dec 28 | HR                | [ ] Tell me about yourself [ ] strengths [ ] weakness [ ] goals  | [ ] —     | [ ] —      | [ ] —        | [ ] —    |
+
+**Weekly Progress: `__ / __ = __%`**
+
+---
+
+# 🟦 FINAL 3 DAYS
+
+## Week 16 — Final Assessment
+
+**29 Dec – 31 Dec 2026**
+
+**Weekly Progress: `__%`**
+
+| Day | Date   | Final Task       | Checklist                                                           |
+| --- | ------ | ---------------- | ------------------------------------------------------------------- |
+| 106 | Dec 29 | Technical Mock   | [ ] 20 Java [ ] 10 SQL [ ] 5 DSA [ ] 10 Spring [ ] Project          |
+| 107 | Dec 30 | Coding Test      | [ ] 2 Easy [ ] 1 Medium [ ] SQL [ ] Debugging [ ] 90-minute test    |
+| 108 | Dec 31 | Final Assessment | [ ] Java [ ] DSA [ ] SQL [ ] Spring Boot [ ] Git [ ] Project [ ] HR |
+
+---
+
+# 📈 MONTHLY PROGRESS
+
+## September 2026
+
+**Target:** Core Java Foundation
+
 * [ ] Loops
+* [ ] Number logic
+* [ ] Patterns
 * [ ] Methods
 * [ ] Arrays
 * [ ] Strings
 * [ ] OOP
 * [ ] Exceptions
+* [ ] Regex
+
+**Progress: `____%`**
+
+---
+
+## October 2026
+
+**Target:** Collections + DSA
+
 * [ ] Collections
+* [ ] Arrays
+* [ ] Strings
+* [ ] Searching
+* [ ] Sorting
+* [ ] Linked List
+* [ ] Stack
+* [ ] Queue
+* [ ] Recursion
 
-### Coding Test
-
-Solve without tutorial:
-
-* [ ] Prime
-* [ ] Armstrong
-* [ ] Palindrome
-* [ ] Reverse number
-* [ ] Fibonacci
-* [ ] Second largest
-* [ ] Reverse array
-* [ ] Character frequency
-* [ ] Duplicate elements
-* [ ] Student management CRUD
-
-### Core Java Interview Test
-
-Answer **30 questions verbally**.
-
-### CORE JAVA GATE
-
-Mark DONE only if:
-
-* [ ] 30+ programs solved
-* [ ] 15+ HackerRank Java problems
-* [ ] OOP explained without notes
-* [ ] Collections explained
-* [ ] Exceptions explained
-* [ ] Can write basic Java program without copying
-
-**STATUS: [ ] CORE JAVA DONE**
+**Progress: `____%`**
 
 ---
 
-# 🗄️ PHASE 2 — SQL
+## November 2026
 
-# SEPTEMBER 18 — SQL Fundamentals
+**Target:** SQL + JDBC + Spring Boot
 
-### Concepts
-
-* [ ] Database
-* [ ] DBMS
-* [ ] RDBMS
-* [ ] Table
-* [ ] Row
-* [ ] Column
-* [ ] Primary key
-* [ ] Foreign key
-* [ ] Constraints
-* [ ] SELECT
-* [ ] WHERE
-* [ ] ORDER BY
-* [ ] DISTINCT
-* [ ] LIMIT
-
-### HackerRank
-
-* [ ] Revising the Select Query I
-* [ ] Revising the Select Query II
-* [ ] Select All
-* [ ] Select By ID
-* [ ] Japanese Cities' Attributes
-* [ ] Japanese Cities' Names
-
-### Practice
-
-Create:
-
-`students`
-
-`employees`
-
-`departments`
-
-Write **20 SELECT queries**.
-
-**Commit:** `Day-06: SQL basics`
-
----
-
-# SEPTEMBER 19 — SQL Functions + GROUP BY
-
-### Concepts
-
-* [ ] COUNT
-* [ ] SUM
-* [ ] AVG
-* [ ] MIN
-* [ ] MAX
-* [ ] GROUP BY
-* [ ] HAVING
-* [ ] LIKE
-* [ ] BETWEEN
-* [ ] IN
-* [ ] CASE
-
-### HackerRank
-
-* [ ] Revising Aggregations
-* [ ] Average Population
-* [ ] Population Density Difference
-* [ ] Weather Observation Station 4
-* [ ] Weather Observation Station 5
-* [ ] Employee Salaries
-* [ ] Top Earners
-
-### Practice
-
-Write **25 aggregation queries**.
-
-### Interview
-
-* WHERE vs HAVING
-* DELETE vs TRUNCATE vs DROP
-* COUNT(*) vs COUNT(column)
-* Primary key
-* Foreign key
-* UNIQUE
-* NULL
-
-**Commit:** `Day-07: SQL aggregation and grouping`
-
----
-
-# SEPTEMBER 20 — JOINs + Subqueries
-
-### Concepts
-
-* [ ] INNER JOIN
-* [ ] LEFT JOIN
-* [ ] RIGHT JOIN
-* [ ] FULL JOIN concept
-* [ ] Self Join
-* [ ] Subquery
-* [ ] Correlated subquery
-* [ ] UNION
-* [ ] UNION ALL
-* [ ] Second highest salary
-* [ ] EXISTS
-
-### Practice
-
-Write:
-
-* [ ] 10 INNER JOIN queries
-* [ ] 10 LEFT JOIN queries
-* [ ] 5 subqueries
-* [ ] 5 interview-style queries
-
-### Must Solve
-
-* [ ] Second highest salary
-* [ ] Employees without department
-* [ ] Highest salary per department
-* [ ] Employees earning above average
-* [ ] Duplicate records
-* [ ] Department-wise employee count
-
-### SQL GATE
-
-* [ ] 60+ queries
-* [ ] Joins understood
-* [ ] GROUP BY/HAVING understood
-* [ ] Subqueries understood
-* [ ] Can solve basic SQL interview questions
-
-**STATUS: [ ] SQL DONE**
-
----
-
-# 🔌 PHASE 3 — JDBC
-
-# SEPTEMBER 21 — JDBC
-
-### Concepts
-
+* [ ] SQL basics
+* [ ] JOINs
+* [ ] Subqueries
+* [ ] Database design
 * [ ] JDBC
-* [ ] JDBC Driver
-* [ ] Connection
-* [ ] Statement
-* [ ] PreparedStatement
-* [ ] ResultSet
-* [ ] executeQuery()
-* [ ] executeUpdate()
-* [ ] SQLException
-* [ ] Connection closing
-
-### Build
-
-**Employee Management System**
-
-Features:
-
-* [ ] Add employee
-* [ ] View employees
-* [ ] Find employee
-* [ ] Update employee
-* [ ] Delete employee
-
-### Important
-
-Understand this flow:
-
-`Java → JDBC → Driver → Database`
-
-### Interview
-
-* [ ] What is JDBC?
-* [ ] Statement vs PreparedStatement
-* [ ] executeQuery vs executeUpdate
-* [ ] Why PreparedStatement?
-* [ ] What is ResultSet?
-
-**STATUS: [ ] JDBC DONE**
-
-**Commit:** `Day-10: JDBC Employee Management System`
-
----
-
-# 🌱 PHASE 4 — SPRING
-
-# SEPTEMBER 22 — Spring Core
-
-### Concepts
-
-* [ ] What is Spring?
-* [ ] IoC
-* [ ] DI
-* [ ] Spring Container
-* [ ] Bean
-* [ ] Component
-* [ ] @Component
-* [ ] @Service
-* [ ] @Repository
-* [ ] @Controller
-* [ ] Constructor Injection
-
-### Interview
-
-* [ ] Why Spring?
-* [ ] What is IoC?
-* [ ] What is Dependency Injection?
-* [ ] What is a Bean?
-* [ ] Constructor injection vs field injection
-
----
-
-# SEPTEMBER 23 — Spring MVC
-
-### Concepts
-
-* [ ] MVC
-* [ ] Controller
-* [ ] Service
-* [ ] Repository
-* [ ] Model
-* [ ] Request
-* [ ] Response
-* [ ] @Controller
-* [ ] @RestController
-* [ ] @RequestMapping
-
-### Architecture
-
-```text
-Client
-   ↓
-Controller
-   ↓
-Service
-   ↓
-Repository
-   ↓
-Database
-```
-
-### Interview
-
-* [ ] Why layered architecture?
-* [ ] Controller responsibility?
-* [ ] Service responsibility?
-* [ ] Repository responsibility?
-
-**STATUS: [ ] SPRING DONE**
-
----
-
-# 🚀 PHASE 5 — SPRING BOOT + REST
-
-# SEPTEMBER 24 — Spring Boot Fundamentals
-
-### Concepts
-
+* [ ] Spring
 * [ ] Spring Boot
-* [ ] Spring Boot vs Spring
-* [ ] Starter dependencies
-* [ ] Auto configuration
-* [ ] application.properties
-* [ ] Embedded server
-* [ ] Maven
-* [ ] pom.xml
-* [ ] Project structure
+* [ ] REST
+* [ ] JPA/Hibernate
 
-### Build
-
-Create:
-
-**Student REST API**
+**Progress: `____%`**
 
 ---
 
-# SEPTEMBER 25 — REST API
+## December 2026
 
-### Concepts
+**Target:** Project + Corporate Skills + Interviews
 
-* [ ] REST
-* [ ] HTTP
-* [ ] GET
-* [ ] POST
-* [ ] PUT
-* [ ] DELETE
-* [ ] PATCH concept
-* [ ] HTTP status codes
-* [ ] JSON
+* [ ] Smart Campus Buddy 2.0
+* [ ] Testing
+* [ ] Debugging
+* [ ] Git workflow
+* [ ] Documentation
+* [ ] Deployment preparation
+* [ ] Technical interviews
+* [ ] Aptitude
+* [ ] HR
+* [ ] Mock interviews
 
-### Build endpoints
+**Progress: `____%`**
+
+---
+
+# 🧠 DSA PROBLEM-SOLVING RULE
+
+For every problem:
 
 ```text
-GET    /students
-GET    /students/{id}
-POST   /students
-PUT    /students/{id}
-DELETE /students/{id}
+1. Understand the problem
+        ↓
+2. Write examples
+        ↓
+3. Think about brute force
+        ↓
+4. Code yourself
+        ↓
+5. Test edge cases
+        ↓
+6. Analyze Time Complexity
+        ↓
+7. Analyze Space Complexity
+        ↓
+8. Only then check solution
+        ↓
+9. Close solution
+        ↓
+10. Re-code without looking
 ```
 
-### Test
+### ❌ Don't do this
 
-Use Postman.
+```text
+Open problem
+↓
+Can't solve in 2 minutes
+↓
+Open solution
+↓
+Copy
+↓
+Submit
+↓
+Move on
+```
 
-* [ ] GET tested
-* [ ] POST tested
-* [ ] PUT tested
-* [ ] DELETE tested
+### ✅ Do this
 
----
-
-# SEPTEMBER 26 — REST + DTO + Validation
-
-### Concepts
-
-* [ ] DTO
-* [ ] Entity
-* [ ] Request DTO
-* [ ] Response DTO
-* [ ] @RequestBody
-* [ ] @PathVariable
-* [ ] @RequestParam
-* [ ] Validation
-* [ ] @Valid
-* [ ] @NotNull
-* [ ] @NotBlank
-* [ ] @Size
-
-### Build
-
-Improve Student API.
-
-* [ ] Request validation
-* [ ] Proper response
-* [ ] Error response
+```text
+Try
+↓
+Struggle
+↓
+Debug
+↓
+Learn
+↓
+Solve
+↓
+Explain
+↓
+Commit
+```
 
 ---
 
-# SEPTEMBER 27 — Exception Handling
+# 💻 GITHUB DAILY COMMIT RULE
 
-### Concepts
-
-* [ ] Exception handling in Spring Boot
-* [ ] @ExceptionHandler
-* [ ] @ControllerAdvice
-* [ ] Custom exception
-* [ ] Global exception handling
-* [ ] HTTP error response
-
-### Build
-
-* [ ] StudentNotFoundException
-* [ ] GlobalExceptionHandler
-* [ ] Standard error JSON
+Every study day should ideally produce a useful GitHub update.
 
 Example:
 
-```json
-{
-  "status": 404,
-  "message": "Student not found",
-  "timestamp": "..."
-}
+```bash
+git add .
+git commit -m "Day 15: practiced Java methods"
+git push
 ```
 
----
-
-# SEPTEMBER 28 — Spring Boot Project Test
-
-Build a complete:
-
-## Student Management REST API
-
-Must contain:
-
-* [ ] Controller
-* [ ] Service
-* [ ] Repository
-* [ ] DTO
-* [ ] Validation
-* [ ] Exception handling
-* [ ] REST endpoints
-* [ ] Database connection
-* [ ] Postman testing
-* [ ] README
-
-### Interview
-
-Answer **30 Spring Boot questions**.
-
-**STATUS: [ ] SPRING BOOT + REST DONE**
-
----
-
-# 🗃️ PHASE 6 — JPA / HIBERNATE
-
-# SEPTEMBER 29 — JPA Fundamentals
-
-### Concepts
-
-* [ ] JPA
-* [ ] Hibernate
-* [ ] ORM
-* [ ] Entity
-* [ ] @Entity
-* [ ] @Id
-* [ ] @GeneratedValue
-* [ ] Repository
-* [ ] JpaRepository
-* [ ] save()
-* [ ] findById()
-* [ ] findAll()
-* [ ] deleteById()
-
-### Interview
-
-* [ ] JPA vs Hibernate
-* [ ] ORM meaning
-* [ ] Why JpaRepository?
-
----
-
-# SEPTEMBER 30 — Relationships + Queries
-
-### Concepts
-
-* [ ] @OneToOne
-* [ ] @OneToMany
-* [ ] @ManyToOne
-* [ ] @ManyToMany
-* [ ] Lazy loading
-* [ ] Eager loading
-* [ ] JPQL basics
-* [ ] Derived queries
-
-### Practice
-
-Build:
-
-`Student → Department`
-
-* [ ] One department → many students
-* [ ] Find students by department
-* [ ] Find student by email
-
-**STATUS: [ ] JPA/HIBERNATE DONE**
-
----
-
-# 🔐 PHASE 7 — SPRING SECURITY + JWT
-
-# OCTOBER 1 — Security Fundamentals
-
-### Concepts
-
-* [ ] Authentication
-* [ ] Authorization
-* [ ] Security filter chain concept
-* [ ] Password hashing
-* [ ] BCrypt
-* [ ] Roles
-* [ ] Permissions
-* [ ] Spring Security basics
-
-### Interview
-
-* [ ] Authentication vs authorization
-* [ ] Why hash passwords?
-* [ ] What is BCrypt?
-* [ ] Role vs permission
-
----
-
-# OCTOBER 2 — JWT
-
-### Concepts
-
-* [ ] JWT
-* [ ] Header
-* [ ] Payload
-* [ ] Signature
-* [ ] Access token
-* [ ] Login flow
-* [ ] Authorization header
-* [ ] Bearer token
-
-### Build
-
-Add authentication to Student API.
+### Commit examples
 
 ```text
-Register
-   ↓
-Login
-   ↓
-JWT
-   ↓
-Authorization
-   ↓
-Protected API
+Day 01: practiced Java loops
+Day 05: practiced arrays
+Day 09: implemented encapsulation
+Day 18: practiced exception handling
+Day 24: practiced HashMap
+Day 30: solved Two Sum
+Day 57: practiced SQL joins
+Day 61: implemented JDBC connection
+Day 72: created REST controller
+Day 84: completed project architecture
+Day 93: fixed complaint API bug
+Day 98: completed project demo
 ```
 
-### Security Interview
+---
 
-* [ ] What is JWT?
-* [ ] Why JWT?
-* [ ] Where is token sent?
-* [ ] Authentication flow
-* [ ] What happens when token expires?
+# 🧪 DAILY LEARNING RECORD
 
-**STATUS: [ ] SECURITY + JWT DONE**
+For every day, create:
+
+```text
+DayXX/
+├── README.md
+├── src/
+├── notes/
+└── screenshots/
+```
+
+Example:
+
+```text
+Core-Java/
+└── Day15/
+    ├── README.md
+    ├── src/
+    │   ├── MethodExample.java
+    │   ├── Calculator.java
+    │   └── Student.java
+    └── notes/
+        └── interview-questions.md
+```
 
 ---
 
-# 🧠 PHASE 8 — DSA
+# 📝 DAILY README TEMPLATE
 
-# OCTOBER 3 — Arrays
+Copy this for each day:
 
-### Concepts
+```markdown
+# Day XX — Topic
 
-* [ ] Array traversal
-* [ ] Two pointer
-* [ ] Sliding window basics
-* [ ] Prefix sum
-* [ ] Searching
-* [ ] Sorting basics
+## Date
+DD-MM-2026
 
-### LeetCode
+## 🎯 Today's Goal
 
-* [ ] Two Sum
-* [ ] Best Time to Buy and Sell Stock
-* [ ] Contains Duplicate
-* [ ] Maximum Subarray
-* [ ] Move Zeroes
-* [ ] Binary Search
+- [ ] Understand the concept
+- [ ] Write programs independently
+- [ ] Solve practice problems
+- [ ] Prepare interview answers
 
-### InterviewBit / GFG
+## 📚 Learning
 
-* [ ] Max Sum Contiguous Subarray
-* [ ] Find Duplicate in Array
-* [ ] Repeat and Missing Number
+- [ ] Concept 1
+- [ ] Concept 2
+- [ ] Concept 3
+
+## 💻 Coding Practice
+
+- [ ] Program 1
+- [ ] Program 2
+- [ ] Program 3
+- [ ] Program 4
+- [ ] Program 5
+
+## 🟢 GeeksforGeeks
+
+- [ ] Problem 1
+- [ ] Problem 2
+- [ ] Problem 3
+
+## 🟠 HackerRank
+
+- [ ] Problem 1
+- [ ] Problem 2
+
+## 🔵 InterviewBit
+
+- [ ] Problem 1
+
+## 🟣 LeetCode
+
+- [ ] Problem 1
+- [ ] Problem 2
+
+## 🎤 Interview Questions
+
+- [ ] Question 1
+- [ ] Question 2
+- [ ] Question 3
+
+## 🧠 What I Understood
+
+Write 3–5 lines in your own words.
+
+## 🐛 Mistakes
+
+- 
+
+## 💡 Key Learning
+
+- 
+
+## ⏱️ Time Complexity
+
+- 
+
+## 💾 Git
+
+- [ ] Code committed
+- [ ] README updated
+- [ ] GitHub pushed
+
+## ⭐ Confidence
+
+__/10
+```
 
 ---
 
-# OCTOBER 4 — Strings + HashMap
+# 📊 OVERALL PROGRESS
 
-### Concepts
-
-* [ ] String traversal
-* [ ] Character frequency
-* [ ] HashMap
-* [ ] HashSet
-* [ ] Anagram
-* [ ] Duplicate detection
-
-### LeetCode
-
-* [ ] Valid Anagram
-* [ ] Valid Palindrome
-* [ ] First Unique Character in a String
-* [ ] Ransom Note
-* [ ] Group Anagrams
-
-### GFG
-
-* [ ] Frequency of characters
-* [ ] Check anagram
-* [ ] Remove duplicates
+| Phase                  |    Days | Status        | Progress |
+| ---------------------- | ------: | ------------- | -------: |
+| Core Java Foundation   |    1–21 | ⬜ Not Started |       0% |
+| Collections + DSA      |   22–49 | ⬜ Not Started |       0% |
+| SQL + JDBC             |   50–63 | ⬜ Not Started |       0% |
+| Spring + Spring Boot   |   64–77 | ⬜ Not Started |       0% |
+| Smart Campus Buddy 2.0 |   78–91 | ⬜ Not Started |       0% |
+| Corporate Simulation   |   92–98 | ⬜ Not Started |       0% |
+| Interview Preparation  |  99–105 | ⬜ Not Started |       0% |
+| Final Assessment       | 106–108 | ⬜ Not Started |       0% |
 
 ---
 
-# OCTOBER 5 — Linked List + Stack + Queue
+# 🏆 MILESTONES
 
-### Concepts
+## 🥉 Milestone 1 — Core Java
 
-* [ ] Linked List
-* [ ] Node
-* [ ] Traversal
-* [ ] Stack
-* [ ] Queue
-* [ ] LIFO
-* [ ] FIFO
+**Target: 5 October**
 
-### LeetCode
-
-* [ ] Valid Parentheses
-* [ ] Reverse Linked List
-* [ ] Middle of the Linked List
-* [ ] Merge Two Sorted Lists
-
-### Interview
-
-* [ ] Array vs Linked List
-* [ ] Stack vs Queue
-* [ ] Where is Stack used?
-* [ ] Where is Queue used?
+* [ ] Java syntax comfortable
+* [ ] Loops comfortable
+* [ ] Arrays comfortable
+* [ ] Strings comfortable
+* [ ] OOP understood
+* [ ] Exceptions understood
 
 ---
 
-# OCTOBER 6 — Recursion + Sorting + DSA Test
+## 🥈 Milestone 2 — DSA + SQL
 
-### Concepts
+**Target: 16 November**
 
-* [ ] Recursion
-* [ ] Base condition
-* [ ] Binary search
-* [ ] Bubble sort
-* [ ] Selection sort
-* [ ] Insertion sort
-* [ ] Big-O basics
-
-### Problems
-
-* [ ] Factorial recursion
-* [ ] Fibonacci recursion
-* [ ] Reverse string recursion
-* [ ] Binary search
-* [ ] Sorting array
-* [ ] Two Sum
-* [ ] Maximum subarray
-* [ ] Valid parentheses
-
-### DSA GATE
-
-* [ ] 30+ DSA problems
 * [ ] Arrays
 * [ ] Strings
-* [ ] HashMap
-* [ ] Linked List
+* [ ] Searching
+* [ ] Sorting
+* [ ] LinkedList
 * [ ] Stack
 * [ ] Queue
-* [ ] Binary Search
-* [ ] Big-O
-
-**STATUS: [ ] DSA INTERVIEW BASICS DONE**
-
----
-
-# 🖥️ PHASE 9 — CS FUNDAMENTALS
-
-# OCTOBER 7 — DBMS + OOP Revision
-
-### DBMS
-
-* [ ] DBMS vs RDBMS
-* [ ] Primary key
-* [ ] Foreign key
-* [ ] Candidate key
-* [ ] Normalization
-* [ ] 1NF
-* [ ] 2NF
-* [ ] 3NF
-* [ ] ACID
-* [ ] Transactions
-* [ ] Index
-* [ ] Joins
-
-### OOP
-
-* [ ] Encapsulation
-* [ ] Inheritance
-* [ ] Polymorphism
-* [ ] Abstraction
-* [ ] SOLID basics
+* [ ] Recursion
+* [ ] SQL
+* [ ] JDBC
 
 ---
 
-# OCTOBER 8 — OS + Computer Networks
+## 🥇 Milestone 3 — Backend Developer
 
-### OS
+**Target: 30 November**
 
-* [ ] Process
-* [ ] Thread
-* [ ] Process vs thread
-* [ ] Multithreading
-* [ ] Synchronization
-* [ ] Deadlock basics
-* [ ] Memory basics
-
-### Networks
-
-* [ ] IP
-* [ ] DNS
-* [ ] HTTP
-* [ ] HTTPS
-* [ ] TCP
-* [ ] UDP
-* [ ] Client-server model
-* [ ] REST API request lifecycle
-
-### Interview
-
-Answer **30 CS questions**.
-
-**STATUS: [ ] CS FUNDAMENTALS DONE**
-
----
-
-# 🛠️ OCTOBER 9 — GIT + MAVEN + TESTING
-
-### Git
-
-* [ ] git init
-* [ ] git clone
-* [ ] git status
-* [ ] git add
-* [ ] git commit
-* [ ] git push
-* [ ] git pull
-* [ ] branch
-* [ ] merge
-* [ ] pull request
-
-### Maven
-
-* [ ] pom.xml
-* [ ] dependency
-* [ ] lifecycle
-* [ ] build
-* [ ] package
-
-### Testing
-
-* [ ] Unit testing concept
-* [ ] JUnit basics
-* [ ] Mockito concept
-* [ ] Controller testing concept
-* [ ] Service testing concept
-
-### GitHub
-
-* [ ] Clean repositories
-* [ ] README
-* [ ] Meaningful commits
-* [ ] `.gitignore`
-* [ ] Project screenshots
-
-**STATUS: [ ] DEVELOPMENT WORKFLOW DONE**
-
----
-
-# 🏗️ PHASE 10 — PROJECT SPRINT
-
-# OCTOBER 10 — Project 1
-
-## Student Management System
-
-Stack:
-
-`Java + OOP + Collections`
-
-Features:
-
-* [ ] Add student
-* [ ] View students
-* [ ] Search student
-* [ ] Update student
-* [ ] Delete student
-* [ ] Validation
-* [ ] GitHub README
-
-**Commit:** `Project-01 completed`
-
----
-
-# OCTOBER 11 — Project 2
-
-## Bank Management System
-
-Stack:
-
-`Java + OOP + Collections + Exceptions`
-
-Features:
-
-* [ ] Create account
-* [ ] Deposit
-* [ ] Withdraw
-* [ ] Check balance
-* [ ] Transaction history
-* [ ] Custom exceptions
-* [ ] Encapsulation
-
-**Commit:** `Project-02 completed`
-
----
-
-# OCTOBER 12 — Project 3
-
-## Employee Management API
-
-Stack:
-
-`Java + Spring Boot + REST + JDBC/JPA + MySQL`
-
-Features:
-
-* [ ] CRUD
-* [ ] Database
-* [ ] DTO
-* [ ] Validation
-* [ ] Exception handling
-* [ ] Postman
-* [ ] README
-
----
-
-# OCTOBER 13 — MAIN PROJECT
-
-# 🎓 Smart Campus Buddy
-
-### Goal
-
-Bridge communication between:
-
-`Administration ↔ Students`
-
-### Backend
-
+* [ ] Spring
 * [ ] Spring Boot
 * [ ] REST API
+* [ ] JPA
+* [ ] Hibernate
 * [ ] MySQL
-* [ ] JPA/Hibernate
-* [ ] DTO
-* [ ] Validation
-* [ ] Exception handling
-* [ ] Spring Security
-* [ ] JWT
-* [ ] Role-based access
-
-### Roles
-
-* [ ] Admin
-* [ ] Student
-
-### Features
-
-* [ ] Registration
-* [ ] Login
-* [ ] JWT authentication
-* [ ] Student profile
-* [ ] Notices
-* [ ] Complaints
-* [ ] Events
-* [ ] Admin management
-* [ ] Role-based APIs
-
-### IMPORTANT
-
-> AI may help generate code, but I must understand every important class, annotation, API and database relationship before putting it on GitHub.
-
-**STATUS: [ ] MAIN PROJECT INTERVIEW-EXPLAINABLE**
+* [ ] Postman
 
 ---
 
-# 🎤 OCTOBER 14 — FULL MOCK INTERVIEW
+## 🏆 Milestone 4 — Portfolio Project
 
-## Round 1 — Aptitude
+**Target: 14 December**
 
-* [ ] 30 timed questions
-* [ ] Analyse mistakes
-* [ ] Record weak topics
-
-## Round 2 — Java
-
-Answer:
-
-* [ ] OOP
-* [ ] String
-* [ ] Collections
-* [ ] Exceptions
-* [ ] JVM basics
-* [ ] Overloading/overriding
-* [ ] Interface
-* [ ] Abstract class
-
-## Round 3 — SQL
-
-* [ ] 10 queries
-* [ ] 5 joins
-* [ ] 3 subqueries
-* [ ] 2 debugging questions
-
-## Round 4 — Spring Boot
-
-* [ ] DI
-* [ ] REST
-* [ ] Controller
-* [ ] Service
-* [ ] Repository
-* [ ] JPA
-* [ ] JWT
-* [ ] Exception handling
-
-## Round 5 — DSA
-
-Solve:
-
-* [ ] Two Sum
-* [ ] Valid Parentheses
-* [ ] Binary Search
-* [ ] Maximum Subarray
-* [ ] Valid Anagram
-
-## Round 6 — Project
-
-Explain Smart Campus Buddy:
-
-* [ ] Problem
-* [ ] Architecture
+* [ ] Smart Campus Buddy 2.0
+* [ ] GitHub
+* [ ] README
 * [ ] Database
-* [ ] APIs
-* [ ] Authentication
-* [ ] Challenges
-* [ ] Your contribution
-* [ ] Future improvements
+* [ ] REST APIs
+* [ ] Testing
+* [ ] Documentation
 
 ---
 
-# 📄 OCTOBER 15 — JOB-READY DAY
+## 🚀 Milestone 5 — Interview Ready
 
-## Resume
+**Target: 31 December**
 
-* [ ] One-page resume
-* [ ] Java skills
-* [ ] Spring Boot
+* [ ] Core Java
+* [ ] DSA
 * [ ] SQL
-* [ ] REST
-* [ ] JPA
-* [ ] Git
-* [ ] Projects
-* [ ] Education
-
-## GitHub
-
-* [ ] Profile README
-* [ ] Pin best repositories
-* [ ] Clean commit history
-* [ ] Project screenshots
-* [ ] Project README files
-* [ ] No unnecessary generated files
-
-## LinkedIn
-
-* [ ] Update headline
-* [ ] Update About
-* [ ] Add projects
-* [ ] Add GitHub
-* [ ] Post learning journey
-
-## Applications
-
-Start applying to:
-
-* [ ] Junior Java Developer
-* [ ] Java Backend Developer
-* [ ] Software Engineer — Java
-* [ ] Associate Software Engineer
-* [ ] Graduate Software Engineer
-* [ ] Backend Developer — Fresher
-* [ ] Trainee Software Engineer
-
-### Daily application target after readiness
-
-`5–10 targeted applications/day`
-
-### Referral target
-
-`2–5 genuine referral requests/day`
+* [ ] Spring Boot
+* [ ] Project
+* [ ] Aptitude
+* [ ] HR
+* [ ] Mock interviews
 
 ---
 
-# 🏁 OCTOBER 16 — FINAL READINESS DAY
+# 🎯 FINAL SELF-ASSESSMENT — 31 DECEMBER 2026
 
-## Final Technical Checklist
-
-### Java
-
-* [ ] Can code without tutorial
-* [ ] Can explain OOP
-* [ ] Can use Collections
-* [ ] Can handle exceptions
-
-### SQL
-
-* [ ] Can write SELECT
-* [ ] WHERE
-* [ ] GROUP BY
-* [ ] HAVING
-* [ ] JOIN
-* [ ] Subquery
-
-### Spring Boot
-
-* [ ] Can explain architecture
-* [ ] Can build REST CRUD
-* [ ] Can connect DB
-* [ ] Can use JPA
-* [ ] Can validate requests
-* [ ] Can handle exceptions
-
-### Security
-
-* [ ] Authentication
-* [ ] Authorization
-* [ ] JWT
-* [ ] BCrypt
-
-### DSA
-
-* [ ] Arrays
-* [ ] Strings
-* [ ] HashMap
-* [ ] Linked List
-* [ ] Stack
-* [ ] Queue
-* [ ] Binary Search
-* [ ] Big-O
-
-### Projects
-
-* [ ] Can explain every project
-* [ ] Can explain architecture
-* [ ] Can explain database
-* [ ] Can explain code decisions
-* [ ] Can explain challenges
-
-### Interview
-
-* [ ] Aptitude ready
-* [ ] Coding ready
-* [ ] Technical ready
-* [ ] Project ready
-* [ ] HR ready
+| Skill                | Score /10 |
+| -------------------- | --------: |
+| Core Java            |     __/10 |
+| OOP                  |     __/10 |
+| Collections          |     __/10 |
+| DSA                  |     __/10 |
+| SQL                  |     __/10 |
+| JDBC                 |     __/10 |
+| Spring               |     __/10 |
+| Spring Boot          |     __/10 |
+| REST API             |     __/10 |
+| JPA/Hibernate        |     __/10 |
+| Git/GitHub           |     __/10 |
+| Debugging            |     __/10 |
+| Project              |     __/10 |
+| Communication        |     __/10 |
+| Interview Confidence |     __/10 |
 
 ---
 
-# 📈 FINAL PROGRESS SCORECARD
+# 🔥 MY COMMITMENT
 
-| Metric                   | Target | Actual |
-| ------------------------ | -----: | -----: |
-| Java programs            |    40+ |    ___ |
-| HackerRank Java          |    15+ |    ___ |
-| SQL queries              |    60+ |    ___ |
-| HackerRank SQL           |    15+ |    ___ |
-| LeetCode                 |    25+ |    ___ |
-| GFG problems             |    10+ |    ___ |
-| InterviewBit             |     5+ |    ___ |
-| Aptitude questions       |   500+ |    ___ |
-| Java interview questions |    50+ |    ___ |
-| SQL interview questions  |    30+ |    ___ |
-| Spring Boot questions    |    40+ |    ___ |
-| DSA questions            |    30+ |    ___ |
-| CS questions             |    30+ |    ___ |
-| GitHub commits           |    30+ |    ___ |
-| Mini projects            |      3 |    ___ |
-| Main project             |      1 |    ___ |
-| Mock interviews          |     3+ |    ___ |
-| Applications             |    50+ |    ___ |
-| Referral requests        |    20+ |    ___ |
+> I will not measure my progress by how many tutorials I watched.
+
+> I will measure my progress by what I can **build, solve, explain, debug and improve without copying**.
+
+### Target:
+
+**Learn → Practice → Build → Debug → Explain → Commit → Repeat**
 
 ---
 
-# 📊 DAILY PROGRESS LOG
+# 🚀 STATUS
 
-Copy this for every day:
+**Start Date:** 15-09-2026
 
-```text
-## Day __ — DATE
+**Target Date:** 31-12-2026
 
-### 🎯 Today's Main Subject
--
+**Days Completed:** `0 / 108`
 
-### 🌅 Aptitude
-Topic:
-Questions:
-Score:
-Mistakes:
+**Overall Progress:** `0%`
 
-### ☀️ Concepts Completed
-- [ ]
-- [ ]
-- [ ]
+**Current Phase:** Core Java Foundation
 
-### 💻 Coding Problems
-- [ ]
-- [ ]
-- [ ]
+**Current Day:** Day 1
 
-### 🎤 Interview Questions
-- [ ]
-- [ ]
-- [ ]
-
-### 🏗️ Project Work
-- [ ]
-
-### ❌ Mistakes / Weak Areas
--
-
-### 📚 Revision
-- [ ]
-
-### 💾 GitHub
-Commit:
--
-
-### 📊 Daily Score
-Concept: __/10
-Coding: __/10
-Interview: __/10
-Aptitude: __/10
-
-### 🔥 Today's Status
-[ ] DONE
-[ ] NEED REVISION
-```
+**Current Focus:** Java Loops + Problem Solving
 
 ---
 
-# 🧠 PLATFORM STRATEGY
+## 💼 JOB-READY CHECKLIST
 
-| Platform          | Use It For                |
-| ----------------- | ------------------------- |
-| **HackerRank**    | Java + SQL fundamentals   |
-| **LeetCode**      | Coding interview problems |
-| **GeeksforGeeks** | DSA + Java concepts       |
-| **InterviewBit**  | Interview-oriented DSA    |
-| **IndiaBix**      | Aptitude + reasoning      |
-| **GitHub**        | Proof of work             |
+* [ ] Resume ready
+* [ ] GitHub portfolio ready
+* [ ] LinkedIn profile ready
+* [ ] Smart Campus Buddy 2.0 completed
+* [ ] At least 1 additional backend project completed
+* [ ] Java interview questions prepared
+* [ ] SQL interview questions prepared
+* [ ] Spring Boot interview questions prepared
+* [ ] DSA patterns practiced
+* [ ] Aptitude practiced
+* [ ] HR answers prepared
+* [ ] Mock interviews completed
+* [ ] Applications started
+* [ ] Referrals started
+* [ ] Technical interviews attended
+* [ ] Offer secured
 
-> Don't solve random problems just to increase the number.
->
-> **Every problem must teach a pattern.**
+# 💙 KEEP GOING
 
----
+**108 days. One direction. One skill stack. One target.**
 
-# 🧪 SUBJECT COMPLETION RULE
+**Java → DSA → SQL/JDBC → Spring Boot → Projects → Interviews → Job**
 
-A subject is **NOT DONE** when:
-
-```text
-❌ Watched videos
-❌ Read notes
-❌ Copied code
-❌ Memorized definitions
-```
-
-A subject becomes **DONE** when:
-
-```text
-✅ Understand concepts
-+
-✅ Write code independently
-+
-✅ Solve practice problems
-+
-✅ Explain interview questions
-+
-✅ Build something with it
-+
-✅ Debug basic errors
-```
-
----
-
-# 🚨 ANTI-PROCRASTINATION RULES
-
-### Rule 1
-
-No changing the main subject because another topic looks interesting.
-
-### Rule 2
-
-No 8-hour YouTube binge.
-
-### Rule 3
-
-If stuck for 20–30 minutes:
-
-```text
-Think → Debug → Search → Ask AI → Understand → Re-code
-```
-
-### Rule 4
-
-AI-generated code is NOT automatically your code.
-
-Before committing AI-assisted code:
-
-* [ ] I understand it
-* [ ] I can explain it
-* [ ] I can modify it
-* [ ] I can debug it
-
-### Rule 5
-
-Don't chase advanced topics before fundamentals.
-
----
-
-# 💼 INTERVIEW PIPELINE
-
-```text
-APTITUDE
-   ↓
-ONLINE ASSESSMENT
-   ↓
-CODING ROUND
-   ↓
-JAVA / SQL
-   ↓
-SPRING BOOT
-   ↓
-PROJECT DISCUSSION
-   ↓
-CS FUNDAMENTALS
-   ↓
-HR / MANAGERIAL
-   ↓
-OFFER
-```
-
----
-
-# 🎯 OCTOBER → DECEMBER MISSION
-
-After October 16:
-
-```text
-LEARN
-  ↓
-APPLY
-  ↓
-ATTEND INTERVIEWS
-  ↓
-IDENTIFY WEAKNESS
-  ↓
-FIX WEAKNESS
-  ↓
-APPLY AGAIN
-  ↓
-MORE INTERVIEWS
-  ↓
-OFFER
-```
-
-**Do NOT wait for 100% perfection before applying.**
-
-Interviewing itself becomes part of preparation.
-
----
-
-# 🏆 FINAL MISSION
-
-> **I am not trying to become a Java expert in 35 days.**
->
-> **I am building enough real Java Backend knowledge, coding ability, project experience and interview skill to earn my first Junior Java Backend opportunity.**
-
-### Target Window
-
-**13 September 2026 → 16 October 2026**
-
-### Primary Goal
-
-**BECOME INTERVIEW-READY.**
-
-### Next Goal
-
-**START INTERVIEWS + GATHER OFFERS.**
-
-### Long-Term Goal
-
-**Become a strong Java Backend Engineer through real production experience.**
-
----
-
-## 🔥 DAILY COMMITMENT
-
-```text
-☑ Aptitude
-☑ Learn
-☑ Code
-☑ Practice
-☑ Revise
-☑ Interview Questions
-☑ GitHub Commit
-☑ Repeat Tomorrow
-```
-
-# 🚀 BUILD. SOLVE. EXPLAIN. APPLY. GET HIRED.
