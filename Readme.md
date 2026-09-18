@@ -288,17 +288,17 @@ Use:
 
 ### Topics
 
-* Java program structure
-* Variables
-* Data types
-* Literals
-* Operators
-* Input
-* Type casting
-* if
-* if-else
-* nested if
-* switch
+* Java program structure ✅
+* Variables ✅
+* Data types ✅
+* Literals ✅
+* Operators ✅
+* Input ✅
+* Type casting ✅
+* if ✅
+* if-else ✅
+* nested if ✅
+* switch ✅
 
 ### Time
 
@@ -316,16 +316,16 @@ Git                       15 m
 
 HackerRank:
 
-* Java Stdin and Stdout I
-* Java If-Else
-* Java Stdin and Stdout II
-* Java Output Formatting
+* Java Stdin and Stdout I ✅
+* Java If-Else ✅
+* Java Stdin and Stdout II ✅
+* Java Output Formatting ✅
 
 GFG:
 
-* Swap Two Numbers
-* Last Digit of Number
-* Sum of N Numbers
+* Swap Two Numbers ✅
+* Last Digit of Number ✅
+* Sum of N Numbers ✅
 
 ### SCB
 
@@ -342,7 +342,7 @@ as simple Java classes.
 
 ### Git
 
-Commit:
+Commit: ✅
 
 ```text
 feat: complete java fundamentals practice
@@ -354,30 +354,30 @@ feat: complete java fundamentals practice
 
 ## Topics
 
-* for loop
-* while loop
-* do-while
-* nested loops
-* break
+* for loop ✅
+* while loop ✅
+* do-while ✅
+* nested loops ✅
+* break ✅
 * continue
 
 ### Problems
 
-* Factorial
-* Fibonacci
-* Prime
-* Palindrome number
-* Reverse number
+* Factorial ✅
+* Fibonacci ✅
+* Prime ✅
+* Palindrome number ✅
+* Reverse number ✅
 * Armstrong number
-* Sum of digits
-* Count digits
+* Sum of digits ✅
+* Count digits ✅
 * GCD
 * LCM
 
 HackerRank:
 
-* Java Loops I
-* Java Loops II
+* Java Loops I ✅
+* Java Loops II ✅
 
 GFG has dedicated conditional/loop practice.
 
