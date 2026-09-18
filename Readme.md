@@ -1,3 +1,1824 @@
+# JAVA BACKEND DEVELOPER — 30 DAY INTERVIEW & EMPLOYABILITY SPRINT
+
+**Duration:** 18 September 2026 → 17 October 2026
+**Target:** Java Backend Developer — Fresher
+**Primary Project:** Smart Campus Buddy 2.0
+**Primary Goal:** Become interview-ready + project-defensible + practically employable
+**Secondary Goal:** Aptitude + Reasoning + Verbal preparation
+**Strategy:** Learn → Code → Practice → Build SCB → Explain → Commit
+
+---
+
+# 0. THE RULE FOR THIS MONTH
+
+I am NOT trying to learn everything.
+
+I am trying to become good enough at a **small, relevant stack** to:
+
+1. Write Java without copying.
+2. Solve beginner/intermediate coding problems.
+3. Understand SQL and database relationships.
+4. Build REST APIs using Spring Boot.
+5. Connect Spring Boot to MySQL.
+6. Use JPA/Hibernate.
+7. Implement authentication basics.
+8. Test APIs.
+9. Use Git/GitHub properly.
+10. Explain my project confidently.
+11. Pass common Java/backend fresher technical rounds.
+12. Handle basic aptitude/reasoning/verbal rounds.
+
+---
+
+# 1. TARGET STACK
+
+## Core
+
+* Java
+* OOP
+* Collections
+* Exception Handling
+* Java 8+
+* DSA fundamentals
+
+## Database
+
+* SQL
+* MySQL
+* JDBC
+
+## Backend
+
+* Spring
+* Spring Boot
+* Spring MVC
+* REST API
+* Maven
+* JPA
+* Hibernate
+* Spring Data JPA
+
+## Backend Engineering
+
+* Layered Architecture
+* DTO
+* Validation
+* Global Exception Handling
+* Pagination
+* Sorting
+* Filtering
+* Logging basics
+
+## Security
+
+* Spring Security
+* BCrypt
+* JWT
+* Authentication
+* Authorization
+* Roles
+
+## Testing
+
+* JUnit
+* Mockito basics
+* MockMvc
+* Postman
+
+## Tools
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Maven
+* Postman
+* Swagger/OpenAPI
+
+## Frontend — ONLY enough for integration
+
+* HTML
+* CSS basics
+* JavaScript basics
+* Fetch API
+* JSON
+* REST API integration
+
+## Deployment — only basics this month
+
+* Environment variables
+* CORS
+* Production configuration
+* Basic deployment
+
+---
+
+# 2. WHAT I WILL NOT STUDY THIS MONTH
+
+These are intentionally postponed:
+
+* Advanced React
+* Angular
+* Microservices
+* Kafka
+* Kubernetes
+* Redis
+* Elasticsearch
+* GraphQL
+* Spring Cloud
+* Advanced AWS
+* Advanced Docker
+* Advanced System Design
+* DevOps
+* Advanced multithreading
+* Advanced DP
+* Advanced graph algorithms
+
+Reason:
+
+**These can wait. Java + SQL + Spring Boot + JPA + REST + project + DSA fundamentals have much higher immediate value for this goal.**
+
+---
+
+# 3. DAILY TIME BUDGET
+
+Target: approximately **7–8 focused hours**, not 12 hours of sitting with YouTube open.
+
+## Priority distribution
+
+| Area                      | Daily Target | Priority  |
+| ------------------------- | -----------: | --------- |
+| Core Java / Backend       |     3–3.5 hr | VERY HIGH |
+| Coding Practice / DSA     |    1–1.25 hr | HIGH      |
+| Smart Campus Buddy        |     1.5–2 hr | VERY HIGH |
+| Aptitude/Reasoning/Verbal |       45 min | MEDIUM    |
+| Interview revision        |    30–45 min | HIGH      |
+| Git/README                |    10–20 min | HIGH      |
+
+If you have only **6 hours** on a difficult day:
+
+```text
+Java/Backend        2.5 h
+SCB                 1.5 h
+Coding              1 h
+Aptitude            30 m
+Interview revision  30 m
+```
+
+Do NOT sacrifice the core backend block for aptitude.
+
+---
+
+# 4. DAILY STUDY METHOD
+
+Every technical topic follows:
+
+```text
+LEARN
+  ↓
+WRITE CODE YOURSELF
+  ↓
+SOLVE PROBLEMS
+  ↓
+USE IT IN SCB
+  ↓
+EXPLAIN IT WITHOUT NOTES
+  ↓
+COMMIT TO GITHUB
+```
+
+Never do:
+
+```text
+YouTube
+↓
+copy code
+↓
+run
+↓
+"completed"
+```
+
+That does not count.
+
+---
+
+# 5. YOUTUBE RULE
+
+Do NOT use 10 YouTube channels.
+
+## Primary Java/Spring channel: Telusko
+
+Use Telusko as the main video source for:
+
+* Core Java
+* JDBC
+* Hibernate
+* Spring
+* Spring Boot
+* Spring Security
+
+Telusko currently covers Java, Spring Boot, Hibernate, JDBC and Spring Security, so it can serve as one broad source instead of making you jump between channels.
+
+[Telusko YouTube channel](https://www.youtube.com/@Telusko?utm_source=chatgpt.com)
+
+## DSA: Kunal Kushwaha
+
+Use Kunal only for DSA/problem-solving concepts.
+
+His Java DSA material covers Java, arrays, searching, sorting, complexity, recursion, OOP, linked lists, stacks, queues, hashmaps, trees, etc.
+
+[Kunal Kushwaha YouTube](https://www.youtube.com/@KunalKushwaha?utm_source=chatgpt.com)
+
+## Optional Spring reference: Amigoscode
+
+Use only when a Spring/Security topic from the primary material is unclear.
+
+Amigoscode focuses heavily on Java, Spring Boot, Spring Security and production-oriented backend projects.
+
+**Do not binge multiple courses.**
+
+---
+
+# 6. PRACTICE SOURCES
+
+## Java fundamentals
+
+Primary:
+
+* HackerRank Java
+* GeeksforGeeks Java practice
+
+HackerRank currently has dedicated Java sections covering basics, strings, data structures, OOP and exception handling.
+
+GeeksforGeeks also has topic-wise Java coding practice and beginner Java exercises.
+
+## DSA
+
+Use:
+
+* LeetCode
+* GeeksforGeeks
+* HackerRank
+
+But DON'T attempt hundreds of problems.
+
+Target approximately:
+
+**40–50 carefully selected coding problems this month.**
+
+## SQL
+
+Use:
+
+* HackerRank SQL
+* GeeksforGeeks SQL
+* LeetCode Database
+
+## API practice
+
+Use:
+
+* Postman
+
+---
+
+# WEEK 1 — CORE JAVA FOUNDATION
+
+## DAY 1 — 18 SEP
+
+### Topics
+
+* Java program structure
+* Variables
+* Data types
+* Literals
+* Operators
+* Input
+* Type casting
+* if
+* if-else
+* nested if
+* switch
+
+### Time
+
+```text
+Java learning             2 h
+Java coding               2 h
+Basic problems            1 h
+Aptitude                  45 m
+Interview revision        30 m
+SCB domain thinking       45 m
+Git                       15 m
+```
+
+### Problems
+
+HackerRank:
+
+* Java Stdin and Stdout I
+* Java If-Else
+* Java Stdin and Stdout II
+* Java Output Formatting
+
+GFG:
+
+* Swap Two Numbers
+* Last Digit of Number
+* Sum of N Numbers
+
+### SCB
+
+Create:
+
+```text
+Student
+Event
+Complaint
+Room
+```
+
+as simple Java classes.
+
+### Git
+
+Commit:
+
+```text
+feat: complete java fundamentals practice
+```
+
+---
+
+# DAY 2 — 19 SEP
+
+## Topics
+
+* for loop
+* while loop
+* do-while
+* nested loops
+* break
+* continue
+
+### Problems
+
+* Factorial
+* Fibonacci
+* Prime
+* Palindrome number
+* Reverse number
+* Armstrong number
+* Sum of digits
+* Count digits
+* GCD
+* LCM
+
+HackerRank:
+
+* Java Loops I
+* Java Loops II
+
+GFG has dedicated conditional/loop practice.
+
+### Target
+
+Solve at least **8 problems without copying**.
+
+---
+
+# DAY 3 — 20 SEP
+
+## Topics
+
+* Methods
+* Parameters
+* Return values
+* static
+* instance methods
+* method overloading
+* varargs
+
+### Problems
+
+Write methods for:
+
+* prime check
+* palindrome
+* factorial
+* Fibonacci
+* max of 3
+* array sum
+* array max
+
+### Interview
+
+Be able to answer:
+
+> What is a method?
+
+> Method vs constructor?
+
+> static vs instance method?
+
+> Method overloading?
+
+---
+
+# DAY 4 — 21 SEP
+
+## Topics
+
+* Arrays
+* 1D arrays
+* 2D arrays
+* jagged arrays
+* Arrays class
+* traversal
+* searching
+* sorting basics
+
+### Problems
+
+* largest element
+* second largest
+* smallest
+* reverse array
+* sum
+* average
+* duplicate elements
+* frequency
+* rotate array
+* merge arrays
+
+---
+
+# DAY 5 — 22 SEP
+
+## Topics
+
+### String
+
+* String
+* String pool
+* immutability
+* `==`
+* `.equals()`
+* StringBuilder
+* StringBuffer
+
+### Problems
+
+* reverse string
+* palindrome
+* count vowels
+* count characters
+* duplicate characters
+* remove spaces
+* anagram
+* first non-repeated character
+
+### Interview
+
+You MUST be able to answer:
+
+> Why is String immutable?
+
+> `==` vs `.equals()`?
+
+> String vs StringBuilder?
+
+> StringBuilder vs StringBuffer?
+
+---
+
+# DAY 6 — 23 SEP
+
+## Topics — OOP
+
+* Class
+* Object
+* Constructor
+* this
+* super
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Interface
+* Overloading
+* Overriding
+
+### SCB
+
+Create:
+
+```text
+User
+Student
+Admin
+Faculty
+
+Event
+Complaint
+Room
+```
+
+Use inheritance/interfaces only where they make sense.
+
+### Interview practice
+
+Give a 30–60 second explanation for every OOP concept.
+
+---
+
+# DAY 7 — 24 SEP
+
+## Topics
+
+* Exception handling
+* checked exception
+* unchecked exception
+* try/catch
+* finally
+* throw
+* throws
+* custom exception
+
+### Mini project
+
+Build:
+
+```text
+Student Management System
+```
+
+Features:
+
+* add student
+* search student
+* update student
+* delete student
+* display students
+* exception handling
+
+### Weekly test
+
+Without notes:
+
+* 10 Java questions
+* 5 coding problems
+* 10 OOP questions
+
+---
+
+# WEEK 2 — COLLECTIONS + DSA + SQL
+
+# DAY 8 — 25 SEP
+
+## Collections
+
+Learn:
+
+* Collection
+* List
+* ArrayList
+* LinkedList
+* Set
+* HashSet
+* Map
+* HashMap
+
+### Problems
+
+* remove duplicates
+* frequency count
+* duplicate characters
+* word frequency
+* first unique character
+* student lookup using HashMap
+
+### Interview
+
+Know:
+
+```text
+ArrayList vs LinkedList
+HashSet vs ArrayList
+HashMap vs HashSet
+```
+
+---
+
+# DAY 9 — 26 SEP
+
+## Collections advanced
+
+* Iterator
+* Comparable
+* Comparator
+* TreeSet
+* TreeMap
+* Queue
+* PriorityQueue
+
+### Practice
+
+Create:
+
+```text
+List<Student>
+```
+
+Sort students by:
+
+* name
+* marks
+* department
+
+using Comparator.
+
+---
+
+# DAY 10 — 27 SEP
+
+## Java 8
+
+Learn:
+
+* Lambda
+* Functional Interface
+* Stream
+* filter
+* map
+* sorted
+* collect
+* forEach
+* Optional basics
+
+### Practice
+
+Using `List<Student>`:
+
+* filter students by department
+* find highest marks
+* sort students
+* count students
+* find students above 80
+* group by department
+
+---
+
+# DAY 11 — 28 SEP
+
+## DSA
+
+Learn:
+
+* Big-O
+* Time complexity
+* Space complexity
+* Linear search
+* Binary search
+* basic sorting
+
+### Problems
+
+LeetCode:
+
+* Two Sum
+* Binary Search
+* Contains Duplicate
+* Best Time to Buy and Sell Stock
+* Valid Anagram
+
+Don't chase difficulty.
+
+Your goal is understanding the pattern.
+
+---
+
+# DAY 12 — 29 SEP
+
+## SQL
+
+Learn:
+
+* database
+* table
+* row
+* column
+* primary key
+* foreign key
+* constraints
+
+Commands:
+
+```text
+CREATE
+INSERT
+SELECT
+UPDATE
+DELETE
+```
+
+Clauses:
+
+```text
+WHERE
+ORDER BY
+DISTINCT
+LIMIT
+```
+
+### SCB
+
+Design:
+
+```text
+students
+events
+complaints
+rooms
+feedback
+timetable
+```
+
+---
+
+# DAY 13 — 30 SEP
+
+## SQL
+
+Learn:
+
+* AND
+* OR
+* IN
+* BETWEEN
+* LIKE
+* NULL
+* aggregate functions
+* GROUP BY
+* HAVING
+
+### Problems
+
+Write:
+
+* count complaints
+* complaints by status
+* complaints by location
+* students by department
+* events by date
+* rooms by capacity
+
+---
+
+# DAY 14 — 1 OCT
+
+## SQL Relationships
+
+Learn:
+
+* primary key
+* foreign key
+* one-to-many
+* many-to-one
+* many-to-many
+* INNER JOIN
+* LEFT JOIN
+* subqueries
+* indexes
+* normalization
+* ACID basics
+
+### SCB
+
+Finalize database schema.
+
+### Git
+
+Commit:
+
+```text
+feat: design scb mysql database schema
+```
+
+---
+
+# WEEK 3 — JDBC + SPRING BOOT + REST
+
+# DAY 15 — 2 OCT
+
+## JDBC
+
+Learn:
+
+* JDBC
+* Connection
+* DriverManager
+* PreparedStatement
+* ResultSet
+* executeQuery
+* executeUpdate
+* SQLException
+* transactions
+
+### Build
+
+```text
+Java
+ ↓
+JDBC
+ ↓
+MySQL
+```
+
+Create Student CRUD.
+
+---
+
+# DAY 16 — 3 OCT
+
+## Spring fundamentals
+
+Learn:
+
+* Spring
+* Spring Boot
+* IoC
+* Dependency Injection
+* Bean
+* ApplicationContext
+* Component
+* Service
+* Repository
+* Controller
+
+### Build
+
+Create first Spring Boot application.
+
+---
+
+# DAY 17 — 4 OCT
+
+## REST API
+
+Learn:
+
+* HTTP
+* GET
+* POST
+* PUT
+* PATCH
+* DELETE
+* status codes
+
+Spring:
+
+* `@RestController`
+* `@RequestMapping`
+* `@GetMapping`
+* `@PostMapping`
+* `@PutMapping`
+* `@DeleteMapping`
+* `@RequestBody`
+* `@PathVariable`
+* `@RequestParam`
+
+### Build
+
+```text
+/api/students
+```
+
+Complete CRUD API.
+
+---
+
+# DAY 18 — 5 OCT
+
+## MySQL + Spring Boot
+
+Configure:
+
+```text
+Spring Boot
+ ↓
+MySQL
+```
+
+Learn:
+
+* application.properties
+* datasource
+* connection configuration
+* Maven dependencies
+
+### Target
+
+POST:
+
+```text
+/api/students
+```
+
+must save data into MySQL.
+
+GET must retrieve it.
+
+---
+
+# DAY 19 — 6 OCT
+
+## JPA + Hibernate
+
+Learn:
+
+* ORM
+* JPA
+* Hibernate
+* Entity
+* `@Entity`
+* `@Id`
+* `@GeneratedValue`
+* `@Column`
+* JpaRepository
+
+### Build
+
+Student entity + repository.
+
+---
+
+# DAY 20 — 7 OCT
+
+## Layered Architecture
+
+Implement:
+
+```text
+Controller
+   ↓
+Service
+   ↓
+Repository
+   ↓
+MySQL
+```
+
+Learn:
+
+* business logic
+* dependency injection
+* constructor injection
+* separation of concerns
+
+### SCB
+
+Complete:
+
+```text
+Student Module
+```
+
+---
+
+# DAY 21 — 8 OCT
+
+## DTO + Validation
+
+Learn:
+
+* DTO
+* Request DTO
+* Response DTO
+* Entity vs DTO
+* `@Valid`
+* `@NotBlank`
+* `@Email`
+* `@Size`
+* validation errors
+
+### SCB
+
+Create:
+
+```text
+StudentRequest
+StudentResponse
+```
+
+---
+
+# DAY 22 — 9 OCT
+
+## Exception Handling
+
+Learn:
+
+* custom exception
+* ResourceNotFoundException
+* `@ExceptionHandler`
+* `@RestControllerAdvice`
+* global error response
+
+### SCB
+
+Implement proper error handling for:
+
+```text
+Student not found
+Complaint not found
+Invalid request
+Duplicate email
+```
+
+---
+
+# WEEK 4 — SCB + SECURITY + TESTING + INTERVIEW
+
+# DAY 23 — 10 OCT
+
+## Complaint Module
+
+Build:
+
+```text
+POST /api/complaints
+GET /api/complaints
+GET /api/complaints/{id}
+PUT /api/complaints/{id}
+DELETE /api/complaints/{id}
+```
+
+Fields:
+
+```text
+id
+student
+location
+description
+status
+createdAt
+```
+
+### Must understand
+
+```text
+Controller
+Service
+Repository
+Entity
+DTO
+Database
+```
+
+---
+
+# DAY 24 — 11 OCT
+
+## Events + Rooms
+
+Build:
+
+```text
+Event CRUD
+Room CRUD
+```
+
+Add:
+
+* validation
+* exception handling
+* pagination basics
+* sorting
+* filtering
+
+Example:
+
+```text
+GET /api/complaints?status=PENDING
+```
+
+---
+
+# DAY 25 — 12 OCT
+
+## Relationships
+
+Implement:
+
+```text
+Student
+   ↓
+Complaints
+```
+
+Learn:
+
+* `@OneToMany`
+* `@ManyToOne`
+* `@JoinColumn`
+
+Understand the database relationship first.
+
+Do not blindly memorize annotations.
+
+---
+
+# DAY 26 — 13 OCT
+
+## Spring Security
+
+Learn:
+
+* Authentication
+* Authorization
+* BCrypt
+* PasswordEncoder
+* Roles
+* Spring Security basics
+* JWT concept
+* JWT authentication flow
+
+SCB:
+
+```text
+STUDENT
+ADMIN
+```
+
+Student:
+
+```text
+view events
+submit complaint
+view timetable
+```
+
+Admin:
+
+```text
+manage events
+manage complaints
+manage rooms
+```
+
+---
+
+# DAY 27 — 14 OCT
+
+## Testing + API Documentation
+
+Learn:
+
+* JUnit
+* Mockito basics
+* MockMvc
+* Postman
+* Swagger/OpenAPI
+
+Test:
+
+```text
+Create student
+Get student
+Invalid student
+Create complaint
+Get complaint
+Unauthorized request
+```
+
+Document your APIs.
+
+---
+
+# DAY 28 — 15 OCT
+
+## Frontend Integration
+
+Connect your existing SCB frontend:
+
+```text
+HTML/CSS/JS
+      ↓
+fetch()
+      ↓
+Spring Boot REST API
+      ↓
+JPA/Hibernate
+      ↓
+MySQL
+```
+
+Do NOT spend the day improving CSS.
+
+The backend is the priority.
+
+---
+
+# DAY 29 — 16 OCT
+
+# PROJECT + INTERVIEW DAY
+
+No major new technology.
+
+Prepare:
+
+## Project
+
+Be able to explain:
+
+```text
+1. What problem does SCB solve?
+2. Why did you rebuild the backend?
+3. Why Java?
+4. Why Spring Boot?
+5. Why MySQL?
+6. Why not MongoDB?
+7. Why JPA/Hibernate?
+8. Explain your architecture.
+9. Explain one API end-to-end.
+10. Explain database relationships.
+11. How does authentication work?
+12. How do you handle exceptions?
+13. How did you validate input?
+14. How did you test APIs?
+15. What was your biggest bug?
+16. How did you debug it?
+17. What would you improve?
+```
+
+---
+
+# DAY 30 — 17 OCT
+
+# FULL MOCK INTERVIEW
+
+## Round 1 — Coding
+
+5 problems:
+
+* Array
+* String
+* HashMap
+* Two pointer
+* Basic searching/sorting
+
+## Round 2 — Java
+
+20 questions.
+
+## Round 3 — SQL
+
+15 questions.
+
+## Round 4 — Spring Boot
+
+15 questions.
+
+## Round 5 — Project
+
+15 questions.
+
+## Round 6 — HR
+
+10 questions.
+
+---
+
+# 7. DSA PROBLEM TARGET
+
+Do NOT attempt 150 problems in this month.
+
+Target:
+
+## Java logic
+
+~25 problems
+
+## DSA
+
+~20–25 problems
+
+Total:
+
+**45–50 quality problems.**
+
+Recommended progression:
+
+### Arrays
+
+* Two Sum
+* Contains Duplicate
+* Maximum Subarray
+* Move Zeroes
+* Best Time to Buy and Sell Stock
+* Merge Sorted Array
+
+### Strings
+
+* Valid Anagram
+* Valid Palindrome
+* Reverse String
+* First Unique Character
+* Longest Common Prefix
+
+### HashMap/HashSet
+
+* Two Sum
+* Contains Duplicate
+* Frequency problems
+* Group Anagrams
+
+### Two Pointer
+
+* Valid Palindrome
+* Two Sum II
+* Remove Duplicates from Sorted Array
+
+### Sliding Window
+
+* Maximum Average Subarray
+* Longest Substring Without Repeating Characters
+
+### Binary Search
+
+* Binary Search
+* Search Insert Position
+
+### Stack
+
+* Valid Parentheses
+
+### Linked List
+
+* Reverse Linked List
+* Linked List Cycle
+
+That is enough for this month.
+
+---
+
+# 8. APTITUDE / REASONING / VERBAL
+
+These should NOT consume your Java backend time.
+
+## Daily: 45 minutes
+
+### 20 min — Aptitude
+
+Rotate:
+
+* Number System
+* Percentages
+* Ratio
+* Average
+* Profit & Loss
+* Time & Work
+* Time Speed Distance
+* Simple/Compound Interest
+* Probability
+* Permutation & Combination
+* Data Interpretation
+
+### 15 min — Reasoning
+
+Rotate:
+
+* Number Series
+* Coding-Decoding
+* Directions
+* Blood Relations
+* Syllogisms
+* Seating Arrangement
+* Puzzles
+
+### 10 min — Verbal
+
+* Vocabulary
+* Grammar
+* Sentence Correction
+* Reading Comprehension
+
+---
+
+# 9. INTERVIEW REVISION SYSTEM
+
+Every night:
+
+## 30–45 minutes
+
+Write and speak answers to:
+
+### Java
+
+5 questions
+
+### SQL
+
+3 questions
+
+### Spring/backend
+
+3 questions
+
+### Project
+
+2 questions
+
+Total:
+
+**13 questions/day**
+
+Don't just read answers.
+
+Say them aloud.
+
+---
+
+# 10. DAILY GITHUB RULE
+
+Every day must produce something.
+
+Examples:
+
+```text
+Day 1
+java-fundamentals
+
+Day 2
+loops-practice
+
+Day 3
+methods-practice
+
+Day 4
+arrays-practice
+
+...
+
+Day 18
+first-spring-boot-api
+
+Day 19
+jpa-student-module
+
+...
+
+Day 23
+complaint-api
+
+Day 26
+jwt-security
+
+Day 27
+tests-and-swagger
+```
+
+Commit format:
+
+```text
+feat: add student CRUD API
+```
+
+```text
+fix: handle complaint not found exception
+```
+
+```text
+test: add complaint service tests
+```
+
+```text
+docs: update API documentation
+```
+
+---
+
+# 11. SMART CAMPUS BUDDY FINAL ARCHITECTURE
+
+By October 17, aim for:
+
+```text
+                   SMART CAMPUS BUDDY
+                           |
+                    HTML/CSS/JS
+                           |
+                       REST API
+                           |
+                    Spring Boot
+                           |
+              +------------+------------+
+              |            |            |
+         Controller     Service      Security
+              |            |            |
+              +------------+------------+
+                           |
+                          DTO
+                           |
+                     JPA/Hibernate
+                           |
+                       Repository
+                           |
+                          MySQL
+```
+
+Modules:
+
+```text
+Authentication
+Students
+Events
+Complaints
+Rooms
+Timetable
+Feedback
+```
+
+Minimum completed modules:
+
+**Students + Complaints + Events + Rooms + Authentication**
+
+The other modules can be basic if time becomes tight.
+
+---
+
+# 12. WHAT "INTERVIEW READY" MEANS FOR YOU
+
+By October 17, you don't need to know everything.
+
+You should be able to do these without help:
+
+### Java
+
+Write basic programs without copying.
+
+### OOP
+
+Explain every major OOP principle with an SCB example.
+
+### Collections
+
+Choose between:
+
+```text
+ArrayList
+HashSet
+HashMap
+```
+
+and explain why.
+
+### SQL
+
+Write joins and aggregation queries.
+
+### JDBC
+
+Explain how Java communicates with MySQL.
+
+### Spring Boot
+
+Create a REST API from scratch.
+
+### JPA
+
+Explain:
+
+```text
+Entity
+Repository
+Hibernate
+ORM
+```
+
+### Architecture
+
+Explain:
+
+```text
+Controller
+↓
+Service
+↓
+Repository
+↓
+Database
+```
+
+### Security
+
+Explain authentication vs authorization and basic JWT flow.
+
+### Testing
+
+Test APIs using Postman and understand basic JUnit/Mockito.
+
+### Git
+
+Create branch → commit → push → pull request → merge.
+
+### Project
+
+Explain SCB **without opening the source code**.
+
+That last point is extremely important.
+
+---
+
+# 13. PRIORITY ORDER
+
+If time becomes extremely tight, use this order:
+
+```text
+                    PRIORITY
+
+1. Java Core + OOP          ██████████
+2. Spring Boot + REST       ██████████
+3. SQL + MySQL              █████████
+4. JPA/Hibernate             █████████
+5. SCB Project               █████████
+6. Collections + DSA         ████████
+7. Git/GitHub                ██████
+8. Spring Security/JWT       ██████
+9. Testing/Postman           █████
+10. Aptitude                 ████
+11. Reasoning                ███
+12. Verbal                   ██
+13. Frontend                 ██
+```
+
+This is deliberate.
+
+**Your objective is Java backend employability, not full-stack completeness.**
+
+---
+
+# 14. THE 30-DAY SUCCESS CHECKLIST
+
+## Java
+
+* [ ] Fundamentals
+* [ ] Loops
+* [ ] Methods
+* [ ] Arrays
+* [ ] Strings
+* [ ] OOP
+* [ ] Exceptions
+* [ ] Collections
+* [ ] Java 8
+
+## SQL
+
+* [ ] CRUD
+* [ ] Constraints
+* [ ] Joins
+* [ ] Aggregation
+* [ ] Group By
+* [ ] Subqueries
+* [ ] Relationships
+* [ ] Indexes
+* [ ] Transactions
+* [ ] Normalization
+
+## Backend
+
+* [ ] JDBC
+* [ ] Maven
+* [ ] Spring
+* [ ] Spring Boot
+* [ ] REST
+* [ ] JPA
+* [ ] Hibernate
+* [ ] DTO
+* [ ] Validation
+* [ ] Exception Handling
+* [ ] Pagination
+* [ ] Filtering
+
+## Security
+
+* [ ] Authentication
+* [ ] Authorization
+* [ ] BCrypt
+* [ ] JWT
+* [ ] Roles
+
+## Testing
+
+* [ ] Postman
+* [ ] JUnit
+* [ ] Mockito basics
+* [ ] MockMvc basics
+* [ ] Swagger
+
+## Project
+
+* [ ] Student API
+* [ ] Complaint API
+* [ ] Event API
+* [ ] Room API
+* [ ] Authentication
+* [ ] MySQL
+* [ ] Frontend integration
+* [ ] README
+* [ ] Git history
+* [ ] Deployment/basic production setup
+
+## DSA
+
+* [ ] Arrays
+* [ ] Strings
+* [ ] HashMap
+* [ ] HashSet
+* [ ] Two Pointer
+* [ ] Sliding Window
+* [ ] Binary Search
+* [ ] Stack
+* [ ] Linked List basics
+* [ ] Big-O
+
+## Aptitude
+
+* [ ] Number System
+* [ ] Percentage
+* [ ] Ratio
+* [ ] Average
+* [ ] Profit/Loss
+* [ ] Time/Work
+* [ ] Speed/Distance
+* [ ] Probability
+* [ ] DI
+
+## Reasoning
+
+* [ ] Series
+* [ ] Coding-Decoding
+* [ ] Directions
+* [ ] Blood Relations
+* [ ] Syllogism
+* [ ] Seating
+* [ ] Puzzles
+
+## Verbal
+
+* [ ] Grammar
+* [ ] Vocabulary
+* [ ] Sentence Correction
+* [ ] RC
+
+---
+
+# 15. FINAL RULE
+
+For these 30 days:
+
+**Do not measure progress by hours watched.**
+
+Measure:
+
+```text
+Problems solved
++
+Code written
++
+SCB features completed
++
+Git commits
++
+Interview questions answered
+```
+
+Your daily minimum:
+
+```text
+✓ Learn one technical block
+✓ Write code
+✓ Solve problems
+✓ Build one small thing
+✓ Answer interview questions
+✓ Commit to GitHub
+✓ Do aptitude/reasoning/verbal
+```
+
+If a topic takes longer than expected, **do not destroy the entire schedule trying to achieve perfection.**
+
+Get the concept to interview level, implement it, and move forward.
+
+The goal on October 17 is not:
+
+> "I completed every Java topic."
+
+The goal is:
+
+> **"Give me a laptop, Java, Spring Boot and MySQL. I can build a REST backend, debug it, explain the architecture, query the database, test the APIs, use Git, and defend my Smart Campus Buddy project in an interview."**
+
+That is the level this sprint is designed to reach.
+
 # 🚀 JAVA BACKEND DEVELOPER BOOTCAMP 2026
 
 > **Goal:** Become a Job-Ready Java Backend Developer
