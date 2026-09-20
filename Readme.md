@@ -391,7 +391,7 @@ Solve at least **8 problems without copying**.
 
 ## Topics
 
-* Methods
+* Methods ✅
 * Parameters
 * Return values
 * static
